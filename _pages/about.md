@@ -10,13 +10,13 @@ redirect_from:
 **Professor**
 
 **State Key Laboratory of Reliability and Intelligence of Electrical Equipment**
-======
+
 **[School of Electrical Engineering](http://ee.hebut.edu.cn/),[Hebei University of Technology](http://www.hebut.edu.cn/)**
-======
+
 **Address:No. 8 Guangrongdao, Hongqiao, Tianjin, 300130, China**
-======
+
 **E-mail:firstname.lastname@hebut.edu.cn**
-======
+
 
 A data-driven personal website
 ======
