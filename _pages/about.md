@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+*****
 **Professor**
 **State Key Laboratory of Reliability and Intelligence of Electrical Equipment**
 **[School of Electrical Engineering](http://ee.hebut.edu.cn/),[Hebei University of Technology](http://www.hebut.edu.cn/)**
