@@ -1,5 +1,5 @@
 ---
-title: "(DASFAA2017)Location-Aware News Recommendation Using Deep Localized Semantic Analysis"
+title: "DASFAA2017: Location-Aware News Recommendation Using Deep Localized Semantic Analysis"
 collection: publications
 permalink: /publication/DASFAA2017
 excerpt: '
