@@ -54,4 +54,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  [**More Details**](https://zhx-hebut.github.io/publications/)
+  [**More Details**](https://zhx-hebut.github.io//publications/)
