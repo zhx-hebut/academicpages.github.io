@@ -1,10 +1,19 @@
 # main links links
 main:
+  - title: "Employment and Education"
+    url: /education/
+  
   - title: "Publications"
     url: /publications/    
 
-  - title: "Awards"
+  - title: "Professional Services"
+    url: /services/
+
+  - title: "Grands and Awards"
     url: /award/    
+  
+  - title: "Students"
+    url: /students/
     
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
