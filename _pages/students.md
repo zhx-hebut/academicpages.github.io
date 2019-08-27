@@ -5,7 +5,7 @@ permalink: /students/
 author_profile: true
 
 ---
--  Yuhang Song, D.Phil (Oxford, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2018-
+-  [Yuhang Song](https://www.cs.ox.ac.uk/people/yuhang.song/), D.Phil (Oxford, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2018-
 -  Chang Qi, Master (HeBUT), 2018-  
 -  Bo Wang, Master (HeBUT), 2018-  
 -  Di Yuan, Master (HeBUT), 2018-  
