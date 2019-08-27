@@ -7,7 +7,7 @@ excerpt: '
 
 '
 date: 2013-04-08
-venue: '6th International Congress on Image and Signal Processing (CISP), 2013. (EI & ISTP)'
+venue: '6th International Congress on Image and Signal Processing (CISP), (EI & ISTP)'
 
 ---
 **Authors:** **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han.    
