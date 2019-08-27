@@ -9,32 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+-  Jun 2018 - Now: **Professor**  
+State Key Laboratory of Reliability and Intelligence of Electrical Equipment  
+School of Electrical Engineering, Hebei University of Technology, China
+-  Jul 2018 - Now: **Visiting Researcher and External D.Phil Supervisor**    
+Department of Computer Science, University of Oxford, United Kingdom  
+-  Dec 2017 - Jul 2018: **Research Associate**  
+Department of Computer Science, University of Oxford, United Kingdom  
+-  Nov 2014 - Oct 2015: **Research Assistant**  
+Department of Computer Science, University of Oxford, United Kingdom  
+-  Mar 2012 - Sep 2013: **Analyst Researcher**  
+School of Electrical and Computer Engineering, RMIT University, Australia  
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-  Oct 2013 - Nov 2017: **Doctor of Philosophy (D.Phil) in Computer Science  **
+Department of Computer Science, University of Oxford, United Kingdom
+-  Feb 2011 - Aug 2012: **Master of Philosophy (M.Phil) in Computer Science  **
+Department of Computing and Information Systems, University of Melbourne, Australia
+-  Feb 2010 - Feb 2011: **Master of Information Technology  **
+Department of Computing and Information Systems, University of Melbourne, Australia  
+-  Sep 2005 - Jul 2009: **Bachelor of Engineering  **
+School of Info. and Comm. Engineering, Beijing University of Posts and Telecomm, China
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -42,18 +42,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  [**More Details**](https://deepblue666.github.io//publications/)
+
   
-Teaching
+Professional Services
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-  Journal Reviewer: IEEE Access  
+-  Session Chair: IJCAI 2019
+-  PC member: IJCAI 2019, AAAI 2020
+-  External Reviewer: IJCAI 2017, AAAI 2016, AAAI 2015, ICDE 2012, DASFAA 2012, APWeb 2012
