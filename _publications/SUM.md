@@ -6,8 +6,8 @@ excerpt: '
 **Authors:** **Zhenghua Xu**, Thomas Lukasiewicz and Oana TifreaMarciuska.
 
 '
-date: 2013-04-08
-venue: 'The 8th International Conference on Scalable Uncertainty Management (SUM), 2014. **(EI )**'
+date: 2014-04-08
+venue: 'The 8th International Conference on Scalable Uncertainty Management (SUM), (EI )'
 
 ---
 **Authors:** **Zhenghua Xu**, Thomas Lukasiewicz and Oana TifreaMarciuska.    
