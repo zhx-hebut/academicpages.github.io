@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Download Resume Here 
+
+[English Version ](http://zhx-hebut.github.io/files/cv.pdf)
 
 Employment
 ======
@@ -36,6 +40,14 @@ Department of Computing and Information Systems, University of Melbourne, Austra
 School of Info. and Comm. Engineering, Beijing University of Posts and Telecomm, China
 
 
+Professional Services
+======
+-  Journal Reviewer: IEEE Access  
+-  Session Chair: IJCAI 2019
+-  PC member: IJCAI 2019, AAAI 2020
+-  External Reviewer: IJCAI 2017, AAAI 2016, AAAI 2015, ICDE 2012, DASFAA 2012, APWeb 2012
+
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -43,11 +55,3 @@ Publications
   {% endfor %}</ul>
   
   [**More Details**](https://deepblue666.github.io//publications/)
-
-  
-Professional Services
-======
--  Journal Reviewer: IEEE Access  
--  Session Chair: IJCAI 2019
--  PC member: IJCAI 2019, AAAI 2020
--  External Reviewer: IJCAI 2017, AAAI 2016, AAAI 2015, ICDE 2012, DASFAA 2012, APWeb 2012
