@@ -33,4 +33,4 @@ deep learning and negative sampling can dramatically enhance the model’s train
 (and sometimes even better) training quality and
 recommendation performance.
 
-[[Download paper here]](http://zhx-hebut.github.io/files/IJCAI2017.pdf)
+[[Download paper here]](https://www.ijcai.org/proceedings/2017/0446.pdf)
