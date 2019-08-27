@@ -44,7 +44,7 @@ Professional Services
 ======
 -  Journal Reviewer: IEEE Access  
 -  Session Chair: IJCAI 2019
--  PC member: IJCAI 2019, AAAI 2020
+-  PC member: AAAI 2020, IJCAI 2019
 -  External Reviewer: IJCAI 2017, AAAI 2016, AAAI 2015, ICDE 2012, DASFAA 2012, APWeb 2012
 
 
@@ -54,4 +54,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  [**More Details**](https://deepblue666.github.io//publications/)
+  [**More Details**](https://zhx-hebut.github.io/publications/)
