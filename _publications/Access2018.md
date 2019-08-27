@@ -1,7 +1,7 @@
 ---
 title: "Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity"
 collection: publications
-permalink: /publication/Access2018.md
+permalink: /publication/Access2018
 excerpt: '
 **Authors** : **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.
 
