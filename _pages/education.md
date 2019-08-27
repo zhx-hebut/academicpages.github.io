@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-Employment
+>**Employment**  
 ======
 -  Jun 2018 - Now: **Professor**
 State Key Laboratory of Reliability and Intelligence of Electrical Equipment
@@ -22,7 +22,7 @@ Department of Computer Science, University of Oxford, United Kingdom
 School of Electrical and Computer Engineering, RMIT University, Australia
 
 
-Education
+>**Education**  
 ======
 -  Oct 2013 - Nov 2017: **Doctor of Philosophy (D.Phil) in Computer Science**  
 Department of Computer Science, University of Oxford, United Kingdom
