@@ -24,11 +24,11 @@ School of Electrical and Computer Engineering, RMIT University, Australia
 
 Education
 ======
--  Oct 2013 - Nov 2017: **Doctor of Philosophy (D.Phil) in Computer Science  **
+-  Oct 2013 - Nov 2017: **Doctor of Philosophy (D.Phil) in Computer Science**  
 Department of Computer Science, University of Oxford, United Kingdom
--  Feb 2011 - Aug 2012: **Master of Philosophy (M.Phil) in Computer Science  **
+-  Feb 2011 - Aug 2012: **Master of Philosophy (M.Phil) in Computer Science**  
 Department of Computing and Information Systems, University of Melbourne, Australia
--  Feb 2010 - Feb 2011: **Master of Information Technology  **
+-  Feb 2010 - Feb 2011: **Master of Information Technology**  
 Department of Computing and Information Systems, University of Melbourne, Australia
--  Sep 2005 - Jul 2009: **Bachelor of Engineering  **
+-  Sep 2005 - Jul 2009: **Bachelor of Engineering**  
 School of Info. and Comm. Engineering, Beijing University of Posts and Telecomm, China
