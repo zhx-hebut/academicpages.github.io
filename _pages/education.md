@@ -8,7 +8,8 @@ author_profile: true
 
 
 >**Employment**  
-======
+
+
 -  Jun 2018 - Now: **Professor**
 State Key Laboratory of Reliability and Intelligence of Electrical Equipment
 School of Electrical Engineering, Hebei University of Technology, China
@@ -23,7 +24,8 @@ School of Electrical and Computer Engineering, RMIT University, Australia
 
 
 >**Education**  
-======
+
+
 -  Oct 2013 - Nov 2017: **Doctor of Philosophy (D.Phil) in Computer Science**  
 Department of Computer Science, University of Oxford, United Kingdom
 -  Feb 2011 - Aug 2012: **Master of Philosophy (M.Phil) in Computer Science**  
