@@ -25,7 +25,7 @@ author_profile: true
 -  Zhoutao Yu, Master (HeBUT), 2019-
 -  Xudong Zhang, Master (HeBUT), 2019-
 
-**visiting students**  
+**Visiting students**  
 -----
 -  Xianyuan Wang, CSC visiting PhD in Oxford (from University of Electronic Science and Technology of China, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2018-2019  
 -  Haozhe Lin, CSC visiting PhD in Oxford (from Tsinghua University, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2019-2020  
