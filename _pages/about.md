@@ -30,6 +30,7 @@ E-mail:firstname.lastname@hebut.edu.cn
 -----
 
 [1. Diversity-Driven Extensible Hierarchical Reinforcement Learning, AAAI2019, CCF A](https://zhx-hebut.github.io/publication/AAAI2019)  
+
 [2. Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment, ICASSP2019, CCF B](https://zhx-hebut.github.io/publication/ICASSP2019)  
 
 [3. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model, IJCAI2017, CCF A](https://zhx-hebut.github.io/publication/IJCAI2017)  
