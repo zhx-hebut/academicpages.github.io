@@ -13,5 +13,5 @@ Download Resume Here
 
 [English Version ](http://zhx-hebut.github.io/files/cv.pdf)
 
-[Chinese Version ](http://zhx-hebut.github.io/files/cv-cn.pdf)
+[Chinese Version ](http://zhx-hebut.github.io/files/cv_cn.pdf)
 
