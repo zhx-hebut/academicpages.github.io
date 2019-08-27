@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhenghua Xu / HomePage"
 title_separator          : "-"
-name                     : &name "Zhenghua Xu"
+name                     : &name "Prof. Zhenghua Xu"
 description              : &description "personal description"
 url                      : https://zhx-hebut.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
