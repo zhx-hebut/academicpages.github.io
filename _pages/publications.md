@@ -34,9 +34,19 @@ Published in *The 44th International Conference on Acoustics, Speech, and Signal
 **Authors** : Bo Li, Zehua Cheng, **Zhenghua Xu***, Wei Ye, Thomas Lukasiewicz and Shikun Zhang  
 [[Download paper here]](http://zhx-hebut.github.io/files/ICASSP2019.pdf)  [[Code Release]](https://github.com/limberc/BPIE-BiSRNN)  
 
-## 5. [DASFFA2017: ]
+## 5. [DASFAA2017: Location-Aware News Recommendation Using Deep Localized Semantic Analysis](https://zhx-hebut.github.io/publication/DASFAA2017)  
+Published in *The 22nd International Conference on Database Systems for Advanced Applications (DASFAA), 2017. **(CCF Rank B, Acceptance rate: 24.3%)***  
+**Authors** : Cheng Chen, Thomas Lukasiewicz, Xiangwu Meng and **Zhenghua Xu** (co-first author, in alphabetical order)  
+[[Download paper here]](http://zhx-hebut.github.io/files/DASFAA2017.pdf)  
 
-## 6. [CIKM2016:  ]  
+## 6. [CIKM2016: Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling](https://zhx-hebut.github.io/publication/CIKM2016)   
+Published in *The 25th ACM International Conference on Information and Knowledge Management (CIKM),2016. **(CCF Rank B, Acceptance rate: 28.8%)***  
+**Authors** : **Zhenghua Xu**, Cheng Chen, Thomas Lukasiewicz, Yishu Miao and Xiangwu Meng
+[[Download paper here]](http://zhx-hebut.github.io/files/CIKM2016.pdf)
 
-## 7. [EDBT2012:  ]
+## 7. [EDBT2012: An Adaptive Online Algorithm for Time Series Segmentation with Error Bound Guarantee](https://zhx-hebut.github.io/publication/EDBT2012)   
+Published in *The 15th International Conference on Extending Database Technology (EDBT), 2012. **(CCF Rank B, Acceptance rate: 22.5%)***  
+**Authors** : **Zhenghua Xu**, Rui Zhang, Ramamohanarao Kotagiri and Udaya Parampalli  
+[[Download paper here]](https://people.eng.unimelb.edu.au/zr/publications/EDBT2012_OnlineSeriesSegmentation.pdf)  
+
 
