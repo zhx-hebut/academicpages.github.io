@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhenghua XU"
+title: "Prof. Zhenghua XU"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
