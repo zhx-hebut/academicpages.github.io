@@ -25,8 +25,8 @@ Published in *The International Joint Conference on Artificial Intelligence (IJC
 [[Download paper here]](https://www.ijcai.org/proceedings/2017/0446.pdf)
 
 ## 3. [ICDE2013: Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction.](https://zhx-hebut.github.io/publication/ICDE2013) 
-Published in *The 29th IEEE International Conference on Data Engineering (ICDE),2013. **(CCF Rank A, Acceptance rate: 19.8%, Number of Google Scholar citaions: 200+, Number of SCI-E citaions: 60+)***
-**Authors** : Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu***
+Published in *The 29th IEEE International Conference on Data Engineering (ICDE),2013. **(CCF Rank A, Acceptance rate: 19.8%, Number of Google Scholar citaions: 200+, Number of SCI-E citaions: 60+)***  
+**Authors** : Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu***  
 [[Download paper here]](http://zhx-hebut.github.io/files/ICDE2013.pdf)
 
 ## 4. [ICASSP2019: Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment.](https://zhx-hebut.github.io/publication/ICASSP2019)   
@@ -49,4 +49,19 @@ Published in *The 15th International Conference on Extending Database Technology
 **Authors** : **Zhenghua Xu**, Rui Zhang, Ramamohanarao Kotagiri and Udaya Parampalli  
 [[Download paper here]](https://people.eng.unimelb.edu.au/zr/publications/EDBT2012_OnlineSeriesSegmentation.pdf)  
 
+>**Journal articles**  
+
+## 8. [Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity](https://zhx-hebut.github.io/publication/Access2018)  
+Published in *IEEE Access,2018. **(SCI JCR Q1, IF: 4.098)***  
+**Authors** : **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  
+[[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8396258)  
+
+## 9. [Location-Aware Personalized News Recommendation With Deep Semantic Analysis](https://zhx-hebut.github.io/publication/Access2017)  
+Published in *IEEE Access,2017. **(SCI JCR Q1, IF: 4.098)***  
+**Authors** : Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz  
+[[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7823033)
+
+>**Other papers**  
+
+## 10. []
 
