@@ -10,17 +10,17 @@ author_profile: true
 >**Employment**  
 
 
--  Jun 2018 - Now: **Professor**
-State Key Laboratory of Reliability and Intelligence of Electrical Equipment
-School of Electrical Engineering, Hebei University of Technology, China
--  Jul 2018 - Now: **Visiting Researcher and External D.Phil Supervisor**
-Department of Computer Science, University of Oxford, United Kingdom
--  Dec 2017 - Jul 2018: **Research Associate**
-Department of Computer Science, University of Oxford, United Kingdom
--  Nov 2014 - Oct 2015: **Research Assistant**
-Department of Computer Science, University of Oxford, United Kingdom
--  Mar 2012 - Sep 2013: **Analyst Researcher**
-School of Electrical and Computer Engineering, RMIT University, Australia
+-  Jun 2018 - Now: **Professor**  
+State Key Laboratory of Reliability and Intelligence of Electrical Equipment  
+School of Electrical Engineering, Hebei University of Technology, China  
+-  Jul 2018 - Now: **Visiting Researcher and External D.Phil Supervisor**  
+Department of Computer Science, University of Oxford, United Kingdom  
+-  Dec 2017 - Jul 2018: **Research Associate**  
+Department of Computer Science, University of Oxford, United Kingdom  
+-  Nov 2014 - Oct 2015: **Research Assistant**  
+Department of Computer Science, University of Oxford, United Kingdom  
+-  Mar 2012 - Sep 2013: **Analyst Researcher**  
+School of Electrical and Computer Engineering, RMIT University, Australia  
 
 
 >**Education**  
