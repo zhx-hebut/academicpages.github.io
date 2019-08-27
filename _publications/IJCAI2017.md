@@ -1,5 +1,6 @@
 ---
-title: "(AAAI2019)Diversity-Driven Extensible Hierarchical Reinforcement Learning"
+title: "(IJCAI2017)Tag-Aware
+		Personalized Recommendation Using a Hybrid Deep Model"
 collection: publications
 permalink: /publication/IJCAI2017
 excerpt: '
