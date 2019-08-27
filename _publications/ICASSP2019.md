@@ -2,7 +2,7 @@
 title: "(ICASSP2019)Long Text Analysis Using Sliced Recurrent Neural Networks with
 Breaking Point Information Enrichment"
 collection: publications
-permalink: /publication/ICASSP2019.md
+permalink: /publication/ICASSP2019
 excerpt: '
 **Authors** : Bo Li, Zehua Cheng, **Zhenghua Xu***, Wei Ye, Thomas Lukasiewicz and Shikun Zhang.
 
