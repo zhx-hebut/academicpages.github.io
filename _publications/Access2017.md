@@ -3,7 +3,8 @@ title: "Location-Aware Personalized News Recommendation With Deep Semantic Analy
 collection: publications
 permalink: /publication/Access2017
 excerpt: '
-**Authors** : **Zhenghua Xu**, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Xiangwu Meng.
+**Authors** : Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and
+	Thomas Lukasiewicz
 
 '
 date: 2017-01-18
@@ -11,7 +12,8 @@ venue: 'IEEE Access, (SCI JCR Q1)'
 
 ---
 
-**Authors:** **Zhenghua Xu**, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Xiangwu Meng.  
+**Authors:** Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and
+	Thomas Lukasiewicz  
 **Abstract:** With the popularity of mobile devices and the quick growth of the mobile Web, users can
 now browse news wherever they want; so, their news preferences are usually related to their geographical
 contexts. Consequently, many research efforts have been put on location-aware news recommendation,
