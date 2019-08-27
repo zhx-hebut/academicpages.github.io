@@ -15,7 +15,7 @@ date: 2017-03-27
 venue: 'The 22nd International Conference on Database Systems for Advanced Applications (DASFAA), (CCF Rank B, Acceptance rate: 24.3%)'
 
 ---
-**Authors:** Cheng Chen, Thomas Lukasiewicz, Xiangwu Meng and **Zhenghua Xu** (co-first author, in alphabetical order).
+**Authors:** Cheng Chen, Thomas Lukasiewicz, Xiangwu Meng and **Zhenghua Xu** (co-first author, in alphabetical order).  
 **Abstract:** With the popularity of mobile devices and the quick growth
 of the mobile Web, users can now browse news wherever they want, so
 their news preferences are usually strongly correlated with their geographical contexts. Consequently, many research efforts have been put
