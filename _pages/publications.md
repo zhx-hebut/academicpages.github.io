@@ -11,3 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+>**Top conference papers**
+
+1.[(AAAI2019)Diversity-Driven Extensible Hierarchical Reinforcement Learning](https://zhx-hebut.github.io/publication/AAAI2019)  
+**Authors** : Yuhang Song, Jianyi Wang, Thomas Lukasiewicz, **Zhenghua Xu*** and Mai Xu
+
