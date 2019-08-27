@@ -24,4 +24,20 @@ E-mail:firstname.lastname@hebut.edu.cn
 
 **Research Interest**
 -----
-- My current research interests concentrate especially on Artificial Intelligence and Information Management, e.g., Deep Learning, Reinforcement Learning, Data Mining, Medical Data Computing, AI in Biomedicine, Big Data in Healthcare, Search and Recommendation System, etc.
+- My current research interests concentrate especially on Artificial Intelligence and Information Management, e.g., Deep Learning, Reinforcement Learning, Data Mining, Medical Data Computing, AI in Biomedicine, Big Data in Healthcare, Search and Recommendation System, etc.  
+
+**Selected Publications**  
+-----
+
+[1. Diversity-Driven Extensible Hierarchical Reinforcement Learning, AAAI2019, CCF A](https://zhx-hebut.github.io/publication/AAAI2019)  
+[2. Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment, ICASSP2019, CCF B](https://zhx-hebut.github.io/publication/ICASSP2019)  
+
+[3. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model, IJCAI2017, CCF A](https://zhx-hebut.github.io/publication/IJCAI2017)  
+
+[4. Location-Aware News Recommendation Using Deep Localized Semantic Analysis, DASFAA2017, CCF B](https://zhx-hebut.github.io/publication/DASFAA2017)  
+
+[5. Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling, CIKM2016, CCF B](https://zhx-hebut.github.io/publication/CIKM2016)   
+
+[6. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction, ICDE2013, CCF A](https://zhx-hebut.github.io/publication/ICDE2013)  
+
+[7. An Adaptive Online Algorithm for Time Series Segmentation with Error Bound Guarantee, EDBT2012, CCF B](https://zhx-hebut.github.io/publication/EDBT2012)   
