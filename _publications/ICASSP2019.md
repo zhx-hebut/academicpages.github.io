@@ -1,5 +1,5 @@
 ---
-title: "(ICASSP2019)Long Text Analysis Using Sliced Recurrent Neural Networks with
+title: "ICASSP2019: Long Text Analysis Using Sliced Recurrent Neural Networks with
 Breaking Point Information Enrichment"
 collection: publications
 permalink: /publication/ICASSP2019
