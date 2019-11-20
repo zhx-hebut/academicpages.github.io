@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prof. Zhenghua XU"
+title: "Zhenghua XU (许铮铧)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,13 +19,12 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **News**
 -----
-1. I will serve as the Program Committee Member in ECAI 2020.  
+1. I will serve as the Program Committee Member in ECAI 2020 and AAAI 2020.  
 2. Papers "Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence" and "Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards" are accepted by AAAI 2020. (CCF A).  
 3. Papers "Semi-Supervised Attention-Guided CycleGAN for Data Augmentation on Medical Images" and "Tumor Segmentation Based on Deeply Supervised Multi-Scale U-Net" are accepted by BIBM 2019. (CCF B).  
-4. I will serve as the Program Committee Member in AAAI 2020.  
-5. I will serve as the session chair in IJCAI 2019.  
-6. The paper "Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment" is accepted by ICASSP 2019. (CCF B).  
-7. The paper "Diversity-Driven Extensible Hierarchical Reinforcement Learning" is accepted for oral presentation in AAAI 2019. (CCF A)
+4. I will serve as the session chair in IJCAI 2019.  
+5. The paper "Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment" is accepted by ICASSP 2019. (CCF B).  
+6. The paper "Diversity-Driven Extensible Hierarchical Reinforcement Learning" is accepted for oral presentation in AAAI 2019. (CCF A)
 
 
 **Research Interests**
