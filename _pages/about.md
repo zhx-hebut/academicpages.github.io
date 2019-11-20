@@ -20,7 +20,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 **News**
 -----
 1. I will serve as the Program Committee Member in ECAI 2020.  
-2. Papers "Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence", "Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards" are accepted by AAAI 2020. (CCF A).  
+2. Papers "Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence" and "Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards" are accepted by AAAI 2020. (CCF A).  
 3. Papers "Semi-Supervised Attention-Guided CycleGAN for Data Augmentation on Medical Images" and "Tumor Segmentation Based on Deeply Supervised Multi-Scale U-Net" are accepted by BIBM 2019. (CCF B).  
 4. I will serve as the Program Committee Member in AAAI 2020.  
 5. I will serve as the session chair in IJCAI 2019.  
