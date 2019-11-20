@@ -42,9 +42,10 @@ Published in *2019 IEEE International Conference on Bioinformatics and Biomedici
 **Authors** : **Zhenghua Xu**, Chang Qi and Guizhi Xu  
 [[Download paper here]](http://zhx-hebut.github.io/files/BIBM2019QI.pdf)
 
-## 6. [BIBM2019: Tumor Segmentation Based on Deeply Supervised Multi-Scale U-Net](https://zhx-hebut.github.io/publication/BIBM2019_WANG)   
+## 6. [BIBM2019: Tumor Segmentation Based on Deeply Supervised Multi-Scale U-Net.](https://zhx-hebut.github.io/publication/BIBM2019_WANG)   
 Published in *2019 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2019), (CCF Rank B, Acceptance rate: 18%) **(CCF Rank B, Acceptance rate: 18%)***  
 **Authors** : Lei Wang, Bo Wang, **Zhenghua Xu***
+
 [[Download paper here]](http://zhx-hebut.github.io/files/BIBM2019WANG.pdf)
 
 ## 8. [ICASSP2019: Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment.](https://zhx-hebut.github.io/publication/ICASSP2019)   
@@ -52,51 +53,51 @@ Published in *The 44th International Conference on Acoustics, Speech, and Signal
 **Authors** : Bo Li, Zehua Cheng, **Zhenghua Xu***, Wei Ye, Thomas Lukasiewicz and Shikun Zhang  
 [[Download paper here]](http://zhx-hebut.github.io/files/ICASSP2019.pdf)  [[Code Release]](https://github.com/limberc/BPIE-BiSRNN)  
 
-## 9. [DASFAA2017: Location-Aware News Recommendation Using Deep Localized Semantic Analysis](https://zhx-hebut.github.io/publication/DASFAA2017)  
+## 9. [DASFAA2017: Location-Aware News Recommendation Using Deep Localized Semantic Analysis.](https://zhx-hebut.github.io/publication/DASFAA2017)  
 Published in *The 22nd International Conference on Database Systems for Advanced Applications (DASFAA), 2017. **(CCF Rank B, Acceptance rate: 24.3%)***  
 **Authors** : Cheng Chen, Thomas Lukasiewicz, Xiangwu Meng and **Zhenghua Xu** (co-first author, in alphabetical order)  
 [[Download paper here]](http://zhx-hebut.github.io/files/DASFAA2017.pdf)  
 
-## 10. [CIKM2016: Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling](https://zhx-hebut.github.io/publication/CIKM2016)   
+## 10. [CIKM2016: Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling.](https://zhx-hebut.github.io/publication/CIKM2016)   
 Published in *The 25th ACM International Conference on Information and Knowledge Management (CIKM),2016. **(CCF Rank B, Acceptance rate: 28.8%)***  
 **Authors** : **Zhenghua Xu**, Cheng Chen, Thomas Lukasiewicz, Yishu Miao and Xiangwu Meng
 [[Download paper here]](http://zhx-hebut.github.io/files/CIKM2016.pdf)
 
-## 11. [EDBT2012: An Adaptive Online Algorithm for Time Series Segmentation with Error Bound Guarantee](https://zhx-hebut.github.io/publication/EDBT2012)   
+## 11. [EDBT2012: An Adaptive Online Algorithm for Time Series Segmentation with Error Bound Guarantee.](https://zhx-hebut.github.io/publication/EDBT2012)   
 Published in *The 15th International Conference on Extending Database Technology (EDBT), 2012. **(CCF Rank B, Acceptance rate: 22.5%)***  
 **Authors** : **Zhenghua Xu**, Rui Zhang, Ramamohanarao Kotagiri and Udaya Parampalli  
 [[Download paper here]](https://people.eng.unimelb.edu.au/zr/publications/EDBT2012_OnlineSeriesSegmentation.pdf)  
 
 >**Journal articles**  
 
-## 12. [Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity](https://zhx-hebut.github.io/publication/Access2018)  
+## 12. [Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity.](https://zhx-hebut.github.io/publication/Access2018)  
 Published in *IEEE Access,2018. **(SCI JCR Q1, IF: 4.098)***  
 **Authors** : **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  
 [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8396258)  
 
-## 13. [Location-Aware Personalized News Recommendation With Deep Semantic Analysis](https://zhx-hebut.github.io/publication/Access2017)  
+## 13. [Location-Aware Personalized News Recommendation With Deep Semantic Analysis.](https://zhx-hebut.github.io/publication/Access2017)  
 Published in *IEEE Access,2017. **(SCI JCR Q1, IF: 4.098)***  
 **Authors** : Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz  
 [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7823033)
 
 >**Other papers**  
 
-## 14. [Improving Personalized Search on the Social Web Based on Similarities between Users](https://zhx-hebut.github.io/publication/SUM)
+## 14. [Improving Personalized Search on the Social Web Based on Similarities between Users.](https://zhx-hebut.github.io/publication/SUM)
 Published in *The 8th International Conference on Scalable Uncertainty Management (SUM), 2014. **(EI)***  
 **Authors:** **Zhenghua Xu**, Thomas Lukasiewicz and Oana TifreaMarciuska  
 [[Download paper here]](http://zhx-hebut.github.io/files/SUM.pdf)
 
-## 15. [A Multi-Module Anomaly Detection Scheme based on System Call Prediction](https://zhx-hebut.github.io/publication/ICIEA)
+## 15. [A Multi-Module Anomaly Detection Scheme based on System Call Prediction.](https://zhx-hebut.github.io/publication/ICIEA)
 Published in *The 8th IEEE Conference on Industrial Electronics and Applications (ICIEA), 2013. **(EI & ISTP)***  
 **Authors:** **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han   
 [[Download paper here]](http://zhx-hebut.github.io/files/ICIEA.pdf)  
 
-## 16. [Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System](https://zhx-hebut.github.io/publication/CISP)
+## 16. [Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System.](https://zhx-hebut.github.io/publication/CISP)
 Published in *The 6th International Congress on Image and Signal Processing (CISP), 2013. **(EI & ISTP)***  
 **Authors:** **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han  
 [[Download paper here]](http://zhx-hebut.github.io/files/CISP.pdf)  
 
-## 17. [A Branch and Bound Method for Min-dist Location Selection Queries](https://zhx-hebut.github.io/publication/ADC2012)
+## 17. [A Branch and Bound Method for Min-dist Location Selection Queries.](https://zhx-hebut.github.io/publication/ADC2012)
 Published in *The 23rd Australasian Database Conference (ADC), 2012. **(Runner-up for Best Paper award)***  
 **Authors** : Jianzhong Qi, **Zhenghua Xu**, Yuan Xue and Zeyi Wen  
 [[Download paper here]](http://zhx-hebut.github.io/files/ADC2012.pdf)
