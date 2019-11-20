@@ -38,12 +38,12 @@ Published in *The 29th IEEE International Conference on Data Engineering (ICDE),
 [[Download paper here]](http://zhx-hebut.github.io/files/ICDE2013.pdf)
 
 ## 6. [BIBM2019: Semi-Supervised Attention-Guided CycleGAN for Data Augmentation on Medical Images.](https://zhx-hebut.github.io/publication/BIBM2019_QI)   
-Published in *2019 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2019), (CCF Rank B, Acceptance rate: 18%) **(CCF Rank B, Acceptance rate: 18%)***  
+Published in *2019 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2019), **(CCF Rank B, Acceptance rate: 18%)***  
 **Authors** : **Zhenghua Xu**, Chang Qi and Guizhi Xu  
 [[Download paper here]](http://zhx-hebut.github.io/files/BIBM2019QI.pdf)
 
 ## 6. [BIBM2019: Tumor Segmentation Based on Deeply Supervised Multi-Scale U-Net.](https://zhx-hebut.github.io/publication/BIBM2019_WANG)   
-Published in *2019 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2019), (CCF Rank B, Acceptance rate: 18%) **(CCF Rank B, Acceptance rate: 18%)***  
+Published in *2019 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2019), **(CCF Rank B, Acceptance rate: 18%)***  
 **Authors** : Lei Wang, Bo Wang, **Zhenghua Xu***  
 [[Download paper here]](http://zhx-hebut.github.io/files/BIBM2019WANG.pdf)
 
