@@ -42,7 +42,7 @@ Published in *2019 IEEE International Conference on Bioinformatics and Biomedici
 **Authors** : **Zhenghua Xu**, Chang Qi and Guizhi Xu  
 [[Download paper here]](http://zhx-hebut.github.io/files/BIBM2019QI.pdf)
 
-## 6. [BIBM2019: Tumor Segmentation Based on Deeply Supervised Multi-Scale U-Net.](https://zhx-hebut.github.io/publication/BIBM2019_WANG)   
+## 7. [BIBM2019: Tumor Segmentation Based on Deeply Supervised Multi-Scale U-Net.](https://zhx-hebut.github.io/publication/BIBM2019_WANG)   
 Published in *2019 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2019), **(CCF Rank B, Acceptance rate: 18%)***  
 **Authors** : Lei Wang, Bo Wang, **Zhenghua Xu***  
 [[Download paper here]](http://zhx-hebut.github.io/files/BIBM2019WANG.pdf)
