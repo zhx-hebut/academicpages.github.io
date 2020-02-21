@@ -19,13 +19,13 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **News**
 -----
-1. I will serve as the Program Committee Member in AAAI 2020, IJCAI 2020, ECAI 2020, and MICCAI 2020.
-2. One paper "Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation" is accepted by ICASSP 2020 (CCF B).  
-3. Two papers "Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence" and "Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards" are accepted by AAAI 2020 (CCF A).  
-4. Two papers "Semi-Supervised Attention-Guided CycleGAN for Data Augmentation on Medical Images" and "Tumor Segmentation Based on Deeply Supervised Multi-Scale U-Net" are accepted by BIBM 2019 (CCF B).  
-5. I will serve as the session chair in IJCAI 2019.  
-6. One paper "Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment" is accepted by ICASSP 2019 (CCF B).  
-7. One paper "Diversity-Driven Extensible Hierarchical Reinforcement Learning" is accepted for oral presentation in AAAI 2019 (CCF A)
++ 1. I will serve as the Program Committee Member in AAAI 2020, IJCAI 2020, ECAI 2020, and MICCAI 2020.
++ 2. One paper "Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation" is accepted by ICASSP 2020 (CCF B).  
++ 3. Two papers "Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence" and "Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards" are accepted by AAAI 2020 (CCF A).  
++ 4. Two papers "Semi-Supervised Attention-Guided CycleGAN for Data Augmentation on Medical Images" and "Tumor Segmentation Based on Deeply Supervised Multi-Scale U-Net" are accepted by BIBM 2019 (CCF B).  
++ 5. I will serve as the session chair in IJCAI 2019.  
++ 6. One paper "Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment" is accepted by ICASSP 2019 (CCF B).  
++ 7. One paper "Diversity-Driven Extensible Hierarchical Reinforcement Learning" is accepted for oral presentation in AAAI 2019 (CCF A)
 
 
 **Research Interests**
