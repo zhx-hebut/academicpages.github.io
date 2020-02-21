@@ -1,30 +1,31 @@
 ---
-title: "ICASSP2019: Long Text Analysis Using Sliced Recurrent Neural Networks with
-Breaking Point Information Enrichment"
+title: "Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation"
 collection: publications
-permalink: /publication/ICASSP2019
+permalink: /publication/ICASSP2020
 excerpt: '
-**Authors** : Bo Li, Zehua Cheng, **Zhenghua Xu***, Wei Ye, Thomas Lukasiewicz and Shikun Zhang.
+**Authors** : **Zhenghua Xu***,Di Yuan, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Guizhi Xu.
 
 
-**Place** : Brighton, UK
+**Place** : Barcelona, Spain
 
 
-**Date** : May 12 – 17 , 2019
+**Date** : May 4 – 8 , 2020
 
 '
-date: 2019-05-12
-venue: 'The 44th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), (CCF Rank B)'
+date: 2020-05-7
+venue: 'The 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), (CCF Rank B)'
 
 ---
-**Authors:** Bo Li, Zehua Cheng, **Zhenghua Xu***, Wei Ye, Thomas Lukasiewicz and Shikun Zhang  
-**Abstract:** Sliced recurrent neural networks (SRNNs) are the state-of-
-the-art efficient solution for long text analysis tasks; however,
-their slicing operations inevitably result in long-term dependency loss in lower-level networks and thus limit their accuracy. Therefore, we propose a breaking point information
-enrichment mechanism to strengthen dependencies between
-sliced subsequences without hindering parallelization. Then,
-the resulting BPIE-SRNN model is further extended to a bidirectional model, BPIE-BiSRNN, to utilize the dependency in-
-formation in not only the previous but also the following contexts. Experiments on four large public real-world datasets
-demonstrate that the BPIE-SRNN and BPIE-BiSRNN models always achieve a much better accuracy than SRNNs and
-BiSRNNs, while maintaining a superior training efficiency.  
-[[Download paper here]](http://zhx-hebut.github.io/files/ICASSP2019.pdf)  [[Code Release]](https://github.com/limberc/BPIE-BiSRNN)
+**Authors:** **Zhenghua Xu***,Di Yuan, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Guizhi Xu  
+**Abstract:** Matrix factorization has now become a dominant solution for
+personalized recommendation on the Social Web. To alleviate
+the cold start problem, previous approaches have incorporated
+various additional sources of information into traditional matrix factorization models. These upgraded models, however,
+achieve only “marginal” enhancements on the performance
+of personalized recommendation. Therefore, inspired by the
+recent development of deep-semantic modeling, we propose
+a hybrid deep-semantic matrix factorization (HDMF) model
+to further improve the performance of tag-aware personalized recommendation by integrating the techniques of deep-semantic modeling, hybrid learning, and matrix factorization.
+Experimental results show that HDMF significantly outperforms the state-of-the-art baselines in tag-aware personalized
+recommendation, in terms of all evaluation metrics.
+[[Download paper here]](http://zhx-hebut.github.io/files/2020_ICASSP'20.pdf)
