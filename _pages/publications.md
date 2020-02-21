@@ -17,10 +17,12 @@ author_profile: true
 ## 1. [AAAI 2020: Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence.](https://zhx-hebut.github.io/publication/AAAI2020_Arena)  
 Published in *The 34rd AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)***  
 **Authors** : Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu  
+[[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)
 
 ## 2. [AAAI 2020: Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards.](https://zhx-hebut.github.io/publication/AAAI2020_Mega-Reward)  
 Published in *The 34rd AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)***  
 **Authors** : Yuhang Song‚ Jianyi Wang‚ Thomas Lukasiewicz‚ **Zhenghua Xu***‚ Shangtong Zhang‚ Andrzej Wojcicki and Mai Xu
+[[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Mega-Reward.pdf)
 
 ## 3. [AAAI 2019: Diversity-Driven Extensible Hierarchical Reinforcement Learning.](https://zhx-hebut.github.io/publication/AAAI2019)  
 Published in *The 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019. **(CCF Rank A, Acceptance rate: 16.2%)***  
@@ -40,7 +42,7 @@ Published in *The 29th IEEE International Conference on Data Engineering (ICDE),
 ## 6. [ICASSP 2020: Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation.](https://zhx-hebut.github.io/publication/BIBM2019_QI)   
 Published in *The 44th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019. **(CCF Rank B)***  
 **Authors** : **Zhenghua Xu***,Di Yuan, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Guizhi Xu  
-[[Download paper here]](http://zhx-hebut.github.io/files/BIBM2019QI.pdf)
+[[Download paper here]](http://zhx-hebut.github.io/files/2020_ICASSP'20.pdf)
 
 ## 7. [BIBM 2019: Semi-Supervised Attention-Guided CycleGAN for Data Augmentation on Medical Images.](https://zhx-hebut.github.io/publication/BIBM2019_QI)   
 Published in *2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019. **(CCF Rank B, Acceptance rate: 18%)***  
