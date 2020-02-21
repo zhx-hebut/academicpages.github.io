@@ -41,7 +41,7 @@ Published in *The 29th IEEE International Conference on Data Engineering (ICDE),
 **Authors** : Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu***  
 [[Download paper here]](http://zhx-hebut.github.io/files/ICDE2013.pdf)
 
-## 6. [ICASSP 2020: Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation.](https://zhx-hebut.github.io/publication/BIBM2019_QI)   
+## 6. [ICASSP 2020: Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation.](https://zhx-hebut.github.io/publication/ICASSP2020)   
 Published in *The 44th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019. **(CCF Rank B)***  
 **Authors** : **Zhenghua Xu***,Di Yuan, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Guizhi Xu  
 [[Download paper here]](http://zhx-hebut.github.io/files/2020_ICASSP'20.pdf)
