@@ -68,7 +68,7 @@ Published in *The 22nd International Conference on Database Systems for Advanced
 
 ## 11. [CIKM 2016: Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling.](https://zhx-hebut.github.io/publication/CIKM2016)   
 Published in *The 25th ACM International Conference on Information and Knowledge Management (CIKM),2016. **(CCF Rank B, Acceptance rate: 28.8%)***  
-**Authors** : **Zhenghua Xu**, Cheng Chen, Thomas Lukasiewicz, Yishu Miao and Xiangwu Meng
+**Authors** : **Zhenghua Xu**, Cheng Chen, Thomas Lukasiewicz, Yishu Miao and Xiangwu Meng  
 [[Download paper here]](http://zhx-hebut.github.io/files/CIKM2016.pdf)
 
 ## 12. [EDBT 2012: An Adaptive Online Algorithm for Time Series Segmentation with Error Bound Guarantee.](https://zhx-hebut.github.io/publication/EDBT2012)   
