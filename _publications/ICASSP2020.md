@@ -27,5 +27,5 @@ recent development of deep-semantic modeling, we propose
 a hybrid deep-semantic matrix factorization (HDMF) model
 to further improve the performance of tag-aware personalized recommendation by integrating the techniques of deep-semantic modeling, hybrid learning, and matrix factorization.
 Experimental results show that HDMF significantly outperforms the state-of-the-art baselines in tag-aware personalized
-recommendation, in terms of all evaluation metrics.
+recommendation, in terms of all evaluation metrics.  
 [[Download paper here]](http://zhx-hebut.github.io/files/2020_ICASSP'20.pdf)
