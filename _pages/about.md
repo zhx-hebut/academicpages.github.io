@@ -18,7 +18,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 
 
-**$\color{red}{Recruiting\ Master\& PhD\ students(硕博士招生中)!}$  [Information (招生说明)](http://zhx-hebut.github.io/files/Information_for_student.pdf)**
+**$\color{red}{硕博士招生中!}$  [(请点击阅读招生说明)](http://zhx-hebut.github.io/files/Information_for_student.pdf)**
 
 **News**
 -----
