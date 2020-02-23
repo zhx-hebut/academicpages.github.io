@@ -18,7 +18,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 
 
-**[$\color{red}{Information for potential Chinese Master/PhD students （硕博士招生信息）}$](http://zhx-hebut.github.io/files/Information for Chinese Master and PhD students.pdf)**
+**[$\color{red}{Information\ for\ potential\ Chinese\ Master\/PhD\ students （硕博士招生信息）}$](http://zhx-hebut.github.io/files/Information for Chinese Master and PhD students.pdf)**
 
 **News**
 -----
