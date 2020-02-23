@@ -17,6 +17,8 @@ Address: No. 8 Guangrongdao, Hongqiao, Tianjin, 300130, China
 E-mail: firstname.lastname@hebut.edu.cn
 
 
+**[Information for potential Chinese Master/PhD students （硕博士招生信息）](http://zhx-hebut.github.io/files/Information for Chinese Master and PhD students.pdf)**
+
 **News**
 -----
 1. I will serve as the Program Committee Member in AAAI 2020, IJCAI 2020, ECAI 2020, and MICCAI 2020.
