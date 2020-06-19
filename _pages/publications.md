@@ -77,34 +77,38 @@ Published in *The 15th International Conference on Extending Database Technology
 
 >**Journal articles**  
 
-## 13. [Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity.](https://zhx-hebut.github.io/publication/Access2018)  
+## 13. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule.  
+Published in *IEEE Access, 2020. **(SCI JCR Q1, IF: 4.098)***  
+**Authors** : Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu
+
+## 14. [Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity.](https://zhx-hebut.github.io/publication/Access2018)  
 Published in *IEEE Access, 2018. **(SCI JCR Q1, IF: 4.098)***  
 **Authors** : **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  
 [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8396258)  
 
-## 14. [Location-Aware Personalized News Recommendation With Deep Semantic Analysis.](https://zhx-hebut.github.io/publication/Access2017)  
+## 15. [Location-Aware Personalized News Recommendation With Deep Semantic Analysis.](https://zhx-hebut.github.io/publication/Access2017)  
 Published in *IEEE Access, 2017. **(SCI JCR Q1, IF: 4.098)***  
 **Authors** : Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz  
 [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7823033)
 
 >**Other papers**  
 
-## 15. [Improving Personalized Search on the Social Web Based on Similarities between Users.](https://zhx-hebut.github.io/publication/SUM)
+## 16. [Improving Personalized Search on the Social Web Based on Similarities between Users.](https://zhx-hebut.github.io/publication/SUM)
 Published in *The 8th International Conference on Scalable Uncertainty Management (SUM), 2014. **(EI)***  
 **Authors:** **Zhenghua Xu**, Thomas Lukasiewicz and Oana TifreaMarciuska  
 [[Download paper here]](http://zhx-hebut.github.io/files/SUM.pdf)
 
-## 16. [A Multi-Module Anomaly Detection Scheme based on System Call Prediction.](https://zhx-hebut.github.io/publication/ICIEA)
+## 17. [A Multi-Module Anomaly Detection Scheme based on System Call Prediction.](https://zhx-hebut.github.io/publication/ICIEA)
 Published in *The 8th IEEE Conference on Industrial Electronics and Applications (ICIEA), 2013. **(EI & ISTP)***  
 **Authors:** **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han   
 [[Download paper here]](http://zhx-hebut.github.io/files/ICIEA.pdf)  
 
-## 17. [Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System.](https://zhx-hebut.github.io/publication/CISP)
+## 18. [Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System.](https://zhx-hebut.github.io/publication/CISP)
 Published in *The 6th International Congress on Image and Signal Processing (CISP), 2013. **(EI & ISTP)***  
 **Authors:** **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han  
 [[Download paper here]](http://zhx-hebut.github.io/files/CISP.pdf)  
 
-## 18. [A Branch and Bound Method for Min-dist Location Selection Queries.](https://zhx-hebut.github.io/publication/ADC2012)
+## 19. [A Branch and Bound Method for Min-dist Location Selection Queries.](https://zhx-hebut.github.io/publication/ADC2012)
 Published in *The 23rd Australasian Database Conference (ADC), 2012. **(Runner-up for Best Paper award)***  
 **Authors** : Jianzhong Qi, **Zhenghua Xu**, Yuan Xue and Zeyi Wen  
 [[Download paper here]](http://zhx-hebut.github.io/files/ADC2012.pdf)
