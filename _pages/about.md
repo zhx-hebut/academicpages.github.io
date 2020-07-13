@@ -17,8 +17,9 @@ Address: No. 8 Guangrongdao, Hongqiao, Tianjin, 300130, China
 E-mail: firstname.lastname@hebut.edu.cn
 
 
+<!--**$\color{red}{硕博士招生中!}$  [(点击阅读招生说明)](http://zhx-hebut.github.io/files/Information_for_student.pdf)**-->
 
-**$\color{red}{硕博士招生中!}$  [(点击阅读招生说明)](http://zhx-hebut.github.io/files/Information_for_student.pdf)**
+
 
 **News**
 -----
