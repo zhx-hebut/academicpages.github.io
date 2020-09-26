@@ -42,5 +42,5 @@ author_profile: true
 -----
 -  Xianyuan Wang, CSC visiting PhD in Oxford (from University of Electronic Science and Technology of China, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2018-2019  
 -  Haozhe Lin, CSC visiting PhD in Oxford (from Tsinghua University, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2019-2020  
--  Zehua Cheng, visiting student in HeBUT (from Fuzhou University & Heriot-Watt University), 2018-
+-  Zehua Cheng, visiting student in HeBUT (from Fuzhou University & Heriot-Watt University), 2018-2020
 -  Bo Li, visiting student in HeBUT (from Beijing University of Posts and Telecommunications), 2018
