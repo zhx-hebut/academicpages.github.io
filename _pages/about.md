@@ -35,7 +35,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 - My current research interests include Deep Learning, Reinforcement Learning, AI in Healthcare, Biologically Plausible Deep Networks, and Recommender System.  
 
 
-**Selected Publications**  
+**Selected Publications**   [[Full Publications]](https://zhx-hebut.github.io/pages/publications)
 -----
 [1] Can the Brain Do Backpropagation, NeurIPS 2020, CCF A
 
@@ -49,4 +49,4 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 [6] Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu***. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction, ICDE2013, CCF A. [[Details]](https://zhx-hebut.github.io/publication/ICDE2013)  
 
-[[Full Publication]](https://zhx-hebut.github.io/pages/publications)
+[[**Full Publications**]](https://zhx-hebut.github.io/pages/publications)
