@@ -32,7 +32,7 @@ In the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019. **(CCF Rank
 
 [5] **Zhenghua Xu**, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model.  
 In the International Joint Conference on Artificial Intelligence (IJCAI), 2017. **(CCF Rank A, Acceptance rate: 25.9%)**  
- [[Details]](https://zhx-hebut.github.io/publication/IJCAI2017)  [[Download paper here]](https://www.ijcai.org/proceedings/2017/0446.pdf)
+[[Details]](https://zhx-hebut.github.io/publication/IJCAI2017)  [[Download paper here]](https://www.ijcai.org/proceedings/2017/0446.pdf)
 
 [6] Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu***. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction.  
 In the 29th IEEE International Conference on Data Engineering (ICDE),2013. **(CCF Rank A, Acceptance rate: 19.8%, Number of Google Scholar citaions: 250+, Number of SCI-E citaions: 80+)**   
