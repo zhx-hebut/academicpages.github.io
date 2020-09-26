@@ -15,10 +15,8 @@ author_profile: true
 
 >**Top conference papers**
 
-## 1. [AAAI 2020: Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence.](https://zhx-hebut.github.io/publication/AAAI2020_Arena)  
-Published in *The 34rd AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)***  
-**Authors** : Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu  
-[[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)
+## [1] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. In *the 34rd AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)***  
+[[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena)  [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)
 
 ## 2. [AAAI 2020: Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards.](https://zhx-hebut.github.io/publication/AAAI2020_Mega-Reward)  
 Published in *The 34rd AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)***  
