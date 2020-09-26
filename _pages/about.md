@@ -17,7 +17,7 @@ Address: No. 8 Guangrongdao, Hongqiao, Tianjin, 300130, China
 E-mail: firstname.lastname@hebut.edu.cn
 
 
-**$\color{red}{硕博士招生中!}$  [(点击阅读招生说明)](http://zhx-hebut.github.io/files/Information_for_student.pdf)**
+**$\color{red}{本科及硕博士招生中!}$  [(点击阅读招生说明)](http://zhx-hebut.github.io/files/Information_for_student.pdf)**
 
 
 
@@ -39,7 +39,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 -----
 [1] Can the Brain Do Backpropagation, NeurIPS 2020, CCF A
 
-[2] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence, AAAI 2020, CCF A. [[details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena) [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)
+[2] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence, AAAI 2020, CCF A. [[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena) [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)
 
 [3] Yuhang Song‚ Jianyi Wang‚ Thomas Lukasiewicz‚ **Zhenghua Xu***‚ Shangtong Zhang‚ Andrzej Wojcicki and Mai Xu. Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards, AAAI 2020, CCF A. [[Details]](https://zhx-hebut.github.io/publication/AAAI2019) [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Mega-Reward.pdf)
 
