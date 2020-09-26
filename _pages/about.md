@@ -35,8 +35,10 @@ E-mail: firstname.lastname@hebut.edu.cn
 - My current research interests include Deep Learning, Reinforcement Learning, AI in Healthcare, Biologically Plausible Deep Networks, and Recommender System.  
 
 
-**Selected Publications**   [[Full Publications]](https://zhx-hebut.github.io/pages/publications) （\* stands for corresponding author）
+**Selected Publications**   
 -----
+[(Full Publications)](https://zhx-hebut.github.io/pages/publications) （\* stands for corresponding author）
+
 [1] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation, NeurIPS 2020, CCF A.  
 
 [2] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence, AAAI 2020, CCF A.  
