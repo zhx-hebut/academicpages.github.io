@@ -37,7 +37,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **Selected Publications**   
 -----
-[(Full Publications)](https://zhx-hebut.github.io/pages/publications) （\* stands for corresponding author）
+[[**Full Publications**]](https://zhx-hebut.github.io/pages/publications) （\* stands for corresponding author）
 
 [1] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation, NeurIPS 2020, CCF A.  
 
@@ -55,5 +55,3 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 [6] Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu***. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction, ICDE2013, CCF A.  
 [[Details]](https://zhx-hebut.github.io/publication/ICDE2013)  
-
-[[**Full Publications**]](https://zhx-hebut.github.io/pages/publications)
