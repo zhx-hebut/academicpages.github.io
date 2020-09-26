@@ -23,13 +23,11 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **News**
 -----
-1. I will serve as the Program Committee Member in AAAI 2020, IJCAI 2020, ECAI 2020, and MICCAI 2020.
-2. One paper "Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation" is accepted by ICASSP 2020 (CCF B).  
+1. One paper "Can the Brain Do Backpropagation" is accepted by NeurIPS 2020 (CCF A).  
+2. I will serve as the Program Committee Member in AAAI 2020-21, IJCAI 2020-21, ECAI 2020, and MICCAI 2020.
 3. Two papers "Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence" and "Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards" are accepted by AAAI 2020 (CCF A).  
-4. Two papers "Semi-Supervised Attention-Guided CycleGAN for Data Augmentation on Medical Images" and "Tumor Segmentation Based on Deeply Supervised Multi-Scale U-Net" are accepted by BIBM 2019 (CCF B).  
-5. I will serve as the session chair in IJCAI 2019.  
-6. One paper "Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment" is accepted by ICASSP 2019 (CCF B).  
-7. One paper "Diversity-Driven Extensible Hierarchical Reinforcement Learning" is accepted for oral presentation in AAAI 2019 (CCF A)
+4. I will serve as the session chair in IJCAI 2019.  
+5. One paper "Diversity-Driven Extensible Hierarchical Reinforcement Learning" is accepted for oral presentation in AAAI 2019 (CCF A)
 
 
 **Research Interests**
@@ -39,12 +37,14 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **Selected Publications**  
 -----
-[1. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence, AAAI2020, CCF A](https://zhx-hebut.github.io/publication/AAAI2020_Arena)  
+[1. Can the Brain Do Backpropagation, NeurIPS 2020, CCF A]
 
-[2. Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards, AAAI2020, CCF A](https://zhx-hebut.github.io/publication/AAAI2019)  
+[2. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence, AAAI 2020, CCF A](https://zhx-hebut.github.io/publication/AAAI2020_Arena)  
 
-[3. Diversity-Driven Extensible Hierarchical Reinforcement Learning, AAAI2019, CCF A](https://zhx-hebut.github.io/publication/AAAI2019)  
+[3. Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards, AAAI 2020, CCF A](https://zhx-hebut.github.io/publication/AAAI2019)  
 
-[4. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model, IJCAI2017, CCF A](https://zhx-hebut.github.io/publication/IJCAI2017)   
+[4. Diversity-Driven Extensible Hierarchical Reinforcement Learning, AAAI 2019, CCF A](https://zhx-hebut.github.io/publication/AAAI2019)  
 
-[5. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction, ICDE2013, CCF A](https://zhx-hebut.github.io/publication/ICDE2013)  
+[5. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model, IJCAI 2017, CCF A](https://zhx-hebut.github.io/publication/IJCAI2017)   
+
+[6. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction, ICDE2013, CCF A](https://zhx-hebut.github.io/publication/ICDE2013)  
