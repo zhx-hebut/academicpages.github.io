@@ -53,18 +53,16 @@ author_profile: true
 
 >**Journal articles**  
 
-## 13. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule.  
-Published in *IEEE Access, 2020. **(SCI JCR Q1, IF: 4.098)***  
-**Authors** : Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu
+[13] Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule.  
+In *IEEE Access, 2020. **(SCI JCR Q1, IF: 4.098)***
 
-## 14. [Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity.](https://zhx-hebut.github.io/publication/Access2018)  
-Published in *IEEE Access, 2018. **(SCI JCR Q1, IF: 4.098)***  
-**Authors** : **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  
-[[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8396258)  
+[14] **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity.
+In *IEEE Access, 2018. **(SCI JCR Q1, IF: 4.098)***  
+[[Details]](https://zhx-hebut.github.io/publication/Access2018)  [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8396258)  
 
-## 15. [Location-Aware Personalized News Recommendation With Deep Semantic Analysis.](https://zhx-hebut.github.io/publication/Access2017)  
-Published in *IEEE Access, 2017. **(SCI JCR Q1, IF: 4.098)***  
-**Authors** : Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz  
+[15] Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz. Location-Aware Personalized News Recommendation With Deep Semantic Analysis.
+In *IEEE Access, 2017. **(SCI JCR Q1, IF: 4.098)***  
+[[Details]](https://zhx-hebut.github.io/publication/Access2017)  
 [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7823033)
 
 >**Other papers**  
