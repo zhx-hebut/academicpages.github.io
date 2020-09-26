@@ -49,4 +49,4 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 [6] Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu***. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction, ICDE2013, CCF A. [[Details]](https://zhx-hebut.github.io/publication/ICDE2013)  
 
- [[Full Publication]](https://zhx-hebut.github.io/pages/publications)
+[[Full Publication]](https://zhx-hebut.github.io/pages/publications)
