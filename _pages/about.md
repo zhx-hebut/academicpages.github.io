@@ -37,7 +37,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **Selected Publications**   
 -----
-[[**Full Publications**]](https://zhx-hebut.github.io/pages/publications) （\* stands for corresponding author）
+[[**Full Publications**]](https://zhx-hebut.github.io/publications) （\* stands for corresponding author）
 
 [1] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation, NeurIPS 2020, CCF A.  
 
