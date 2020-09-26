@@ -15,8 +15,8 @@ author_profile: true
 
 >**Top conference papers**
 
-[1] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation?  
-In the 
+[1] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation?   
+In the Neural Information Processing Systems (NeurIPS), 2020. **(CCF Rank A, Acceptance rate: 20.09%)**  
 
 [1] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence.  
 In the 34rd AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
@@ -40,7 +40,7 @@ In the 29th IEEE International Conference on Data Engineering (ICDE),2013. **(CC
 
 [6] **Zhenghua Xu***,Di Yuan, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Guizhi Xu. Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation.  
 In the 44th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019. **(CCF Rank B)**  
-[ICASSP 2020: ](https://zhx-hebut.github.io/publication/ICASSP2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_ICASSP'20.pdf)
+[[Details]](https://zhx-hebut.github.io/publication/ICASSP2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_ICASSP'20.pdf)
 
 [7] **Zhenghua Xu**, Chang Qi and Guizhi Xu. Semi-Supervised Attention-Guided CycleGAN for Data Augmentation on Medical Images.  
 In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019. **(CCF Rank B, Acceptance rate: 18%)**   
