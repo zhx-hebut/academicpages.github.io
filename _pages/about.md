@@ -39,7 +39,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 -----
 [[**Full Publications**]](https://zhx-hebut.github.io/publications) （\* stands for corresponding author）
 
-[1] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation, NeurIPS 2020, CCF A.  
+[1] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks, NeurIPS 2020, CCF A.  
 
 [2] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence, AAAI 2020, CCF A.  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena) [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)
