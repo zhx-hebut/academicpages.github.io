@@ -39,7 +39,7 @@ In the 29th IEEE International Conference on Data Engineering (ICDE),2013. **(CC
 [[Details]](https://zhx-hebut.github.io/publication/ICDE2013) [[Download paper here]](http://zhx-hebut.github.io/files/ICDE2013.pdf)
 
 [7] **Zhenghua Xu***,Di Yuan, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Guizhi Xu. Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation.  
-In the 44th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019. **(CCF Rank B)**  
+In the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020. **(CCF Rank B)**  
 [[Details]](https://zhx-hebut.github.io/publication/ICASSP2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_ICASSP'20.pdf)
 
 [8] **Zhenghua Xu**, Chang Qi and Guizhi Xu. Semi-Supervised Attention-Guided CycleGAN for Data Augmentation on Medical Images.  
