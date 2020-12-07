@@ -67,35 +67,41 @@ In the 25th ACM International Conference on Information and Knowledge Management
 
 [14] **Zhenghua Xu**, Rui Zhang, Ramamohanarao Kotagiri and Udaya Parampalli. An Adaptive Online Algorithm for Time Series Segmentation with Error Bound Guarantee.  
 In the 15th International Conference on Extending Database Technology (EDBT), 2012. **(CCF Rank B, Acceptance rate: 22.5%)**    
-[Details](https://zhx-hebut.github.io/publication/EDBT2012)  [[Download paper here]](https://people.eng.unimelb.edu.au/zr/publications/EDBT2012_OnlineSeriesSegmentation.pdf)  
+[Details](https://zhx-hebut.github.io/publication/EDBT2012)  [[Download paper here]](https://people.eng.unimelb.edu.au/zr/publications/EDBT2012_OnlineSeriesSegmentation.pdf) 
 
->**Journal articles**  
+[15] Jianzhong Qi, **Zhenghua Xu**, Yuan Xue and Zeyi Wen. A Branch and Bound Method for Min-dist Location Selection Queries.  
+In the 23rd Australasian Database Conference (ADC), 2012. **(Runner-up for Best Paper award)**  
+[[Details]](https://zhx-hebut.github.io/publication/ADC2012) [[Download paper here]](http://zhx-hebut.github.io/files/ADC2012.pdf)
+ 
 
-[15] Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule.   
-In IEEE Access, 2020. **(SCI JCR Q1, IF: 4.098)**
-
-[16] **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity.  
-In IEEE Access, 2018. **(SCI JCR Q1, IF: 4.098)**    
-[[Details]](https://zhx-hebut.github.io/publication/Access2018)  [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8396258)  
-
-[17] Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz. Location-Aware Personalized News Recommendation With Deep Semantic Analysis.  
-In IEEE Access, 2017. **(SCI JCR Q1, IF: 4.098)**  
-[[Details]](https://zhx-hebut.github.io/publication/Access2017)  [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7823033)
+{%>**Journal articles**}  
 
 >**Other papers**  
 
-[18] **Zhenghua Xu**, Thomas Lukasiewicz and Oana TifreaMarciuska. Improving Personalized Search on the Social Web Based on Similarities between Users.  
+[16] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism.   
+In IEEE Access, 2020. **(SCI JCR Q1)**
+%[[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8396258)  
+
+[17] Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule.   
+In IEEE Access, 2020. **(SCI JCR Q1)**
+
+[18] **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity.  
+In IEEE Access, 2018. **(SCI JCR Q1)**    
+[[Details]](https://zhx-hebut.github.io/publication/Access2018)  [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8396258)  
+
+[19] Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz. Location-Aware Personalized News Recommendation With Deep Semantic Analysis.  
+In IEEE Access, 2017. **(SCI JCR Q1)**  
+[[Details]](https://zhx-hebut.github.io/publication/Access2017)  [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7823033)
+
+[20] **Zhenghua Xu**, Thomas Lukasiewicz and Oana TifreaMarciuska. Improving Personalized Search on the Social Web Based on Similarities between Users.  
 In the 8th International Conference on Scalable Uncertainty Management (SUM), 2014. **(EI)**  
 [[Details]](https://zhx-hebut.github.io/publication/SUM) [[Download paper here]](http://zhx-hebut.github.io/files/SUM.pdf)
 
-[19] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. A Multi-Module Anomaly Detection Scheme based on System Call Prediction.  
+[21] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. A Multi-Module Anomaly Detection Scheme based on System Call Prediction.  
 In the 8th IEEE Conference on Industrial Electronics and Applications (ICIEA), 2013. **(EI & ISTP)**   
 [[Details]](https://zhx-hebut.github.io/publication/ICIEA) [[Download paper here]](http://zhx-hebut.github.io/files/ICIEA.pdf)  
 
-[20] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System.  
+[22] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System.  
 In the 6th International Congress on Image and Signal Processing (CISP), 2013. **(EI & ISTP)**    
 [[Details]](https://zhx-hebut.github.io/publication/CISP) [[Download paper here]](http://zhx-hebut.github.io/files/CISP.pdf)  
 
-[21] Jianzhong Qi, **Zhenghua Xu**, Yuan Xue and Zeyi Wen. A Branch and Bound Method for Min-dist Location Selection Queries.  
-In the 23rd Australasian Database Conference (ADC), 2012. **(Runner-up for Best Paper award)**  
-[[Details]](https://zhx-hebut.github.io/publication/ADC2012) [[Download paper here]](http://zhx-hebut.github.io/files/ADC2012.pdf)
