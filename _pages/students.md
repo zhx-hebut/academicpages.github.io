@@ -10,11 +10,13 @@ author_profile: true
 ------
 -  [Yuhang Song](https://www.cs.ox.ac.uk/people/yuhang.song/), D.Phil (Oxford, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2018-  
 -  Jianfeng Wang, D.Phil (Oxford, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2019- 
--  Di Yuan, PhD (HeBUT), 2018- 
+-  Zehua Cheng,  D.Phil (Oxford, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2020- 
+-  Di Yuan, PhD (HeBUT), 2020- 
 -  Miao Yu, PhD (HeBUT), 2020- 
 
 **Master students**  
 -----
+-  Di Yuan, Master (HeBUT), 2018-2020 (continue as PhD in HeBUT)
 -  Chang Qi, Master (HeBUT), 2018-  
 -  Bo Wang, Master (HeBUT), 2018-  
 -  Mingfei Zhang, Master (HeBUT), 2018-  
@@ -33,10 +35,12 @@ author_profile: true
 
 **Undergraduate students**  
 -----
--  Jiashun Liu, Undergraduate (HeBUT), 2020-
--  Zihang Xu, Undergraduate (HeBUT), 2020-
--  Haoran Zhao, Undergraduate (HeBUT), 2020-
- 
+-  Jiashun Liu, Undergraduate (HeBUT), 2019-
+-  Zihang Xu, Undergraduate (HeBUT), 2019-
+-  Haoran Zhao, Undergraduate (HeBUT), 2019-
+-  Chunyang Li, Undergraduate (HeBUT), 2020- 
+-  Nan Min, Undergraduate (HeBUT), 2020- 
+
 
 **Visiting students**  
 -----
