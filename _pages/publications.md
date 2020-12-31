@@ -75,7 +75,7 @@ In the 23rd Australasian Database Conference (ADC), 2012. **(Runner-up for Best 
 [[Details]](https://zhx-hebut.github.io/publication/ADC2012) [[Download paper here]](http://zhx-hebut.github.io/files/ADC2012.pdf)
  
 
-{%>**Journal articles**%}  
+{%>**Journal articles** %}  
 
 >**Other papers**  
 
