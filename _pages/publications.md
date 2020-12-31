@@ -22,7 +22,6 @@ In the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021. **(CCF Rank
 In the 34th Conference on Neural Information Processing Systems (NeurIPS), 2020. **(CCF Rank A, Acceptance rate: 20.09%)**
 [[Details]](https://zhx-hebut.github.io/publication/NeurIPS2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_NeurIPS.pdf)
 
-
 [3] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence.  
 In the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena)  [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Mega-Reward.pdf)
@@ -69,7 +68,7 @@ In the 25th ACM International Conference on Information and Knowledge Management
 
 [14] **Zhenghua Xu**, Rui Zhang, Ramamohanarao Kotagiri and Udaya Parampalli. An Adaptive Online Algorithm for Time Series Segmentation with Error Bound Guarantee.  
 In the 15th International Conference on Extending Database Technology (EDBT), 2012. **(CCF Rank B, Acceptance rate: 22.5%)**    
-[Details](https://zhx-hebut.github.io/publication/EDBT2012)  [[Download paper here]](https://people.eng.unimelb.edu.au/zr/publications/EDBT2012_OnlineSeriesSegmentation.pdf) 
+[[Details]](https://zhx-hebut.github.io/publication/EDBT2012)  [[Download paper here]](https://people.eng.unimelb.edu.au/zr/publications/EDBT2012_OnlineSeriesSegmentation.pdf) 
 
 [15] Jianzhong Qi, **Zhenghua Xu**, Yuan Xue and Zeyi Wen. A Branch and Bound Method for Min-dist Location Selection Queries.  
 In the 23rd Australasian Database Conference (ADC), 2012. **(Runner-up for Best Paper award)**  
