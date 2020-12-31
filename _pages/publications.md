@@ -19,16 +19,16 @@ author_profile: true
 In the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021. **(CCF Rank A, Acceptance rate: 21%)**    
 
 [2] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks.   
-In the Neural Information Processing Systems (NeurIPS), 2020. **(CCF Rank A, Acceptance rate: 20.09%)**
-[[Download paper here]](http://zhx-hebut.github.io/files/2020_NeurIPS.pdf)
+In the 34th Conference on Neural Information Processing Systems (NeurIPS), 2020. **(CCF Rank A, Acceptance rate: 20.09%)**
+[[Details]](https://zhx-hebut.github.io/publication/NeurIPS2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_NeurIPS.pdf)
 
 
 [3] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence.  
-In the 34rd AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
+In the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena)  [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Mega-Reward.pdf)
 
 [4] Yuhang Song‚ Jianyi Wang‚ Thomas Lukasiewicz‚ **Zhenghua Xu***‚ Shangtong Zhang‚ Andrzej Wojcicki and Mai Xu. Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards.  
-In the 34rd AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
+In the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Mega-Reward)  [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Mega-Reward.pdf)
 
 [5] Yuhang Song, Jianyi Wang, Thomas Lukasiewicz, **Zhenghua Xu*** and Mai Xu. Diversity-Driven Extensible Hierarchical Reinforcement Learning.  
