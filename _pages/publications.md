@@ -75,8 +75,6 @@ In the 23rd Australasian Database Conference (ADC), 2012. **(Runner-up for Best 
 [[Details]](https://zhx-hebut.github.io/publication/ADC2012) [[Download paper here]](http://zhx-hebut.github.io/files/ADC2012.pdf)
  
 
-{%>**Journal articles** %}  
-
 >**Other papers**  
 
 [16] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism.   
