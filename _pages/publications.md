@@ -16,7 +16,7 @@ author_profile: true
 >**Top conference papers**
 
 [1] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets. 
-In the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (CVPR), 2021. **(CCF Rank A, Acceptance rate: 27%)**   
+In the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. **(CCF Rank A, Acceptance rate: 27%)**   
 
 [2] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks. 
 In the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021. **(CCF Rank A, Acceptance rate: 21%)**    
