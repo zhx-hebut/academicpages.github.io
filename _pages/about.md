@@ -44,7 +44,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 [1] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets, CVPR 2021, CCF A.  
 
-[2] Yixin Su, Rui Zhang*‚ Sarah Erfani, **Zhenghua Xu***. Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks, AAAI 2021, CCF A.  
+[2] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks, AAAI 2021, CCF A.  
 
 [3] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks, NeurIPS 2020, CCF A.  
 
