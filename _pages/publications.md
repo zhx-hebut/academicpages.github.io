@@ -81,7 +81,7 @@ In the 23rd Australasian Database Conference (ADC), 2012. **(Runner-up for Best 
  
 >**Top journal papers**
 
-[17] Junyang Chen, Zhiguo Gong\*, Wei Wang; Cong Wang\*; **Zhenghua Xu**; Jianming Lv; Xueliang Li; Kaishun Wu; Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on large-scale Graphs. Accepted to publish in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(SCI Q1, IF: 8.793)**  
+[17] Junyang Chen, Zhiguo Gong\*, Wei Wang, Cong Wang\*, **Zhenghua Xu**, Jianming Lv, Xueliang Li, Kaishun Wu, Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on large-scale Graphs. Accepted to publish in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(SCI Q1, IF: 8.793)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_TNNLS.pdf)   
 
 >**Other papers**  
