@@ -14,6 +14,7 @@ author_profile: true
 \* stands for corresponding author
 
 >**Top conference/journal papers**
+
 [1] Junyang Chen, Zhiguo Gong, Wei Wang; Cong Wang; Zhenghua Xu; Jianming Lv; Xueliang Li; Kaishun Wu; Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on large-scale Graphs. Accepted to publish in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(SCI Q1, IF: 8.793)**  
 
 [2] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets. 
