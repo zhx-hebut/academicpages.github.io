@@ -47,7 +47,7 @@ In the International Joint Conference on Artificial Intelligence (IJCAI), 2017. 
 In the 29th IEEE International Conference on Data Engineering (ICDE),2013. **(CCF Rank A, Acceptance rate: 19.8%, Number of Google Scholar citaions: 250+, Number of SCI-E citaions: 80+)**   
 [[Details]](https://zhx-hebut.github.io/publication/ICDE2013) [[Download paper here]](http://zhx-hebut.github.io/files/ICDE2013.pdf)
 
-[9] **Zhenghua Xu***,Di Yuan, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Guizhi Xu. Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation.  
+[9] **Zhenghua Xu***, Di Yuan, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Guizhi Xu. Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation.  
 In the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020. **(CCF Rank B)**  
 [[Details]](https://zhx-hebut.github.io/publication/ICASSP2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_ICASSP'20.pdf)
 
@@ -59,7 +59,7 @@ In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 
 In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019. **(CCF Rank B, Acceptance rate: 18%)**  
 [[Details]](https://zhx-hebut.github.io/publication/BIBM2019_WANG) [[Download paper here]](http://zhx-hebut.github.io/files/BIBM2019WANG.pdf)
 
-[12] Bo Li, Zehua Cheng, **Zhenghua Xu***, Wei Ye, Thomas Lukasiewicz and Shikun Zhang. Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment.  
+[12] Bo Li, Zehua Cheng, **Zhenghua Xu***, Wei Ye\*, Thomas Lukasiewicz and Shikun Zhang. Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment.  
 In the 44th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019. **(CCF Rank B)**  
 [[Details]](https://zhx-hebut.github.io/publication/ICASSP2019)   [[Download paper here]](http://zhx-hebut.github.io/files/ICASSP2019.pdf)  [[Code Release]](https://github.com/limberc/BPIE-BiSRNN)  
 
