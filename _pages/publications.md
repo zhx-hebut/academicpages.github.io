@@ -15,11 +15,11 @@ author_profile: true
 
 >**Top conference papers**
 
-[1] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets. 
+[1] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets.   
 In the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. **(CCF Rank A, Acceptance rate: 27%)**   
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   
 
-[2] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks. 
+[2] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks.   
 In the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021. **(CCF Rank A, Acceptance rate: 21%)** 
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_AAAI.pdf)   
 
@@ -88,7 +88,6 @@ In the 23rd Australasian Database Conference (ADC), 2012. **(Runner-up for Best 
 
 [18] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism.   
 In IEEE Access, 2020. **(SCI JCR Q1)**
-%[[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8396258)  
 
 [19] Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule.   
 In IEEE Access, 2020. **(SCI JCR Q1)**
