@@ -11,11 +11,12 @@ author_profile: true
 -  [Yuhang Song](https://www.cs.ox.ac.uk/people/yuhang.song/), D.Phil (Oxford.U, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2018-  
 -  Jianfeng Wang, D.Phil (Oxford.U, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2019- 
 -  Zehua Cheng,  D.Phil (Oxford.U, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2020- 
--  Di Yuan, Master (HeBUT) 2018-2020, PhD (HeBUT), 2020- (will work as a visiting PhD at Oxford.U from July 2022 to July 2024)  
+-  Di Yuan, PhD (HeBUT), 2020- (will work as a visiting PhD at Oxford.U from July 2022 to July 2024)  
 -  Miao Yu, PhD (HeBUT), 2020-  
 
 **Master students**  
 -----
+-  Di Yuan, Master (HeBUT) 2018-2020 (PhD at HeBUT)  
 -  Chang Qi, Master (HeBUT), 2018-2021 (Algorithm Engineer at Bilibili.com) 
 -  Bo Wang, Master (HeBUT), 2018-2021 (PhD at Hefei University of Technology)  
 -  Dan Zhao, Master (HeBUT), 2018-2021 (Technician at The Third Affiliated Hospital of Guangzhou Medical University)  
