@@ -10,7 +10,7 @@ redirect_from:
 
 Full Professor  
 Awardee of "100 Talents Plan" of Hebei Province (河北省“百人计划”入选者) 
-PI of Excellent Young Scientists Fund of Hebei Province  (河北省“优秀青年科学基金”获得者) 
+PI of Excellent Young Scientist Fund of Hebei Province  (河北省“优秀青年科学基金”获得者) 
 State Key Laboratory of Reliability and Intelligence of Electrical Equipment  
 [School of Electrical Engineering](http://ee.hebut.edu.cn/)  
 [Hebei University of Technology](http://www.hebut.edu.cn/)  
