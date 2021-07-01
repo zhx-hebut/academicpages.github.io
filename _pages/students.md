@@ -18,7 +18,7 @@ author_profile: true
 -----
 -  Chang Qi, Master (HeBUT), 2018-2021 (Algorithm Engineer at Bilibili.com) 
 -  Bo Wang, Master (HeBUT), 2018-2021 (PhD at Hefei University of Technology)  
--  Dan Zhao, Master (HeBUT), 2018-2021  
+-  Dan Zhao, Master (HeBUT), 2018-2021 (Technician at The Third Affiliated Hospital of Guangzhou Medical University)  
 -  Wenting Xu, Master (HeBUT), 2019-  (Intern at ByteDance)
 -  Tianrun Li, Master (HeBUT), 2019-  
 -  Shijie Liu, Master (HeBUT), 2019-  (Intern at ByteDance)
