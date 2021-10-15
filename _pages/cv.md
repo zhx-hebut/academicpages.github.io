@@ -11,7 +11,7 @@ redirect_from:
 
 Download Resume Here 
 
-%[English Version ](http://zhx-hebut.github.io/files/cv.pdf)
+[English Version ](http://zhx-hebut.github.io/files/cv.pdf)
 
-%[Chinese Version ](http://zhx-hebut.github.io/files/cv_cn.pdf)
+[Chinese Version ](http://zhx-hebut.github.io/files/cv_cn.pdf)
 
