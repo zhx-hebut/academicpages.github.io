@@ -11,8 +11,9 @@ author_profile: true
 -  [Yuhang Song](https://www.cs.ox.ac.uk/people/yuhang.song/), D.Phil (Oxford.U, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2018-  
 -  Jianfeng Wang, D.Phil (Oxford.U, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2019- 
 -  Zehua Cheng,  D.Phil (Oxford.U, co-Supervised with [Thomas Lukasiewicz](http://www.cs.ox.ac.uk/thomas.lukasiewicz/)), 2020- 
--  Di Yuan, PhD (HeBUT), 2020- (will work as a visiting PhD at Oxford.U from July 2022 to July 2024)  
+-  Di Yuan, PhD (HeBUT), 2020- (will visit Oxford.U as a visiting Scholar from July 2022 to July 2024)  
 -  Miao Yu, PhD (HeBUT), 2020-  
+-  Yunxin Liu, PhD (HeBUT), 2021-  
 
 **Master students**  
 -----
