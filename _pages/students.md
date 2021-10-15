@@ -17,10 +17,10 @@ author_profile: true
 
 **Master students**  
 -----
--  Di Yuan, Master (HeBUT), 2018-2020, PhD at HeBUT (Now) 
--  Chang Qi, Master (HeBUT), 2018-2021, Algorithm Engineer at Bilibili.com (Now) 
--  Bo Wang, Master (HeBUT), 2018-2021, PhD at Hefei University of Technology (Now)  
--  Dan Zhao, Master (HeBUT), 2018-2021, Technician at The Third Affiliated Hospital of Guangzhou Medical University (Now)  
+-  Di Yuan, Master (HeBUT), 2018-2020, PhD at HeBUT (Now).
+-  Chang Qi, Master (HeBUT), 2018-2021, Algorithm Engineer at Bilibili.com (Now). 
+-  Bo Wang, Master (HeBUT), 2018-2021, PhD at Hefei University of Technology (Now).  
+-  Dan Zhao, Master (HeBUT), 2018-2021, Technician at The Third Affiliated Hospital of Guangzhou Medical University (Now).  
 -  Wenting Xu, Master (HeBUT), 2019-, Algorithm Engineer at ByteDance (Intern)
 -  Tianrun Li, Master (HeBUT), 2019-   
 -  Shijie Liu, Master (HeBUT), 2019-, Algorithm Engineer at ByteDance (Intern)
