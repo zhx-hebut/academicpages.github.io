@@ -32,6 +32,11 @@ author_profile: true
 -  Jiaojiao Zhang, Master (HeBUT), 2020-
 -  Dan Yao, Master (HeBUT), 2020-
 -  Ze Li, Master (HeBUT), 2020-
+-  Xiangtao Wang, Master (HeBUT), 2021-
+-  Gang Xu, Master (HeBUT), 2021-
+-  Biao Tian, Master (HeBUT), 2021-
+-  Shengxin Wang, Master (HeBUT), 2021-
+-  Ruizhi Wang, Master (HeBUT), 2021-
 
 **Undergraduate students**  
 -----
