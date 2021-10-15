@@ -20,10 +20,10 @@ author_profile: true
 [2] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. **(CCF Rank A, Acceptance rate: 27%)**   
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   
 
-[3] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks. In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021. **(CCF Rank A, Acceptance rate: 21%)** 
+[3] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks. In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021. **(CCF Rank A, Acceptance rate: 21%)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_AAAI.pdf)   
 
-[4] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks. In Proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS), 2020. **(CCF Rank A, Acceptance rate: 20.09%)**
+[4] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks. In Proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS), 2020. **(CCF Rank A, Acceptance rate: 20.09%)**  
 [[Details]](https://zhx-hebut.github.io/publication/NeurIPS2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_NeurIPS.pdf)
 
 [5] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
