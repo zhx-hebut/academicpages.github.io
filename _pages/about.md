@@ -24,8 +24,8 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **News**
 -----
-* A paper "Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs" is accepted to publish in IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (IF: 10.451).
 * A paper "Associative Memories via Predictive Coding " is accepted by NeurIPS 2021 (CCF A).
+* A paper "Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs" is accepted to publish in IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (IF: 10.451).
 * A paper "RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets" is accepted by CVPR 2021 (CCF A).  
 * A paper "Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks" is accepted by AAAI 2021 (CCF A).  
 * I will serve as the Senior Program Committee (SPC) member in IJCAI 2021
