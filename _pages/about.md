@@ -44,6 +44,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 **Selected Publications**   
 -----
 Papers Listed below are my selected representative publications, please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) for a full list of ALL my publications. Here, \* stands for corresponding author, and \# stands for co-first author.
+
 [1] Tommaso Salvatori\#‚ Yuhang Song\#*‚ Yujian Hong‚ Simon Frieder‚ Lei Sha‚ **Zhenghua Xu**‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. NeurIPS 2021, CCF A.
 
 [2] Junyang Chen, Zhiguo Gong\*, Wei Wang, Cong Wang\*, **Zhenghua Xu**, Jianming Lv, Xueliang Li, Kaishun Wu, Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs. Accepted to publish in IEEE TNNLS, 2021, SCI Q1, IF: 10.451.  
