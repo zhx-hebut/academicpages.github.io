@@ -15,7 +15,7 @@ author_profile: true
 
 >**Top conference papers**
 
-[1] Tommaso Salvatori\#‚ Yuhang Song\#*‚ Yujian Hong‚ Simon Frieder‚ Lei Sha‚ Zhenghua Xu‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. In Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021. **(CCF Rank A, Acceptance rate: 26%)**
+[1] Tommaso Salvatori\#‚ Yuhang Song\#*‚ Yujian Hong‚ Simon Frieder‚ Lei Sha‚ **Zhenghua Xu**‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. In Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021. **(CCF Rank A, Acceptance rate: 26%)**
 
 [2] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. **(CCF Rank A, Acceptance rate: 27%)**   
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   
@@ -67,7 +67,7 @@ author_profile: true
  
 >**Top journal papers**
 
-[18] Junyang Chen, Zhiguo Gong\*, Wei Wang, Cong Wang\*, **Zhenghua Xu**, Jianming Lv, Xueliang Li, Kaishun Wu, Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs. Accepted to publish in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(SCI Q1, IF: 8.793)**  
+[18] Junyang Chen, Zhiguo Gong\*, Wei Wang, Cong Wang\*, **Zhenghua Xu**, Jianming Lv, Xueliang Li, Kaishun Wu, Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs. Accepted to publish in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(SCI Q1, IF: 10.451)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_TNNLS.pdf)   
 
 >**Other papers**  
