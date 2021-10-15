@@ -24,12 +24,12 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **News**
 -----
-* One paper "Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs" is accepted to publish in NeurIPS 2021 (IF: 10.451).
-* One paper "Associative Memories via Predictive Coding " is accepted by NeurIPS 2021 (CCF A).
-* One paper "RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets" is accepted by CVPR 2021 (CCF A).  
-* One paper "Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks" is accepted by AAAI 2021 (CCF A).  
+* A paper "Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs" is accepted to publish in NeurIPS 2021 (IF: 10.451).
+* A paper "Associative Memories via Predictive Coding " is accepted by NeurIPS 2021 (CCF A).
+* A paper "RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets" is accepted by CVPR 2021 (CCF A).  
+* A paper "Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks" is accepted by AAAI 2021 (CCF A).  
 * I will serve as the Senior Program Committee (SPC) member in IJCAI 2021
-* One paper "Can the Brain Do Backpropagation" is accepted by NeurIPS 2020 (CCF A).  
+* A paper "Can the Brain Do Backpropagation" is accepted by NeurIPS 2020 (CCF A).  
 * I serve as the Program Committee Member in AAAI 2020-21, IJCAI 2020, ECAI 2020, and MICCAI 2020.
 * Two papers "Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence" and "Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards" are accepted by AAAI 2020 (CCF A).  
 * I serve as the session chair in IJCAI 2019.  
