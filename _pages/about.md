@@ -43,7 +43,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **Selected Publications**   
 -----
-Papers Listed below are my selected representative publications, please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) for a full list of ALL my publications.  
+Papers listed below are my selected representative publications, please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) for a full list of ALL my publications.  
 (\* stands for corresponding author, and \# stands for co-first author.)
 
 [1] Tommaso Salvatori\#‚ Yuhang Song\#*‚ Yujian Hong‚ Simon Frieder‚ Lei Sha‚ **Zhenghua Xu**‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. NeurIPS 2021, CCF A.
