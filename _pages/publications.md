@@ -15,7 +15,7 @@ author_profile: true
 
 >**Top conference papers**
 
-[1] Tommaso Salvatori‚ Yuhang Song*‚ **Zhenghua Xu**‚ Thomas Lukasiewicz and Rafal Bogacz. Reverse Differentiation via Predictive Coding. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. **(CCF Rank A, Acceptance rate: 26%)**  
+[1] Tommaso Salvatori‚ Yuhang Song*‚ **Zhenghua Xu**‚ Thomas Lukasiewicz and Rafal Bogacz. Reverse Differentiation via Predictive Coding. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. **(CCF Rank A, Acceptance rate: 15%)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_AAAI_Camera_Ready.pdf)  
 
 [1] Tommaso Salvatori\#‚ Yuhang Song\#*‚ Yujian Hong‚ Simon Frieder‚ Lei Sha‚ **Zhenghua Xu**‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. In Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021. **(CCF Rank A, Acceptance rate: 26%)**  
