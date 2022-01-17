@@ -45,7 +45,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **Selected Publications**   
 -----
-Papers listed below are my selected representative publications, please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) for a full list of ALL my publications.  
+Papers below are selected representative publications, please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) for ALL my publications.  
 (\* stands for corresponding author, and \# stands for co-first author.)
 
 [1] Tommaso Salvatori‚ Yuhang Song*‚ **Zhenghua Xu**‚ Thomas Lukasiewicz and Rafal Bogacz. Reverse Differentiation via Predictive Coding. AAAI 2022. CCF A.  
