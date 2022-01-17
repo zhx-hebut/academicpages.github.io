@@ -80,7 +80,7 @@ author_profile: true
 
 >**Other papers**  
 
-[21] Zihang Lei, Mengxi Jiang, Guangsong Yang, Tianmin Guan, Peng Huang, Yu Gu, **Zhenghua Xu**, Qiubo Ye. Towards Recurrent Neural Network with Multi-Path Feature Fusion for Signal Modulation Recognition. In IEEE Access, 2022. **(SCI JCR Q1)**
+[21] Zihang Lei, Mengxi Jiang, Guangsong Yang, Tianmin Guan, Peng Huang, Yu Gu, **Zhenghua Xu**, Qiubo Ye. Towards Recurrent Neural Network with Multi-Path Feature Fusion for Signal Modulation Recognition. In IEEE Access, 2022. **(SCI JCR Q2)**
 
 [22] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism. In IEEE Access, 2020. **(SCI JCR Q1)**
 
