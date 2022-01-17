@@ -15,7 +15,11 @@ author_profile: true
 
 >**Top conference papers**
 
-[1] Tommaso Salvatori\#‚ Yuhang Song\#*‚ Yujian Hong‚ Simon Frieder‚ Lei Sha‚ **Zhenghua Xu**‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. In Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021. **(CCF Rank A, Acceptance rate: 26%)**
+[1] Tommaso Salvatori‚ Yuhang Song*‚ **Zhenghua Xu**‚ Thomas Lukasiewicz and Rafal Bogacz. Reverse Differentiation via Predictive Coding. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. **(CCF Rank A, Acceptance rate: 26%)**  
+[[Download paper here]](http://zhx-hebut.github.io/files/2022_AAAI_Camera_Ready.pdf)  
+
+[1] Tommaso Salvatori\#‚ Yuhang Song\#*‚ Yujian Hong‚ Simon Frieder‚ Lei Sha‚ **Zhenghua Xu**‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. In Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021. **(CCF Rank A, Acceptance rate: 26%)**  
+[[Download paper here]](http://zhx-hebut.github.io/files/2021_NeurIPS-compressed.pdf)   
 
 [2] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. **(CCF Rank A, Acceptance rate: 27%)**   
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   
@@ -67,10 +71,16 @@ author_profile: true
  
 >**Top journal papers**
 
+[18] Haozhe Lin, Yushun Fan, Jia Zhang, Bing Bai, **Zhenghua Xu**, Thomas Lukasiewicz. Toward Knowledge as a Service (KaaS): Predicting Popularity of Knowledge Services Leveraging Graph Neural Networks. Accepted to publish in IEEE Transactions on  SERVICE COMPUTING (TSC), 2022. **(SCI Q1, IF: 8.216)**  
+[[Download paper here]](http://zhx-hebut.github.io/files/2021_TNNLS.pdf)
+
 [18] Junyang Chen, Zhiguo Gong\*, Wei Wang, Cong Wang\*, **Zhenghua Xu**, Jianming Lv, Xueliang Li, Kaishun Wu, Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs. Accepted to publish in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(SCI Q1, IF: 10.451)**  
-[[Download paper here]](http://zhx-hebut.github.io/files/2021_TNNLS.pdf)   
+[[Download paper here]](http://zhx-hebut.github.io/files/2022_IEEE_TSC.pdf)
+
 
 >**Other papers**  
+
+[19] Zihang Lei, Mengxi Jiang, Guangsong Yang, Tianmin Guan, Peng Huang, Yu Gu, **Zhenghua Xu**, Qiubo Ye. Towards Recurrent Neural Network with Multi-Path Feature Fusion for Signal Modulation Recognition. In IEEE Access, 2022. **(SCI JCR Q1)**
 
 [19] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism. In IEEE Access, 2020. **(SCI JCR Q1)**
 
