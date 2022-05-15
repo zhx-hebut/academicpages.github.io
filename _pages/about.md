@@ -45,7 +45,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 Papers below are selected representative publications, please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) for ALL my publications.  
 (\* stands for corresponding author, and \# stands for co-first author.)
 
-[1] **Zhenghua Xu***, Shijie Liu, Di Yuan*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Accepted to publish in Neurocomputing, 2022. **(SCI Q1, IF: 5.719)**  
+[1] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Accepted to publish in Neurocomputing, 2022. **(SCI Q1, IF: 5.719)**  
 
 [2] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple But Effective Module for Learning Imbalanced Datasets, CVPR 2021, CCF A.  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   
