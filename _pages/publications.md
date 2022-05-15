@@ -21,17 +21,17 @@ author_profile: true
 [2] Tommaso Salvatori\#‚ Yuhang Song\#*‚ Yujian Hong‚ Simon Frieder‚ Lei Sha‚ **Zhenghua Xu**‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. In Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021. **(CCF Rank A, Acceptance rate: 26%)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_NeurIPS-compressed.pdf)   
 
-[3] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. **(CCF Rank A, Acceptance rate: 27%)**   
+[3] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple But Effective Module for Learning Imbalanced Datasets. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. **(CCF Rank A, Acceptance rate: 27%)**   
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   
 
-[4] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks. In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021. **(CCF Rank A, Acceptance rate: 21%)**  
+[4] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems. In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021. **(CCF Rank A, Acceptance rate: 21%)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_AAAI.pdf)   
 
 [5] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks. In Proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS), 2020. **(CCF Rank A, Acceptance rate: 20.09%)**  
 [[Details]](https://zhx-hebut.github.io/publication/NeurIPS2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_NeurIPS.pdf)
 
 [6] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
-[[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena)  [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Mega-Reward.pdf)
+[[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena)  [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)
 
 [7] Yuhang Song‚ Jianyi Wang‚ Thomas Lukasiewicz‚ **Zhenghua Xu***‚ Shangtong Zhang‚ Andrzej Wojcicki and Mai Xu. Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Mega-Reward)  [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Mega-Reward.pdf)
@@ -71,33 +71,36 @@ author_profile: true
  
 >**Top journal papers**
 
-[19] Haozhe Lin, Yushun Fan, Jia Zhang, Bing Bai, **Zhenghua Xu**, Thomas Lukasiewicz. Toward Knowledge as a Service (KaaS): Predicting Popularity of Knowledge Services Leveraging Graph Neural Networks. Accepted to publish in IEEE Transactions on  SERVICE COMPUTING (TSC), 2022. **(SCI Q1, IF: 8.216)**  
+[19] **Zhenghua Xu***, Shijie Liu, Di Yuan*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Accepted to publish in Neurocomputing, 2022. **(SCI Q1, IF: 5.719)**  
+%[[Download paper here]](http://zhx-hebut.github.io/files/2021_TNNLS.pdf)
+
+[20] Haozhe Lin, Yushun Fan, Jia Zhang, Bing Bai, **Zhenghua Xu**, Thomas Lukasiewicz. Toward Knowledge as a Service (KaaS): Predicting Popularity of Knowledge Services Leveraging Graph Neural Networks. IEEE Transactions on  SERVICE COMPUTING (TSC), 2022. **(SCI Q1, IF: 8.216)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_TNNLS.pdf)
 
-[20] Junyang Chen, Zhiguo Gong\*, Wei Wang, Cong Wang\*, **Zhenghua Xu**, Jianming Lv, Xueliang Li, Kaishun Wu, Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs. Accepted to publish in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(SCI Q1, IF: 10.451)**  
+[21] Junyang Chen, Zhiguo Gong\*, Wei Wang, Cong Wang\*, **Zhenghua Xu**, Jianming Lv, Xueliang Li, Kaishun Wu, Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(SCI Q1, IF: 10.451)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_IEEE_TSC.pdf)
 
 
 >**Other papers**  
 
-[21] Zihang Lei, Mengxi Jiang, Guangsong Yang, Tianmin Guan, Peng Huang, Yu Gu, **Zhenghua Xu**, Qiubo Ye. Towards Recurrent Neural Network with Multi-Path Feature Fusion for Signal Modulation Recognition. In Wireless Networks, 2022. **(SCI JCR Q2)**
+[22] Zihang Lei, Mengxi Jiang, Guangsong Yang, Tianmin Guan, Peng Huang, Yu Gu, **Zhenghua Xu**, Qiubo Ye. Towards Recurrent Neural Network with Multi-Path Feature Fusion for Signal Modulation Recognition. In Wireless Networks, 2022. **(SCI JCR Q2)**
 
-[22] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism. In IEEE Access, 2020. **(SCI JCR Q1)**
+[23] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism. In IEEE Access, 2020. **(SCI JCR Q1)**
 
-[23] Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule. In IEEE Access, 2020. **(SCI JCR Q1)**
+[24] Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule. In IEEE Access, 2020. **(SCI JCR Q1)**
 
-[24] **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity. In IEEE Access, 2018. **(SCI JCR Q1)**    
+[25] **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity. In IEEE Access, 2018. **(SCI JCR Q1)**    
 [[Details]](https://zhx-hebut.github.io/publication/Access2018)  [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8396258)  
 
-[25] Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz. Location-Aware Personalized News Recommendation With Deep Semantic Analysis. In IEEE Access, 2017. **(SCI JCR Q1)**  
+[26] Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz. Location-Aware Personalized News Recommendation With Deep Semantic Analysis. In IEEE Access, 2017. **(SCI JCR Q1)**  
 [[Details]](https://zhx-hebut.github.io/publication/Access2017)  [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7823033)
 
-[26] **Zhenghua Xu**, Thomas Lukasiewicz and Oana TifreaMarciuska. Improving Personalized Search on the Social Web Based on Similarities between Users. In Proceedings of the 8th International Conference on Scalable Uncertainty Management (SUM), 2014. **(EI)**  
+[27] **Zhenghua Xu**, Thomas Lukasiewicz and Oana TifreaMarciuska. Improving Personalized Search on the Social Web Based on Similarities between Users. In Proceedings of the 8th International Conference on Scalable Uncertainty Management (SUM), 2014. **(EI)**  
 [[Details]](https://zhx-hebut.github.io/publication/SUM) [[Download paper here]](http://zhx-hebut.github.io/files/SUM.pdf)
 
-[27] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. A Multi-Module Anomaly Detection Scheme based on System Call Prediction. In Proceedings of the 8th IEEE Conference on Industrial Electronics and Applications (ICIEA), 2013. **(EI & ISTP)**   
+[28] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. A Multi-Module Anomaly Detection Scheme based on System Call Prediction. In Proceedings of the 8th IEEE Conference on Industrial Electronics and Applications (ICIEA), 2013. **(EI & ISTP)**   
 [[Details]](https://zhx-hebut.github.io/publication/ICIEA) [[Download paper here]](http://zhx-hebut.github.io/files/ICIEA.pdf)  
 
-[28] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System. In Proceedings of the 6th International Congress on Image and Signal Processing (CISP), 2013. **(EI & ISTP)**    
+[29] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System. In Proceedings of the 6th International Congress on Image and Signal Processing (CISP), 2013. **(EI & ISTP)**    
 [[Details]](https://zhx-hebut.github.io/publication/CISP) [[Download paper here]](http://zhx-hebut.github.io/files/CISP.pdf)  
 
