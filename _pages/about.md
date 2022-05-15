@@ -28,8 +28,8 @@ E-mail: firstname.lastname@hebut.edu.cn
 * A paper "Toward Knowledge as a Service (KaaS): Predicting Popularity of Knowledge Services Leveraging Graph Neural Networks" is accepted by IEEE TSC (IF: 8.216).
 * A paper "Associative Memories via Predictive Coding" is accepted by NeurIPS 2021 (CCF A).
 * A paper "Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs" is accepted to publish in IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (IF: 10.451).
-* A paper "RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets" is accepted by CVPR 2021 (CCF A).  
-* A paper "Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks" is accepted by AAAI 2021 (CCF A).  
+* A paper "RSG: A Simple But Effective Module for Learning Imbalanced Datasets" is accepted by CVPR 2021 (CCF A).  
+* A paper "Detecting Beneficial Feature Interactions for Recommender Systems" is accepted by AAAI 2021 (CCF A).  
 * I will serve as the Senior Program Committee (SPC) member in IJCAI 2021
 * A paper "Can the Brain Do Backpropagation" is accepted by NeurIPS 2020 (CCF A).  
 * I serve as the Program Committee Member in AAAI 2020-21, IJCAI 2020, ECAI 2020, and MICCAI 2020.
@@ -60,10 +60,10 @@ Papers below are selected representative publications, please refer to [[**Publi
 [4] Junyang Chen, Zhiguo Gong\*, Wei Wang, Cong Wang\*, **Zhenghua Xu**, Jianming Lv, Xueliang Li, Kaishun Wu, Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs. Accepted to publish in IEEE TNNLS, 2021, SCI Q1, IF: 10.451.  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_TNNLS.pdf)   
 
-[5] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple Yet Effective Module for Learning Imbalanced Datasets, CVPR 2021, CCF A.  
+[5] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple But Effective Module for Learning Imbalanced Datasets, CVPR 2021, CCF A.  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   
 
-[6] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems via Graph Neural Networks, AAAI 2021, CCF A.  
+[6] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems, AAAI 2021, CCF A.  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_AAAI.pdf)   
 
 [7] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks, NeurIPS 2020, CCF A.  
