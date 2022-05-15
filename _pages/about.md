@@ -40,9 +40,9 @@ E-mail: firstname.lastname@hebut.edu.cn
 - My current research interests include Deep Learning, Reinforcement Learning, AI in Healthcare, Medical Image Computing, Biologically Plausible Deep Networks, and Recommender Systems.
 
 
-**Selected Publications**   
+**Selected Representative Publications**   
 -----
-Papers below are selected representative publications, please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) for ALL my publications.  
+Please also refer to [[**Publications**]](https://zhx-hebut.github.io/publications) for ALL my publications.  
 (\* stands for corresponding author, and \# stands for co-first author.)
 
 [1] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Accepted to publish in Neurocomputing, 2022. **(SCI Q1, IF: 5.719)**  
