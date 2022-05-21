@@ -72,7 +72,7 @@ author_profile: true
 >**Top journal papers**
 
 [19] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Accepted to publish in Neurocomputing, 2022. **(SCI Q1, IF: 5.719)**  
-%[[Download paper here]](http://zhx-hebut.github.io/files/2021_TNNLS.pdf)
+[[Download paper here]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222006221)
 
 [20] Haozhe Lin, Yushun Fan, Jia Zhang, Bing Bai, **Zhenghua Xu**, Thomas Lukasiewicz. Toward Knowledge as a Service (KaaS): Predicting Popularity of Knowledge Services Leveraging Graph Neural Networks. IEEE Transactions on  SERVICE COMPUTING (TSC), 2022. **(SCI Q1, IF: 8.216)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_TNNLS.pdf)
