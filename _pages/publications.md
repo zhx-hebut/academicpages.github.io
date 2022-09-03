@@ -74,33 +74,36 @@ author_profile: true
 [19] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Accepted to publish in Neurocomputing, 2022. **(SCI Q1, IF: 5.719)**  
 [[Download paper here]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222006221)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/w_net_code.zip)
 
-[20] Haozhe Lin, Yushun Fan, Jia Zhang, Bing Bai, **Zhenghua Xu**, Thomas Lukasiewicz. Toward Knowledge as a Service (KaaS): Predicting Popularity of Knowledge Services Leveraging Graph Neural Networks. IEEE Transactions on  SERVICE COMPUTING (TSC), 2022. **(SCI Q1, IF: 8.216)**  
-[[Download paper here]](http://zhx-hebut.github.io/files/2021_TNNLS.pdf)
+[20] Junyang Chen, Mengzhu Wang, Haodi Zhang, Zhenghua Xu, Xueliang Li, Zhiguo Gong, Kaishun Wu, Victor C. M. Leung. IRLM: Inductive Representation Learning Model for Personalized POI Recommendation. Accepted to publish in IEEE Transactions on Computational Social System.
+[[Download paper here]](http://zhx-hebut.github.io/files/2022_IEEE TCSS.pdf)
 
-[21] Junyang Chen, Zhiguo Gong\*, Wei Wang, Cong Wang\*, **Zhenghua Xu**, Jianming Lv, Xueliang Li, Kaishun Wu, Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(SCI Q1, IF: 10.451)**  
+[21] Haozhe Lin, Yushun Fan, Jia Zhang, Bing Bai, **Zhenghua Xu**, Thomas Lukasiewicz. Toward Knowledge as a Service (KaaS): Predicting Popularity of Knowledge Services Leveraging Graph Neural Networks. IEEE Transactions on SERVICE COMPUTING (TSC), 2022. **(SCI Q1, IF: 8.216)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_IEEE_TSC.pdf)
+
+[22] Junyang Chen, Zhiguo Gong\*, Wei Wang, Cong Wang\*, **Zhenghua Xu**, Jianming Lv, Xueliang Li, Kaishun Wu, Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(SCI Q1, IF: 10.451)**  
+[[Download paper here]](http://zhx-hebut.github.io/files/2021_TNNLS.pdf)
 
 
 >**Other papers**  
 
-[22] Zihang Lei, Mengxi Jiang, Guangsong Yang, Tianmin Guan, Peng Huang, Yu Gu, **Zhenghua Xu**, Qiubo Ye. Towards Recurrent Neural Network with Multi-Path Feature Fusion for Signal Modulation Recognition. In Wireless Networks, 2022. **(SCI JCR Q2)**
+[23] Zihang Lei, Mengxi Jiang, Guangsong Yang, Tianmin Guan, Peng Huang, Yu Gu, **Zhenghua Xu**, Qiubo Ye. Towards Recurrent Neural Network with Multi-Path Feature Fusion for Signal Modulation Recognition. In Wireless Networks, 2022. **(SCI JCR Q2)**
 
-[23] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism. In IEEE Access, 2020. **(SCI JCR Q1)**
+[24] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism. In IEEE Access, 2020. **(SCI JCR Q1)**
 
-[24] Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule. In IEEE Access, 2020. **(SCI JCR Q1)**
+[25] Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule. In IEEE Access, 2020. **(SCI JCR Q1)**
 
-[25] **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity. In IEEE Access, 2018. **(SCI JCR Q1)**    
+[26] **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity. In IEEE Access, 2018. **(SCI JCR Q1)**    
 [[Details]](https://zhx-hebut.github.io/publication/Access2018)  [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8396258)  
 
-[26] Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz. Location-Aware Personalized News Recommendation With Deep Semantic Analysis. In IEEE Access, 2017. **(SCI JCR Q1)**  
+[27] Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz. Location-Aware Personalized News Recommendation With Deep Semantic Analysis. In IEEE Access, 2017. **(SCI JCR Q1)**  
 [[Details]](https://zhx-hebut.github.io/publication/Access2017)  [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7823033)
 
-[27] **Zhenghua Xu**, Thomas Lukasiewicz and Oana TifreaMarciuska. Improving Personalized Search on the Social Web Based on Similarities between Users. In Proceedings of the 8th International Conference on Scalable Uncertainty Management (SUM), 2014. **(EI)**  
+[28] **Zhenghua Xu**, Thomas Lukasiewicz and Oana TifreaMarciuska. Improving Personalized Search on the Social Web Based on Similarities between Users. In Proceedings of the 8th International Conference on Scalable Uncertainty Management (SUM), 2014. **(EI)**  
 [[Details]](https://zhx-hebut.github.io/publication/SUM) [[Download paper here]](http://zhx-hebut.github.io/files/SUM.pdf)
 
-[28] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. A Multi-Module Anomaly Detection Scheme based on System Call Prediction. In Proceedings of the 8th IEEE Conference on Industrial Electronics and Applications (ICIEA), 2013. **(EI & ISTP)**   
+[29] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. A Multi-Module Anomaly Detection Scheme based on System Call Prediction. In Proceedings of the 8th IEEE Conference on Industrial Electronics and Applications (ICIEA), 2013. **(EI & ISTP)**   
 [[Details]](https://zhx-hebut.github.io/publication/ICIEA) [[Download paper here]](http://zhx-hebut.github.io/files/ICIEA.pdf)  
 
-[29] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System. In Proceedings of the 6th International Congress on Image and Signal Processing (CISP), 2013. **(EI & ISTP)**    
+[30] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System. In Proceedings of the 6th International Congress on Image and Signal Processing (CISP), 2013. **(EI & ISTP)**    
 [[Details]](https://zhx-hebut.github.io/publication/CISP) [[Download paper here]](http://zhx-hebut.github.io/files/CISP.pdf)  
 
