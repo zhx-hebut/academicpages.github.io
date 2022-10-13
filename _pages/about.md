@@ -47,29 +47,32 @@ E-mail: firstname.lastname@hebut.edu.cn
 Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) for the full list of ALL my publications.  
 (\* stands for corresponding author, and \# stands for co-first author.)
 
-[1] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Accepted to publish in Neurocomputing, 2022. **(SCI Q1, IF: 5.719)**  
+[1] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. Accepted to publish in Medical Image Analysis, 2022. **(SCI Q1, IF: 13.828)**  
+[[Download paper here]](http://zhx-hebut.github.io/files/2022_MIA_before_proof.pdf) 
+
+[2] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Neurocomputing, 2022. **(SCI Q1, IF: 5.719)**  
 [[Download paper here]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222006221)  
 
-[2] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple But Effective Module for Learning Imbalanced Datasets, CVPR 2021, CCF A.  
+[3] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple But Effective Module for Learning Imbalanced Datasets, CVPR 2021, CCF A.  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   
 
-[3] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems, AAAI 2021, CCF A.  
+[4] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems, AAAI 2021, CCF A.  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_AAAI.pdf)   
 
-[4] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks, NeurIPS 2020, CCF A.  
+[5] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks, NeurIPS 2020, CCF A.  
 [[Details]](https://zhx-hebut.github.io/publication/NeurIPS2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_NeurIPS.pdf)
 
-[5] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence, AAAI 2020, CCF A.  
+[6] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence, AAAI 2020, CCF A.  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena) [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)
 
-[6] Yuhang Song‚ Jianyi Wang‚ Thomas Lukasiewicz‚ **Zhenghua Xu***‚ Shangtong Zhang‚ Andrzej Wojcicki and Mai Xu. Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards, AAAI 2020, CCF A.  
+[7] Yuhang Song‚ Jianyi Wang‚ Thomas Lukasiewicz‚ **Zhenghua Xu***‚ Shangtong Zhang‚ Andrzej Wojcicki and Mai Xu. Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards, AAAI 2020, CCF A.  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2019) [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Mega-Reward.pdf)
 
-[7] Yuhang Song, Jianyi Wang, Thomas Lukasiewicz, **Zhenghua Xu*** and Mai Xu. Diversity-Driven Extensible Hierarchical Reinforcement Learning, AAAI 2019, CCF A.  
+[8] Yuhang Song, Jianyi Wang, Thomas Lukasiewicz, **Zhenghua Xu*** and Mai Xu. Diversity-Driven Extensible Hierarchical Reinforcement Learning, AAAI 2019, CCF A.  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2019)  [[Download paper here]](http://zhx-hebut.github.io/files/AAAI2019.pdf)  [[Code Release]](https://github.com/YuhangSong/DEHRL)    [[Oral Presentation]](https://docs.google.com/presentation/d/18olkElCpJoE0iPnyS6DpE8zH8I3mggcCvcWI5yJDJkI/edit#slide=id.p3)
 
-[8] **Zhenghua Xu**, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model, IJCAI 2017, CCF A.   
+[10] **Zhenghua Xu**, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model, IJCAI 2017, CCF A.   
 [[Details]](https://zhx-hebut.github.io/publication/IJCAI2017)  [[Download paper here]](https://www.ijcai.org/proceedings/2017/0446.pdf)
 
-[9] Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu***. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction, ICDE2013, CCF A.  
+[11] Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu***. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction, ICDE2013, CCF A.  
 [[Details]](https://zhx-hebut.github.io/publication/ICDE2013)  
