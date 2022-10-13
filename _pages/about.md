@@ -24,6 +24,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **News**
 -----
+* A paper "Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation" is accepted to published in Medical Image Analysis (SCI Q1, IF: 13.828).  
 * I serve as the Senior Program Committee (SPC) member in AAAI 2023.
 * A paper "ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution" is accepted to published in Neurocomputing (SCI Q1, IF: 5.719).  
 * A paper "RSG: A Simple But Effective Module for Learning Imbalanced Datasets" is accepted by CVPR 2021 (CCF A).  
