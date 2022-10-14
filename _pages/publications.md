@@ -89,16 +89,16 @@ author_profile: true
 
 >**Other papers**  
 
-[24] Zihang Lei, Mengxi Jiang, Guangsong Yang, Tianmin Guan, Peng Huang, Yu Gu, **Zhenghua Xu**, Qiubo Ye. Towards Recurrent Neural Network with Multi-Path Feature Fusion for Signal Modulation Recognition. In Wireless Networks, 2022. **(SCI JCR Q2)**
+[24] Zihang Lei, Mengxi Jiang, Guangsong Yang, Tianmin Guan, Peng Huang, Yu Gu, **Zhenghua Xu**, Qiubo Ye. Towards Recurrent Neural Network with Multi-Path Feature Fusion for Signal Modulation Recognition. In Wireless Networks, 2022. **(SCI)**
 
-[25] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism. In IEEE Access, 2020. **(SCI JCR Q1)**
+[25] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism. In IEEE Access, 2020. **(SCI)**
 
-[26] Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule. In IEEE Access, 2020. **(SCI JCR Q1)**
+[26] Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule. In IEEE Access, 2020. **(SCI)**
 
-[27] **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity. In IEEE Access, 2018. **(SCI JCR Q1)**    
+[27] **Zhenghua Xu**, Oana Tifrea-Marciuska, Thomas Lukasiewicz, Maria Vanina Martinez, Gerardo I. Simari and Cheng Chen.  Lightweight Tag-Aware Personalized Recommendation on the Social Web Using Ontological Similarity. In IEEE Access, 2018. **(SCI)**    
 [[Details]](https://zhx-hebut.github.io/publication/Access2018)  [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8396258)  
 
-[28] Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz. Location-Aware Personalized News Recommendation With Deep Semantic Analysis. In IEEE Access, 2017. **(SCI JCR Q1)**  
+[28] Cheng Chen, Xiangwu Meng, **Zhenghua Xu**, and Thomas Lukasiewicz. Location-Aware Personalized News Recommendation With Deep Semantic Analysis. In IEEE Access, 2017. **(SCI)**  
 [[Details]](https://zhx-hebut.github.io/publication/Access2017)  [[Download paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7823033)
 
 [29] **Zhenghua Xu**, Thomas Lukasiewicz and Oana TifreaMarciuska. Improving Personalized Search on the Social Web Based on Similarities between Users. In Proceedings of the 8th International Conference on Scalable Uncertainty Management (SUM), 2014. **(EI)**  
