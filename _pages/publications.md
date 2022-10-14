@@ -60,7 +60,7 @@ author_profile: true
 [15] Cheng Chen, Thomas Lukasiewicz, Xiangwu Meng and **Zhenghua Xu** (co-first author, in alphabetical order). Location-Aware News Recommendation Using Deep Localized Semantic Analysis. In Proceedings of the 22nd International Conference on Database Systems for Advanced Applications (DASFAA), 2017. **(CCF Rank B, Acceptance rate: 24.3%)**   
 [[Details]](https://zhx-hebut.github.io/publication/DASFAA2017)  [[Download paper here]](http://zhx-hebut.github.io/files/DASFAA2017.pdf)  
 
-[16] **Zhenghua Xu**, Cheng Chen, Thomas Lukasiewicz, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling. In Proceedings of the 25th ACM International Conference on Information and Knowledge Management (CIKM),2016. **(CCF Rank B, Acceptance rate: 28.8%)**   
+[16] **Zhenghua Xu**, Cheng Chen, Thomas Lukasiewicz, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling. In Proceedings of the 25th ACM International Conference on Information and Knowledge Management (CIKM), 2016. **(CCF Rank B, Acceptance rate: 28.8%)**   
 [[Details]](https://zhx-hebut.github.io/publication/CIKM2016)  [[Download paper here]](http://zhx-hebut.github.io/files/CIKM2016.pdf)
 
 [17] **Zhenghua Xu**, Rui Zhang, Ramamohanarao Kotagiri and Udaya Parampalli. An Adaptive Online Algorithm for Time Series Segmentation with Error Bound Guarantee. In Proceedings of the 15th International Conference on Extending Database Technology (EDBT), 2012. **(CCF Rank B, Acceptance rate: 22.5%)**    
@@ -74,13 +74,13 @@ author_profile: true
 [19] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. Accepted to publish in Medical Image Analysis, 2022. **(SCI Q1, IF: 13.828)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_MIA_before_proof.pdf) 
 
-[20] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Neurocomputing, 2022. **(SCI Q1, IF: 5.719)**  
+[20] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Neurocomputing, 2022. **(SCI Q2, IF: 5.779)**  
 [[Download paper here]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222006221)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/w_net_code.zip)
 
-[21] Junyang Chen, Mengzhu Wang, Haodi Zhang, Zhenghua Xu, Xueliang Li, Zhiguo Gong, Kaishun Wu, Victor C. M. Leung. IRLM: Inductive Representation Learning Model for Personalized POI Recommendation. IEEE Transactions on Computational Social System.
+[21] Junyang Chen, Mengzhu Wang, Haodi Zhang, Zhenghua Xu, Xueliang Li, Zhiguo Gong, Kaishun Wu, Victor C. M. Leung. IRLM: Inductive Representation Learning Model for Personalized POI Recommendation. IEEE Transactions on Computational Social System, 2022. **(SCI Q2, IF: 4.747)** 
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_IEEE TCSS.pdf)
 
-[22] Haozhe Lin, Yushun Fan, Jia Zhang, Bing Bai, **Zhenghua Xu**, Thomas Lukasiewicz. Toward Knowledge as a Service (KaaS): Predicting Popularity of Knowledge Services Leveraging Graph Neural Networks. IEEE Transactions on SERVICE COMPUTING (TSC), 2022. **(SCI Q1, IF: 8.216)**  
+[22] Haozhe Lin, Yushun Fan, Jia Zhang, Bing Bai, **Zhenghua Xu**, Thomas Lukasiewicz. Toward Knowledge as a Service (KaaS): Predicting Popularity of Knowledge Services Leveraging Graph Neural Networks. IEEE Transactions on Service Computing (TSC), 2022. **(SCI Q1, IF: 8.216)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_IEEE_TSC.pdf)
 
 [23] Junyang Chen, Zhiguo Gong\*, Wei Wang, Cong Wang\*, **Zhenghua Xu**, Jianming Lv, Xueliang Li, Kaishun Wu, Weiwen Liu. Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. **(SCI Q1, IF: 10.451)**  
