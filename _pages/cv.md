@@ -9,9 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Download Resume Here 
-
-[English Version ](http://zhx-hebut.github.io/files/cv.pdf)
-
-[Chinese Version ](http://zhx-hebut.github.io/files/cv_cn.pdf)
+Download Resume Here: [CV of Zhenghua Xu](http://zhx-hebut.github.io/files/cv.pdf)
 
