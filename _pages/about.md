@@ -71,5 +71,5 @@ Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) f
 [8] Yuhang Song, Jianyi Wang, Thomas Lukasiewicz, **Zhenghua Xu*** and Mai Xu. Diversity-Driven Extensible Hierarchical Reinforcement Learning, AAAI 2019, **CCF A**.  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2019)  [[Download paper here]](http://zhx-hebut.github.io/files/AAAI2019.pdf)  [[Code Release]](https://github.com/YuhangSong/DEHRL)    [[Oral Presentation]](https://docs.google.com/presentation/d/18olkElCpJoE0iPnyS6DpE8zH8I3mggcCvcWI5yJDJkI/edit#slide=id.p3)
 
-[10] **Zhenghua Xu**, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model, IJCAI 2017, **CCF A**.   
+[9] **Zhenghua Xu**, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model, IJCAI 2017, **CCF A**.   
 [[Details]](https://zhx-hebut.github.io/publication/IJCAI2017)  [[Download paper here]](https://www.ijcai.org/proceedings/2017/0446.pdf)
