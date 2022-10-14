@@ -6,6 +6,7 @@ redirect_from:
   - /md/
   - /award.html
 ---
+-  Jan 2023 – Dec 2026, General Fund of the National Natural Science Foundation of China, RMB 530k.
 -  Jan 2021 - Dec 2023, Excellent Young Scientist Fund of the Natural Science Foundation of Hebei Province, RMB 200k.  
 -  Jan 2020 - Dec 2022, "100 Talents Plan" of Hebei Province, RMB 500k.  
 -  Jan 2020 – Dec 2022, Young Scientist Fund of the National Natural Science Foundation of China, RMB 200k.  
