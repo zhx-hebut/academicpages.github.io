@@ -77,7 +77,7 @@ author_profile: true
 [20] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Neurocomputing, 2022. **(SCI Q2, IF: 5.779)**  
 [[Download paper here]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222006221)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/w_net_code.zip)
 
-[21] Junyang Chen, Mengzhu Wang, Haodi Zhang, Zhenghua Xu, Xueliang Li, Zhiguo Gong, Kaishun Wu, Victor C. M. Leung. IRLM: Inductive Representation Learning Model for Personalized POI Recommendation. IEEE Transactions on Computational Social System, 2022. **(SCI Q2, IF: 4.747)** 
+[21] Junyang Chen, Mengzhu Wang, Haodi Zhang, Zhenghua Xu, Xueliang Li, Zhiguo Gong, Kaishun Wu, Victor C. M. Leung. IRLM: Inductive Representation Learning Model for Personalized POI Recommendation. IEEE Transactions on Computational Social System, 2022. **(SCI Q2, IF: 4.747)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_IEEE TCSS.pdf)
 
 [22] Haozhe Lin, Yushun Fan, Jia Zhang, Bing Bai, **Zhenghua Xu**, Thomas Lukasiewicz. Toward Knowledge as a Service (KaaS): Predicting Popularity of Knowledge Services Leveraging Graph Neural Networks. IEEE Transactions on Service Computing (TSC), 2022. **(SCI Q1, IF: 8.216)**  
