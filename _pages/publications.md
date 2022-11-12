@@ -72,7 +72,7 @@ author_profile: true
 >**Top journal papers**
 
 [19] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. Medical Image Analysis, 2023. **(SCI Q1, IF: 13.828)**  
-[[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf) 
+[[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/semi-CML-public.zip) 
 
 [20] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Neurocomputing, 2022. **(SCI Q2, IF: 5.779)**  
 [[Download paper here]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222006221)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/w_net_code.zip)
