@@ -75,7 +75,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/semi-CML-public.zip) 
 
 [20] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Neurocomputing, 2022. **(SCI Q2, IF: 5.779)**  
-[[Download paper here]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222006221)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/w_net_code.zip)
+[[Download paper here]](http://zhx-hebut.github.io/files/2022_Neurocomputing.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/w_net_code.zip)
 
 [21] Junyang Chen, Mengzhu Wang, Haodi Zhang, Zhenghua Xu, Xueliang Li, Zhiguo Gong, Kaishun Wu, Victor C. M. Leung. IRLM: Inductive Representation Learning Model for Personalized POI Recommendation. IEEE Transactions on Computational Social System, 2022. **(SCI Q2, IF: 4.747)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_IEEE TCSS.pdf)
