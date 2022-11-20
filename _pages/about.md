@@ -39,7 +39,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **Research Interests**
 -----
-- My current research interests include Deep Learning, Reinforcement Learning, AI in Healthcare, Medical Image Computing, Biologically Plausible Deep Networks, and Recommender Systems.
+- My current research interests include Deep Learning, Reinforcement Learning, Medical Image Computing, Biologically Plausible Neural Networks, and Recommender Systems.
 
 
 **Selected Representative Publications**   
