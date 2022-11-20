@@ -74,5 +74,5 @@ Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) f
 [9] **Zhenghua Xu**, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model, IJCAI 2017, **CCF A**.   
 [[Details]](https://zhx-hebut.github.io/publication/IJCAI2017)  [[Download paper here]](https://www.ijcai.org/proceedings/2017/0446.pdf)
 
-[10] Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu**. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction. In Proceedings of the 29th IEEE International Conference on Data Engineering (ICDE), 2013. **(CCF Rank A, Acceptance rate: 19.8%, Google Scholar citaions: 322)**   
+[10] Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu**. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction, ICDE 2013, **CCF A, citations: 322**.   
 [[Details]](https://zhx-hebut.github.io/publication/ICDE2013) [[Download paper here]](http://zhx-hebut.github.io/files/ICDE2013.pdf)
