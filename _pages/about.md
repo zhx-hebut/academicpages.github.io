@@ -54,7 +54,7 @@ Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) f
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_Neurocomputing.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/w_net_code.zip)
 
 [3] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple But Effective Module for Learning Imbalanced Datasets, CVPR 2021, **CCF A**.  
-[[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   
+[[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   [[Code Release]](https://github.com/Jianf-Wang/RSG)
 
 [4] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems, AAAI 2021, **CCF A**.  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_AAAI.pdf)   
@@ -63,7 +63,7 @@ Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) f
 [[Details]](https://zhx-hebut.github.io/publication/NeurIPS2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_NeurIPS.pdf)
 
 [6] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence, AAAI 2020, **CCF A**.  
-[[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena) [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)
+[[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena) [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)   [[Arena Building Toolkit]](https://github.com/YuhangSong/Arena-BuildingToolkit)   [[Arena Baselines]](https://github.com/YuhangSong/Arena-Baselines)
 
 [7] Yuhang Song‚ Jianyi Wang‚ Thomas Lukasiewicz‚ **Zhenghua Xu***‚ Shangtong Zhang‚ Andrzej Wojcicki and Mai Xu. Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards, AAAI 2020, **CCF A**.  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2019) [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Mega-Reward.pdf)
