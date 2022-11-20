@@ -22,7 +22,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_NeurIPS-compressed.pdf)   
 
 [3] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple But Effective Module for Learning Imbalanced Datasets. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. **(CCF Rank A, Acceptance rate: 27%)**   
-[[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   
+[[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   [[Code Release]](https://github.com/Jianf-Wang/RSG)
 
 [4] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems. In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021. **(CCF Rank A, Acceptance rate: 21%)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_AAAI.pdf)   
@@ -31,7 +31,7 @@ author_profile: true
 [[Details]](https://zhx-hebut.github.io/publication/NeurIPS2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_NeurIPS.pdf)
 
 [6] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
-[[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena)  [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)
+[[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena)  [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)   [[Arena Building Toolkit]](https://github.com/YuhangSong/Arena-BuildingToolkit)   [[Arena Baselines]](https://github.com/YuhangSong/Arena-Baselines)
 
 [7] Yuhang Song‚ Jianyi Wang‚ Thomas Lukasiewicz‚ **Zhenghua Xu***‚ Shangtong Zhang‚ Andrzej Wojcicki and Mai Xu. Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Mega-Reward)  [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Mega-Reward.pdf)
