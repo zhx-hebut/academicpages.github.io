@@ -57,7 +57,7 @@ Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) f
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   [[Code Release]](https://github.com/Jianf-Wang/RSG)
 
 [4] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems, AAAI 2021, **CCF A**.  
-[[Download paper here]](http://zhx-hebut.github.io/files/2021_AAAI.pdf)   
+[[Download paper here]](http://zhx-hebut.github.io/files/2021_AAAI.pdf)   [[Code Release]](https://github.com/ruizhang-ai/SIGN-Detecting-Beneficial-Feature-Interactions-for-Recommender-Systems)   
 
 [5] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks, NeurIPS 2020, **CCF A**.  
 [[Details]](https://zhx-hebut.github.io/publication/NeurIPS2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_NeurIPS.pdf)
