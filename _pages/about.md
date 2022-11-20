@@ -24,17 +24,17 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **News**
 -----
-* A paper "Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation" is accepted to published in Medical Image Analysis (SCI Q1, IF: 13.828).  
+* The paper "Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation" is published in Medical Image Analysis (SCI Q1, IF: 13.828).  
 * I serve as the Senior Program Committee (SPC) member in AAAI 2023.
-* A paper "ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution" is accepted to published in Neurocomputing (SCI Q1, IF: 5.719).  
-* A paper "RSG: A Simple But Effective Module for Learning Imbalanced Datasets" is accepted by CVPR 2021 (CCF A).  
-* A paper "Detecting Beneficial Feature Interactions for Recommender Systems" is accepted by AAAI 2021 (CCF A).  
+* The paper "ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution" is published in Neurocomputing.  
+* The paper "RSG: A Simple But Effective Module for Learning Imbalanced Datasets" is accepted by CVPR 2021 (CCF A).  
+* The paper "Detecting Beneficial Feature Interactions for Recommender Systems" is accepted by AAAI 2021 (CCF A).  
 * I serve as the Senior Program Committee (SPC) member in IJCAI 2021.
-* A paper "Can the Brain Do Backpropagation" is accepted by NeurIPS 2020 (CCF A).  
+* The paper "Can the Brain Do Backpropagation" is accepted by NeurIPS 2020 (CCF A).  
 * I routinely serve as the Program Committee Member in top-tier AI conferences since 2019, e.g., AAAI, IJCAI, and ECAI.
 * Two papers "Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence" and "Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards" are accepted by AAAI 2020 (CCF A).  
 * I serve as the session chair in IJCAI 2019.  
-* One paper "Diversity-Driven Extensible Hierarchical Reinforcement Learning" is accepted for oral presentation in AAAI 2019 (CCF A).
+* The paper "Diversity-Driven Extensible Hierarchical Reinforcement Learning" is accepted for oral presentation in AAAI 2019 (CCF A).
 
 
 **Research Interests**
