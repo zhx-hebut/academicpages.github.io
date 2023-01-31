@@ -74,7 +74,7 @@ author_profile: true
 [19] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. Medical Image Analysis, 2023. **(SCI Q1, IF: 13.828)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/semi-CML-public_v2.zip) 
 
-[20] Di Yuan, Yunxin Liu\*, **Zhenghua Xu\***, Yuefu Zhan, Junyang Chen, Thomas Lukasiewicz. Painless and Accurate Medical Image Analysis Using Deep Reinforcement Learning with Task-Oriented Homogenized Automatic Pre-Processing. Accepted to publish in Computers in Biology and Medicine, 2023. **(SCI Q1, IF: 6.698)**  
+[20] Di Yuan, Yunxin Liu\*, **Zhenghua Xu\***, Yuefu Zhan, Junyang Chen, Thomas Lukasiewicz. Painless and Accurate Medical Image Analysis Using Deep Reinforcement Learning with Task-Oriented Homogenized Automatic Pre-Processing. Computers in Biology and Medicine, 2023. **(SCI Q1, IF: 6.698)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_Yuan.pdf) 
 
 [21] **Zhenghua Xu\***, Tianrun Li, Yunxin Liu, Yuefu Zhan\*, Junyang Chen, Thomas Lukasiewicz. PAC-Net: Multi-Pathway FPN with Position Attention Guided Connections and Vertex Distance IoU for 3D Medical Image Detection. Accepted to publish in Frontiers in Bioengineering and Biotechnology, 2023. **(SCI Q1, IF: 6.064)**  
