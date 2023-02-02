@@ -78,6 +78,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_Yuan.pdf) 
 
 [21] **Zhenghua Xu\***, Tianrun Li, Yunxin Liu, Yuefu Zhan\*, Junyang Chen, Thomas Lukasiewicz. PAC-Net: Multi-Pathway FPN with Position Attention Guided Connections and Vertex Distance IoU for 3D Medical Image Detection. Accepted to publish in Frontiers in Bioengineering and Biotechnology, 2023. **(SCI Q1, IF: 6.064)**  
+[[Download paper here]](http://zhx-hebut.github.io/files/2023_FBioE_Tianrun.pdf) 
 
 [22]  Dan Yao\#, **Zhenghua Xu\#\***, Yi Lin\*, Yuefu Zhan\*. Accurate and Intelligent Diagnosis of Pediatric Pneumonia Using X-Ray images and Blood Testing Data.  Accepted to publish in Frontiers in Bioengineering and Biotechnology, 2023. **(SCI Q1, IF: 6.064)**  
 
