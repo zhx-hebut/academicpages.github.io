@@ -15,28 +15,28 @@ author_profile: true
 
 >**Top conference papers**
 
-[1] Tommaso Salvatori‚ Yuhang Song*‚ **Zhenghua Xu**‚ Thomas Lukasiewicz and Rafal Bogacz. Reverse Differentiation via Predictive Coding. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. **(CCF Rank A, Acceptance rate: 15%)**  
+[1] Tommaso Salvatori‚ Yuhang Song*‚ **Zhenghua Xu**‚ Thomas Lukasiewicz and Rafal Bogacz. Reverse Differentiation via Predictive Coding. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI), Virtual (Online), February 22 – March 1, 2022, pages 8150-8158. **(CCF Rank A, Acceptance rate: 15%)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_AAAI_Camera_Ready.pdf)  
 
-[2] Tommaso Salvatori\#‚ Yuhang Song\#*‚ Yujian Hong‚ Simon Frieder‚ Lei Sha‚ **Zhenghua Xu**‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. In Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021. **(CCF Rank A, Acceptance rate: 26%)**  
+[2] Tommaso Salvatori\#‚ Yuhang Song\#*‚ Yujian Hong‚ Simon Frieder‚ Lei Sha‚ **Zhenghua Xu**‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. In Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), Virtual (Online), December 6-14, 2021, pages 3874-3886. **(CCF Rank A, Acceptance rate: 26%)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_NeurIPS-compressed.pdf)   
 
-[3] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple But Effective Module for Learning Imbalanced Datasets. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021. **(CCF Rank A, Acceptance rate: 27%)**   
+[3] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple But Effective Module for Learning Imbalanced Datasets. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),  Virtual (Online), June 19-25, 2021, pages 3784-3793. **(CCF Rank A, Acceptance rate: 27%)**   
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   [[Code Release]](https://github.com/Jianf-Wang/RSG)
 
-[4] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems. In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021. **(CCF Rank A, Acceptance rate: 21%)**  
+[4] Yixin Su, Rui Zhang\*‚ Sarah Erfani, **Zhenghua Xu\***. Detecting Beneficial Feature Interactions for Recommender Systems. In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), Virtual (Online), February 2-9, 2021, pages 4357-4365. **(CCF Rank A, Acceptance rate: 21%)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_AAAI.pdf)   [[Code Release]](https://github.com/ruizhang-ai/SIGN-Detecting-Beneficial-Feature-Interactions-for-Recommender-Systems)
 
-[5] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks. In Proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS), 2020. **(CCF Rank A, Acceptance rate: 20.09%)**  
+[5] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks. In Proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS), Virtual (Online), December 6-12, 2020, pages 22566-22579. **(CCF Rank A, Acceptance rate: 20.09%)**  
 [[Details]](https://zhx-hebut.github.io/publication/NeurIPS2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_NeurIPS.pdf)
 
-[6] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
+[6] Yuhang Song‚ Andrzej Wojcicki‚ Thomas Lukasiewicz‚ Jianyi Wang‚ Abi Aryan‚ **Zhenghua Xu***‚ Mai Xu‚ Zihan Ding and Lianlong Wu. Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), New York, USA, February 7-12, 2020, pages 7253-7260. **(CCF Rank A, Acceptance rate: 20.6%)**  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Arena)  [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Arena.pdf)   [[Arena Building Toolkit]](https://github.com/YuhangSong/Arena-BuildingToolkit)   [[Arena Baselines]](https://github.com/YuhangSong/Arena-Baselines)
 
-[7] Yuhang Song‚ Jianyi Wang‚ Thomas Lukasiewicz‚ **Zhenghua Xu***‚ Shangtong Zhang‚ Andrzej Wojcicki and Mai Xu. Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. **(CCF Rank A, Acceptance rate: 20.6%)**  
+[7] Yuhang Song‚ Jianyi Wang‚ Thomas Lukasiewicz‚ **Zhenghua Xu***‚ Shangtong Zhang‚ Andrzej Wojcicki and Mai Xu. Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), New York, USA, February 7-12, 2020, pages 5826-5833. **(CCF Rank A, Acceptance rate: 20.6%)**  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2020_Mega-Reward)  [[Download paper here]](http://zhx-hebut.github.io/files/2020_AAAI_Mega-Reward.pdf)
 
-[8] Yuhang Song\#, Jianyi Wang\#, Thomas Lukasiewicz, **Zhenghua Xu*** and Mai Xu. Diversity-Driven Extensible Hierarchical Reinforcement Learning. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019. **(CCF Rank A, Acceptance rate: 16.2%)**  
+[8] Yuhang Song\#, Jianyi Wang\#, Thomas Lukasiewicz, **Zhenghua Xu*** and Mai Xu. Diversity-Driven Extensible Hierarchical Reinforcement Learning. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), Honolulu, USA, January 27 - February 1, 2019, pages 4992-4999. **(CCF Rank A, Acceptance rate: 16.2%)**  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2019)  [[Download paper here]](http://zhx-hebut.github.io/files/AAAI2019.pdf)  [[Code Release]](https://github.com/YuhangSong/DEHRL)  [[Oral Presentation]](https://docs.google.com/presentation/d/18olkElCpJoE0iPnyS6DpE8zH8I3mggcCvcWI5yJDJkI/edit#slide=id.p3)
 
 [9] **Zhenghua Xu***, Thomas Lukasiewicz, Cheng Chen\*, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model. In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI), Melbourne, Australia, August 19-25, 2017, 3196-3202. **(CCF Rank A, Acceptance rate: 25.9%)**  
@@ -51,7 +51,7 @@ author_profile: true
 
 [13] Hexiang Zhang, **Zhenghua Xu*\#**, Dan Yao, Shuo Zhang, Junyang Chen, Thomas Lukasiewicz. Multi-Head Feature Pyramid Networks for Breast Mass Detection. Accepted to publish in Proceedings of the 48th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Rhodes Island, Greece, June 4-10, 2023. **(CCF Rank B)**  
 
-[14] **Zhenghua Xu*\#**, Di Yuan\#, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Guizhi Xu\*. Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation. In Proceedings of the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Virtual (online), May 4-8, 2020, pages 3442-3446. **(CCF Rank B)**  
+[14] **Zhenghua Xu*\#**, Di Yuan\#, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Guizhi Xu\*. Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation. In Proceedings of the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Virtual (Online), May 4-8, 2020, pages 3442-3446. **(CCF Rank B)**  
 [[Details]](https://zhx-hebut.github.io/publication/ICASSP2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_ICASSP'20.pdf)
 
 [15] **Zhenghua Xu\#**, Chang Qi\# and Guizhi Xu\*. Semi-Supervised Attention-Guided CycleGAN for Data Augmentation on Medical Images. In Proceedings of 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), San Diego, USA, November 18-21, 2019, pages 563-568. **(CCF Rank B, Acceptance rate: 18%)**   
