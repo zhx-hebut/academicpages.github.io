@@ -86,7 +86,7 @@ author_profile: true
 [24] **Zhenghua Xu\***, Tianrun Li, Yunxin Liu, Yuefu Zhan\*, Junyang Chen, Thomas Lukasiewicz. PAC-Net: Multi-Pathway FPN with Position Attention Guided Connections and Vertex Distance IoU for 3D Medical Image Detection. Accepted to publish in Frontiers in Bioengineering and Biotechnology, 2023. **(SCI Q1, IF: 6.064)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_FBioE_Tianrun.pdf) 
 
-%[25] Dan Yao\#, **Zhenghua Xu\#\***, Yi Lin\*, Yuefu Zhan\*. Accurate and Intelligent Diagnosis of Pediatric Pneumonia Using X-Ray images and Blood Testing Data.  Accepted to publish in Frontiers in Bioengineering and Biotechnology, 2023. **(SCI Q1, IF: 6.064)**  
+{% [25] Dan Yao\#, **Zhenghua Xu\#\***, Yi Lin\*, Yuefu Zhan\*. Accurate and Intelligent Diagnosis of Pediatric Pneumonia Using X-Ray images and Blood Testing Data.  Accepted to publish in Frontiers in Bioengineering and Biotechnology, 2023. **(SCI Q1, IF: 6.064)**  %}
 
 [25] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Neurocomputing, 2022, 500：177-190. **(SCI Q1, IF: 5.779)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_Neurocomputing.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/w_net_code.zip)
