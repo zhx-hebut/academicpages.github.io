@@ -103,7 +103,7 @@ author_profile: true
 
 >**Other papers**  
 
-[29] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism. IEEE Access, 2020, 8：186514-186529. **(SCI Q1, IF: 3.476)**    
+[29] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism. IEEE Access, 2020, 8: 186514-186529. **(SCI Q1, IF: 3.476)**    
 [[Download paper here]](http://zhx-hebut.github.io/files/2020_IEEE Access_Zhang.pdf)
 
 [30] Qian Zhou, Yan Shi, **Zhenghua Xu***, Ruowei Qu, and Guizhi Xu. Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule. IEEE Access, 2020, 8: 101309-101319. **(SCI Q1, IF: 3.476)**    
