@@ -119,12 +119,12 @@ author_profile: true
 
 [34] Miao Yu, **Zhenghua Xu***. A Review on Generative Adversarial Networks in Medical Image. Chinese Journal of Biomedical Engineering. 2022, 41(6): 724-731. (In Chinese)  
 
-[35] **Zhenghua Xu**, Thomas Lukasiewicz and Oana Tifrea-Marciuska. Improving Personalized Search on the Social Web Based on Similarities between Users. In Proceedings of the 8th International Conference on Scalable Uncertainty Management (SUM), September 15-17, 2014, pages 306-319. **(EI)**  
+[35] **Zhenghua Xu**, Thomas Lukasiewicz and Oana Tifrea-Marciuska. Improving Personalized Search on the Social Web Based on Similarities between Users. In Proceedings of the 8th International Conference on Scalable Uncertainty Management (SUM), Oxford, United Kingdom, September 15-17, 2014, pages 306-319. **(EI)**  
 [[Details]](https://zhx-hebut.github.io/publication/SUM) [[Download paper here]](http://zhx-hebut.github.io/files/SUM.pdf)
 
-[36] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. A Multi-Module Anomaly Detection Scheme based on System Call Prediction. In Proceedings of the 8th IEEE Conference on Industrial Electronics and Applications (ICIEA), June 19-21, 2013, pages 1376-1381. **(EI & ISTP)**   
+[36] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. A Multi-Module Anomaly Detection Scheme based on System Call Prediction. In Proceedings of the 8th IEEE Conference on Industrial Electronics and Applications (ICIEA), Melbourne, Australia, June 19-21, 2013, pages 1376-1381. **(EI & ISTP)**   
 [[Details]](https://zhx-hebut.github.io/publication/ICIEA) [[Download paper here]](http://zhx-hebut.github.io/files/ICIEA.pdf)  
 
-[37] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System. In Proceedings of the 6th International Congress on Image and Signal Processing (CISP), December 16-18, 2013, pages 1748-1753. **(EI & ISTP)**    
+[37] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System. In Proceedings of the 6th International Congress on Image and Signal Processing (CISP), Hangzhou, China, December 16-18, 2013, pages 1748-1753. **(EI & ISTP)**    
 [[Details]](https://zhx-hebut.github.io/publication/CISP) [[Download paper here]](http://zhx-hebut.github.io/files/CISP.pdf)  
 
