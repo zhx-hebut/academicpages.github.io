@@ -25,6 +25,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **News**
 -----
+* Three papers are accepted in ICASSP 2023 (CCF B).  
 * The paper "Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation" is published in Medical Image Analysis (SCI Q1, IF: 13.828).  
 * I serve as the Senior Program Committee (SPC) member in AAAI 2023.
 * The paper "ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution" is published in Neurocomputing.  
