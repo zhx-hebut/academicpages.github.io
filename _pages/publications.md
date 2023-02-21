@@ -57,22 +57,22 @@ author_profile: true
 [15] **Zhenghua Xu\#**, Chang Qi\# and Guizhi Xu\*. Semi-Supervised Attention-Guided CycleGAN for Data Augmentation on Medical Images. In Proceedings of 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019. **(CCF Rank B, Acceptance rate: 18%)**   
 [[Details]](https://zhx-hebut.github.io/publication/BIBM2019_QI)  [[Download paper here]](http://zhx-hebut.github.io/files/BIBM2019QI.pdf)
 
-[16] Lei Wang\#, Bo Wang\#, **Zhenghua Xu***. Tumor Segmentation Based on Deeply Supervised Multi-Scale U-Net. In Proceedings of 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019. **(CCF Rank B, Acceptance rate: 18%)**  
+[16] Lei Wang\#, Bo Wang\#, **Zhenghua Xu***. Tumor Segmentation Based on Deeply Supervised Multi-Scale U-Net. In Proceedings of 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), San Diego, USA, November 18-21, 2019, pages 746-749. **(CCF Rank B, Acceptance rate: 18%)**  
 [[Details]](https://zhx-hebut.github.io/publication/BIBM2019_WANG) [[Download paper here]](http://zhx-hebut.github.io/files/BIBM2019WANG.pdf)
 
-[17] Bo Li\#, Zehua Cheng\#, **Zhenghua Xu***, Wei Ye\*, Thomas Lukasiewicz and Shikun Zhang. Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment. In Proceedings of the 44th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019. **(CCF Rank B)**  
+[17] Bo Li\#, Zehua Cheng\#, **Zhenghua Xu***, Wei Ye\*, Thomas Lukasiewicz and Shikun Zhang. Long Text Analysis Using Sliced Recurrent Neural Networks with Breaking Point Information Enrichment. In Proceedings of the 44th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, United Kingdom, May 12-17, 2019, pages 7550-7554. **(CCF Rank B)**  
 [[Details]](https://zhx-hebut.github.io/publication/ICASSP2019)   [[Download paper here]](http://zhx-hebut.github.io/files/ICASSP2019.pdf)  [[Code Release]](https://github.com/limberc/BPIE-BiSRNN)  
 
-[18] Cheng Chen, Thomas Lukasiewicz, Xiangwu Meng and **Zhenghua Xu** (co-first author, in alphabetical order). Location-Aware News Recommendation Using Deep Localized Semantic Analysis. In Proceedings of the 22nd International Conference on Database Systems for Advanced Applications (DASFAA), 2017. **(CCF Rank B, Acceptance rate: 24.3%)**   
+[18] Cheng Chen, Thomas Lukasiewicz, Xiangwu Meng and **Zhenghua Xu** (co-first author, in alphabetical order). Location-Aware News Recommendation Using Deep Localized Semantic Analysis. In Proceedings of the 22nd International Conference on Database Systems for Advanced Applications (DASFAA), Suzhou, China, March 27-30, 2017, pages 507-524. **(CCF Rank B, Acceptance rate: 24.3%)**   
 [[Details]](https://zhx-hebut.github.io/publication/DASFAA2017)  [[Download paper here]](http://zhx-hebut.github.io/files/DASFAA2017.pdf)  
 
-[19] **Zhenghua Xu**, Cheng Chen, Thomas Lukasiewicz, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling. In Proceedings of the 25th ACM International Conference on Information and Knowledge Management (CIKM), 2016. **(CCF Rank B, Acceptance rate: 28.8%)**   
+[19] **Zhenghua Xu**, Cheng Chen, Thomas Lukasiewicz, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling. In Proceedings of the 25th ACM International Conference on Information and Knowledge Management (CIKM), Indianapolis, USA, October 24-28, 2016, pages 1921-1924. **(CCF Rank B, Acceptance rate: 28.8%)**   
 [[Details]](https://zhx-hebut.github.io/publication/CIKM2016)  [[Download paper here]](http://zhx-hebut.github.io/files/CIKM2016.pdf)
 
-[20] **Zhenghua Xu**, Rui Zhang, Ramamohanarao Kotagiri and Udaya Parampalli. An Adaptive Online Algorithm for Time Series Segmentation with Error Bound Guarantee. In Proceedings of the 15th International Conference on Extending Database Technology (EDBT), 2012. **(CCF Rank B, Acceptance rate: 22.5%)**    
+[20] **Zhenghua Xu**, Rui Zhang, Ramamohanarao Kotagiri and Udaya Parampalli. An Adaptive Online Algorithm for Time Series Segmentation with Error Bound Guarantee. In Proceedings of the 15th International Conference on Extending Database Technology (EDBT), Berlin, Germany, March 27-30, 2012, pages 192-203. **(CCF Rank B, Acceptance rate: 22.5%)**    
 [[Details]](https://zhx-hebut.github.io/publication/EDBT2012)  [[Download paper here]](https://people.eng.unimelb.edu.au/zr/publications/EDBT2012_OnlineSeriesSegmentation.pdf) 
 
-[21] Jianzhong Qi, **Zhenghua Xu**, Yuan Xue and Zeyi Wen. A Branch and Bound Method for Min-dist Location Selection Queries. In Proceedings of the 23rd Australasian Database Conference (ADC), 2012. **(Runner-up for Best Paper award)**  
+[21] Jianzhong Qi, **Zhenghua Xu**, Yuan Xue and Zeyi Wen. A Branch and Bound Method for Min-dist Location Selection Queries. In Proceedings of the 23rd Australasian Database Conference (ADC), Melbourne, Australia, January 31 - February 2, 2012, pages 51-60. **(Runner-up for Best Paper award)**  
 [[Details]](https://zhx-hebut.github.io/publication/ADC2012) [[Download paper here]](http://zhx-hebut.github.io/files/ADC2012.pdf)
  
 >**Top journal papers**
@@ -122,9 +122,9 @@ author_profile: true
 [35] **Zhenghua Xu**, Thomas Lukasiewicz and Oana Tifrea-Marciuska. Improving Personalized Search on the Social Web Based on Similarities between Users. In Proceedings of the 8th International Conference on Scalable Uncertainty Management (SUM), September 15-17, 2014, pages 306-319. **(EI)**  
 [[Details]](https://zhx-hebut.github.io/publication/SUM) [[Download paper here]](http://zhx-hebut.github.io/files/SUM.pdf)
 
-[36] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. A Multi-Module Anomaly Detection Scheme based on System Call Prediction. In Proceedings of the 8th IEEE Conference on Industrial Electronics and Applications (ICIEA), 2013. **(EI & ISTP)**   
+[36] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. A Multi-Module Anomaly Detection Scheme based on System Call Prediction. In Proceedings of the 8th IEEE Conference on Industrial Electronics and Applications (ICIEA), June 19-21, 2013, pages 1376-1381. **(EI & ISTP)**   
 [[Details]](https://zhx-hebut.github.io/publication/ICIEA) [[Download paper here]](http://zhx-hebut.github.io/files/ICIEA.pdf)  
 
-[37] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System. In Proceedings of the 6th International Congress on Image and Signal Processing (CISP), 2013. **(EI & ISTP)**    
+[37] **Zhenghua Xu**, Xinghuo Yu, Yong Feng, Jiankun Hu, Zahir Tari and Fengling Han. Top-k Future System Call Prediction Based Multi-Module Anomaly Detection System. In Proceedings of the 6th International Congress on Image and Signal Processing (CISP), December 16-18, 2013, pages 1748-1753. **(EI & ISTP)**    
 [[Details]](https://zhx-hebut.github.io/publication/CISP) [[Download paper here]](http://zhx-hebut.github.io/files/CISP.pdf)  
 
