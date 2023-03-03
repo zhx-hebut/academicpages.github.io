@@ -18,7 +18,7 @@ author_profile: true
 [1] Tommaso Salvatori‚ Yuhang Song*‚ **Zhenghua Xu**‚ Thomas Lukasiewicz and Rafal Bogacz. Reverse Differentiation via Predictive Coding. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI), Virtual (Online), February 22 – March 1, 2022, pages 8150-8158. **(CCF Rank A, Acceptance rate: 15%)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_AAAI_Camera_Ready.pdf)  
 
-[2] Tommaso Salvatori\#‚ Yuhang Song\#*‚ Yujian Hong‚ Simon Frieder‚ Lei Sha‚ **Zhenghua Xu**‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. In Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), Virtual (Online), December 6-14, 2021, pages 3874-3886. **(CCF Rank A, Acceptance rate: 26%)**  
+[2] Tommaso Salvatori‚ Yuhang Song*‚ Yujian Hong‚ Lei Sha‚ Simon Frieder‚ **Zhenghua Xu**‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. In Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), Virtual (Online), December 6-14, 2021, pages 3874-3886. **(CCF Rank A, Acceptance rate: 26%)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_NeurIPS-compressed.pdf)   
 
 [3] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple But Effective Module for Learning Imbalanced Datasets. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),  Virtual (Online), June 19-25, 2021, pages 3784-3793. **(CCF Rank A, Acceptance rate: 27%)**   
