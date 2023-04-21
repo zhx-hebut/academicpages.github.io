@@ -25,6 +25,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **News**
 -----
+* My Google Scholar profile reaches 1000 citations in Apr 2023.
 * Three papers are accepted in ICASSP 2023 (CCF B).  
 * The paper "Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation" is published in Medical Image Analysis (SCI Q1, IF: 13.828).  
 * I serve as the Senior Program Committee (SPC) member in AAAI 2023.
