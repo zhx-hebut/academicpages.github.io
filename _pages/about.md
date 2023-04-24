@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Professor of Computer Science and Technology 
+Professor of Computer Science and Technology  
 Awardee of "100 Talents Plan" of Hebei Province (河北省“百人计划”入选者)  
 PI of Excellent Young Scientist Fund of Hebei Province  (河北省“优秀青年科学基金”获得者)  
 State Key Laboratory of Reliability and Intelligence of Electrical Equipment   
