@@ -13,7 +13,7 @@ Awardee of "100 Talents Plan" of Hebei Province (河北省“百人计划”入�
 PI of Excellent Young Scientist Fund of Hebei Province  (河北省“优秀青年科学基金”获得者)  
 State Key Laboratory of Reliability and Intelligence of Electrical Equipment   
 Tianjin Key Laboratory of Bioelectromagnetic Technology and Intelligent Health   
-School of Health Sciences and Biomedical Engineering
+School of Health Sciences and Biomedical Engineering   
 [Hebei University of Technology](http://www.hebut.edu.cn/)  
 Address: No. 8 Guangrongdao, Hongqiao, Tianjin, 300130, China  
 E-mail: firstname.lastname@hebut.edu.cn
