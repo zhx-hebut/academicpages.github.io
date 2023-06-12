@@ -7,8 +7,8 @@ author_profile: true
 ---
 
 -  Conference Chair: ICMLCA 2020
--  Session Chair: IJCAI 2019, CNCC 2021
--  Senior Program Committee (SPC) member: IJCAI 2021，AAAI 2023
+-  Session Chair: AAAI 2023, IJCAI 2019, CNCC 2021
+-  Senior Program Committee (SPC) member: AAAI 2023-24, IJCAI 2021
 -  Program Committee (PC) member: AAAI 2020-22, IJCAI 2019-23,  ECAI 2020/2023, MICCAI 2020
 -  Guest Editor: Frontiers in Artificial Intelligence
 -  Journal Reviewer: IEEE Transactions on Medical Imaging (TMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Computational Social Systems (TCSS), Information Science, Neurocomputing, Journal of Computer Science and Technology (JCST)
