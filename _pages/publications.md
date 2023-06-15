@@ -83,7 +83,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/semi-CML-public_v2.zip) 
 
 [24] **Zhenghua Xu\***, Xudong Zhang, Hexiang Zhang\*, Yunxin Liu, Yuefu Zhan\*, Thomas Lukasiewicz. EFPN: Effective Medical Image Detection Using Feature Pyramid Fusion Enhancement. Computers in Biology and Medicine, 2023. **(SCI Q1, IF: 6.698)**  
-[[Download paper here]](https://www.sciencedirect.com/science/article/abs/pii/S0010482523006145)  
+[[Download paper here]](https://www.sciencedirect.com/science/article/abs/pii/S0010482523006145)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/EFPN.zip)  
 
 [25] Di Yuan, **Zhenghua Xu\***, Biao Tian, Hening Wang, Yuefu Zhan, Thomas Lukasiewicz. μ-Net: Medical Image Segmentation Using Efficient and Effective Deep Supervision. Computers in Biology and Medicine, 2023, 160: 106963. **(SCI Q1, IF: 6.698)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_Yuan_2.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/mu-net-public.zip)  
