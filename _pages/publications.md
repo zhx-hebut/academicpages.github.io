@@ -83,7 +83,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/semi-CML-public_v2.zip) 
 
 [24] **Zhenghua Xu\***, Xudong Zhang, Hexiang Zhang\*, Yunxin Liu, Yuefu Zhan\*, Thomas Lukasiewicz. EFPN: Effective Medical Image Detection Using Feature Pyramid Fusion Enhancement. Computers in Biology and Medicine, 2023. **(SCI Q1, IF: 6.698)**  
-[[Download paper here]](https://www.sciencedirect.com/science/article/abs/pii/S0010482523006145)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/EFPN.zip)  
+[[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_EFPN.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/EFPN.zip)  
 
 [25] Di Yuan, **Zhenghua Xu\***, Biao Tian, Hening Wang, Yuefu Zhan, Thomas Lukasiewicz. μ-Net: Medical Image Segmentation Using Efficient and Effective Deep Supervision. Computers in Biology and Medicine, 2023, 160: 106963. **(SCI Q1, IF: 6.698)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_Yuan_2.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/mu-net-public.zip)  
@@ -95,6 +95,8 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_FBioE_Tianrun.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/PAC-Net.zip)   
 
 [28] Dan Yao, **Zhenghua Xu*\#**, **Yi Lin\***, **Yuefu Zhan\***. Accurate and Intelligent Diagnosis of Pediatric Pneumonia Using X-Ray images and Blood Testing Data. Frontiers in Bioengineering and Biotechnology, 2023. **(SCI Q1, IF: 6.064)**  
+[[Download paper here]](http://zhx-hebut.github.io/files/2023_FBioE_Yaodan.pdf)
+
 
 [29] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Neurocomputing, 2022, 500：177-190. **(SCI Q1, IF: 5.779)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_Neurocomputing.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/w_net_code.zip)
