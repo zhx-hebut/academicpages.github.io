@@ -26,14 +26,15 @@ E-mail: firstname.lastname@hebut.edu.cn
 **News**
 -----
 * The paper "Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation" is accepted to publish in IEEE Transactions on Medical Imaging (SCI Q1, IF: 11.037).
+* I am invited to serve as the Senior Program Committee (SPC) member in AAAI 2024.
 * My Google Scholar profile reaches 1000 citations in Apr 2023.
 * The paper "Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation" is published in Medical Image Analysis (SCI Q1, IF: 13.828).  
-* I serve as the Senior Program Committee (SPC) member in AAAI 2023.
+* I am invited to serve as the Senior Program Committee (SPC) member in AAAI 2023.
 * The paper "RSG: A Simple But Effective Module for Learning Imbalanced Datasets" is accepted by CVPR 2021 (CCF A).  
 * The paper "Detecting Beneficial Feature Interactions for Recommender Systems" is accepted by AAAI 2021 (CCF A).  
-* I serve as the Senior Program Committee (SPC) member in IJCAI 2021.
+* I am invited to serve as the Senior Program Committee (SPC) member in IJCAI 2021.
 * The paper "Can the Brain Do Backpropagation" is accepted by NeurIPS 2020 (CCF A).  
-* I routinely serve as the Program Committee Member in top-tier AI conferences since 2019, e.g., AAAI, IJCAI, and ECAI.
+* I am routinely invited to serve as the Program Committee Member in top-tier AI conferences since 2019, e.g., AAAI, IJCAI, and ECAI.
 * Two papers "Arena: A General Evaluation Platform and Building Toolkit for Multi−Agent Intelligence" and "Mega−Reward: Achieving Human−Level Play without Extrinsic Rewards" are accepted by AAAI 2020 (CCF A).  
 * I serve as the session chair in IJCAI 2019.  
 * The paper "Diversity-Driven Extensible Hierarchical Reinforcement Learning" is accepted for oral presentation in AAAI 2019 (CCF A).
