@@ -25,11 +25,10 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **News**
 -----
+* The paper "Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation" is accepted to publish in IEEE Transactions on Medical Imaging (SCI Q1, IF: 11.037).
 * My Google Scholar profile reaches 1000 citations in Apr 2023.
-* Three papers are accepted in ICASSP 2023 (CCF B).  
 * The paper "Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation" is published in Medical Image Analysis (SCI Q1, IF: 13.828).  
 * I serve as the Senior Program Committee (SPC) member in AAAI 2023.
-* The paper "ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution" is published in Neurocomputing.  
 * The paper "RSG: A Simple But Effective Module for Learning Imbalanced Datasets" is accepted by CVPR 2021 (CCF A).  
 * The paper "Detecting Beneficial Feature Interactions for Recommender Systems" is accepted by AAAI 2021 (CCF A).  
 * I serve as the Senior Program Committee (SPC) member in IJCAI 2021.
@@ -50,11 +49,11 @@ E-mail: firstname.lastname@hebut.edu.cn
 Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) for the full list of ALL my publications.  
 (\* stands for corresponding author, and \# stands for co-first author.)
 
-[1] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. Medical Image Analysis, 2023. **(SCI Q1, IF: 13.828)**  
-[[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/semi-CML-public_v2.zip) 
+[1] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. Accepted to publish in IEEE Transactions on Medical Imaging, 2023. **(SCI Q1, IF: 11.037)**  
+[[Download paper here]](http://zhx-hebut.github.io/files/2023_TMI_camera-ready.pdf)   
 
-[2] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Neurocomputing, 2022. **(SCI Q1, IF: 5.719)**  
-[[Download paper here]](http://zhx-hebut.github.io/files/2022_Neurocomputing.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/w_net_code.zip)
+[2] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. Medical Image Analysis, 2023. **(SCI Q1, IF: 13.828)**  
+[[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/semi-CML-public_v2.zip) 
 
 [3] Jianfeng Wang, Thomas Lukasiewicz‚ Xiaolin Hu, Jianfei Cai, **Zhenghua Xu***. RSG: A Simple But Effective Module for Learning Imbalanced Datasets, CVPR 2021, **CCF A**.  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_CVPR.pdf)   [[Code Release]](https://github.com/Jianf-Wang/RSG)
