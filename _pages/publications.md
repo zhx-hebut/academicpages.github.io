@@ -32,7 +32,7 @@ author_profile: true
 [5] Di Yuan, Yunxin Liu\*, **Zhenghua Xu\***, Yuefu Zhan, Junyang Chen, Thomas Lukasiewicz. Painless and Accurate Medical Image Analysis Using Deep Reinforcement Learning with Task-Oriented Homogenized Automatic Pre-Processing. Computers in Biology and Medicine, 2023, 153：106487. **(SCI Q1, IF: 6.698)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_Yuan.pdf)
 
-[6] Gang Xu, Shengxin Wang, **Zhenghua Xu***, Thomas Lukasiewicz. Adaptive-Masking Policy with Deep Reinforcement Learning for Self-Supervised Medical Image Segmentation. Accepted to publish in Proceedings of the IEEE International Conference on Multimedia \& Expo (ICME), Brisbane, Australia, July 10-14, 2023. **(CCF Rank B)**  
+[6] Gang Xu, Shengxin Wang, **Zhenghua Xu***, Thomas Lukasiewicz. Adaptive-Masking Policy with Deep Reinforcement Learning for Self-Supervised Medical Image Segmentation. Accepted to publish in Proceedings of the IEEE International Conference on Multimedia & Expo (ICME), Brisbane, Australia, July 10-14, 2023. **(CCF Rank B)**  
 
 [7] Ruizhi Wang, Xiangtao Wang, **Zhenghua Xu***, Wenting Xu, Junyang Chen, Thomas Lukasiewicz. MvCo-DoT: Multi-View Contrastive Domain Transfer Network for Medical Report Generation. In Proceedings of the 48th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Rhodes Island, Greece, June 4-10, 2023. **(CCF Rank B)**  
 
