@@ -15,7 +15,7 @@ author_profile: true
 
 >**Papers in Top Conferences and Journals**
 
-- **In 2023**
+**In 2023**
 
 [1] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. Accepted to publish in IEEE Transactions on Medical Imaging, 2023. **(SCI Q1, IF: 11.037)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TMI_camera-ready.pdf)   
@@ -47,7 +47,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_FBioE_Yaodan.pdf)
 
 
-- **In 2022**
+**In 2022**
 
 [12] Tommaso Salvatori‚ Yuhang Song*‚ **Zhenghua Xu**‚ Thomas Lukasiewicz and Rafal Bogacz. Reverse Differentiation via Predictive Coding. In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI), Virtual (Online), February 22 – March 1, 2022, pages 8150-8158. **(CCF Rank A, Acceptance rate: 15%)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_AAAI_Camera_Ready.pdf)  
@@ -62,7 +62,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_IEEE_TSC.pdf)
 
 
-- **In 2021**
+**In 2021**
 
 [16] Tommaso Salvatori‚ Yuhang Song*‚ Yujian Hong‚ Lei Sha‚ Simon Frieder‚ **Zhenghua Xu**‚ Rafal Bogacz and Thomas Lukasiewicz. Associative Memories via Predictive Coding. In Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), Virtual (Online), December 6-14, 2021, pages 3874-3886. **(CCF Rank A, Acceptance rate: 26%)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_NeurIPS-compressed.pdf)   
@@ -77,7 +77,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2021_TNNLS.pdf)
 
 
-- **In 2020**
+**In 2020**
 
 [20] Yuhang Song, Thomas Lukasiewicz‚ **Zhenghua Xu***, Rafal Bogacz. Can the Brain Do Backpropagation? —— Exact Implementation of Backpropagation in Predictive Coding Networks. In Proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS), Virtual (Online), December 6-12, 2020, pages 22566-22579. **(CCF Rank A, Acceptance rate: 20.09%)**  
 [[Details]](https://zhx-hebut.github.io/publication/NeurIPS2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_NeurIPS.pdf)
@@ -91,7 +91,7 @@ author_profile: true
 [23] **Zhenghua Xu*\#**, Di Yuan\#, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Guizhi Xu\*. Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation. In Proceedings of the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Virtual (Online), May 4-8, 2020, pages 3442-3446. **(CCF Rank B)**  
 [[Details]](https://zhx-hebut.github.io/publication/ICASSP2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_ICASSP'20.pdf)
 
-- **In 2019**
+**In 2019**
 
 [24] Yuhang Song\#, Jianyi Wang\#, Thomas Lukasiewicz, **Zhenghua Xu*** and Mai Xu. Diversity-Driven Extensible Hierarchical Reinforcement Learning. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), Honolulu, USA, January 27 - February 1, 2019, pages 4992-4999. **(CCF Rank A, Acceptance rate: 16.2%)**  
 [[Details]](https://zhx-hebut.github.io/publication/AAAI2019)  [[Download paper here]](http://zhx-hebut.github.io/files/AAAI2019.pdf)  [[Code Release]](https://github.com/YuhangSong/DEHRL)  [[Oral Presentation]](https://docs.google.com/presentation/d/18olkElCpJoE0iPnyS6DpE8zH8I3mggcCvcWI5yJDJkI/edit#slide=id.p3)
@@ -106,7 +106,7 @@ author_profile: true
 [[Details]](https://zhx-hebut.github.io/publication/ICASSP2019)   [[Download paper here]](http://zhx-hebut.github.io/files/ICASSP2019.pdf)  [[Code Release]](https://github.com/limberc/BPIE-BiSRNN)  
 
 
-- **Before 2019**
+**Before 2019**
 
 [28] **Zhenghua Xu***, Thomas Lukasiewicz, Cheng Chen\*, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model. In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI), Melbourne, Australia, August 19-25, 2017, 3196-3202. **(CCF Rank A, Acceptance rate: 25.9%)**  
 [[Details]](https://zhx-hebut.github.io/publication/IJCAI2017)  [[Download paper here]](https://www.ijcai.org/proceedings/2017/0446.pdf)
