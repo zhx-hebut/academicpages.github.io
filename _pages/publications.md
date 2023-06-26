@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-\* stands for corresponding author, and \# stands for co-first author.
+**Note: \* stands for corresponding author, and \# stands for co-first author.**
 
 >**Papers in Top Conferences and Journals**
 
