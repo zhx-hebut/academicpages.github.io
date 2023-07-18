@@ -51,7 +51,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) for the full list of ALL my publications.  
 (\* stands for corresponding author, and \# stands for co-first author.)
 
-[1] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation. Accepted to publish in Nature Neuroscience, 2023. **(SCI Q1, IF: 25.0)**
+[1] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation. Accepted to publish in **Nature Neuroscience**, 2023. **(SCI Q1, IF: 25.0)**
 
 
 Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. Accepted to publish in IEEE Transactions on Medical Imaging, 2023. **(SCI Q1, IF: 11.037)**  
