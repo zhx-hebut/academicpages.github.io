@@ -115,7 +115,7 @@ author_profile: true
 [30] **Zhenghua Xu***, Thomas Lukasiewicz, Cheng Chen\*, Yishu Miao and Xiangwu Meng. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model. In Proceedings of the 26th International Joint Conference on Artificial Intelligence **(IJCAI)**, Melbourne, Australia, August 19-25, 2017, 3196-3202. **(CCF Rank A, Acceptance rate: 25.9%)**  
 [[Details]](https://zhx-hebut.github.io/publication/IJCAI2017)  [[Download paper here]](https://www.ijcai.org/proceedings/2017/0446.pdf)
 
-[31] Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu**. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction. In Proceedings of the 29th IEEE International Conference on Data Engineering **(ICDE)**, Brisbane, Australia, April 8-12, 2013, pages 254-265. **(CCF Rank A, Acceptance rate: 19.8%, Google Scholar citations: 322)**   
+[31] Andy Yuan Xue, Rui Zhang, Yu Zheng, Xing Xie, Jin Huang and **Zhenghua Xu**. Destination Prediction by Sub-trajectory Synthesis and Privacy Protection against Such Prediction. In Proceedings of the 29th IEEE International Conference on Data Engineering **(ICDE)**, Brisbane, Australia, April 8-12, 2013, pages 254-265. **(CCF Rank A, Acceptance rate: 19.8%, Google Scholar citations: 332)**   
 [[Details]](https://zhx-hebut.github.io/publication/ICDE2013) [[Download paper here]](http://zhx-hebut.github.io/files/ICDE2013.pdf)
 
 [32] Cheng Chen, Thomas Lukasiewicz, Xiangwu Meng and **Zhenghua Xu**. Location-Aware News Recommendation Using Deep Localized Semantic Analysis. In Proceedings of the 22nd International Conference on Database Systems for Advanced Applications (DASFAA), Suzhou, China, March 27-30, 2017, pages 507-524. (CCF Rank B)   
