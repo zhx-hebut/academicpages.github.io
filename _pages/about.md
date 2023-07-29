@@ -24,7 +24,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **News**
 -----
-* **Great news**: our paper "Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation" has been **ACCEPTED** to publish in **Nature Neuroscience** (SCI Q1, IF: 25.0).
+* **Great news**: our paper "Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation" has been **ACCEPTED** to publish in **$\color{red}{Nature}$ $\color{red}{Neuroscience}$** (SCI Q1, IF: 25.0).
 * Our paper "Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation" is accepted to publish in IEEE Transactions on Medical Imaging (SCI Q1, IF: 11.037).
 * I am invited to serve as the Senior Program Committee (SPC) member in AAAI 2024.
 * My Google Scholar profile reaches 1000 citations in Apr 2023.
@@ -50,7 +50,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) for the full list of ALL my publications.  
 (\* stands for corresponding author, and \# stands for co-first author.)
 
-[1] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation. Accepted to publish in **$\color{red}{Nature}$ $\color{red}{Neuroscience}$**, 2023. **(SCI Q1, IF: 25.0)**
+[1] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation. Accepted to publish in **Nature Neuroscience**, 2023. **(SCI Q1, IF: 25.0)**
 
 [2] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. Accepted to publish in IEEE Transactions on Medical Imaging (TMI), 2023. **(SCI Q1, IF: 10.6)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TMI_camera-ready.pdf)   
