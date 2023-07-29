@@ -24,7 +24,7 @@ E-mail: firstname.lastname@hebut.edu.cn
 
 **News**
 -----
-* **Great news**: our paper "Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation" has been **ACCEPTED** to publish in **$\color{red}{Nature Neuroscience}$** (SCI Q1, IF: 25.0).
+* **Great news**: our paper "Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation" has been **ACCEPTED** to publish in **$\color{red}{Nature}$ $\color{red}{Neuroscience}$** (SCI Q1, IF: 25.0).
 * Our paper "Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation" is accepted to publish in IEEE Transactions on Medical Imaging (SCI Q1, IF: 11.037).
 * I am invited to serve as the Senior Program Committee (SPC) member in AAAI 2024.
 * My Google Scholar profile reaches 1000 citations in Apr 2023.
