@@ -20,7 +20,7 @@ author_profile: true
 [1] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation. Accepted to publish in **Nature Neuroscience**, 2023. **(SCI Q1, IF: 25.0)**
 
 [2] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. Accepted to publish in **IEEE Transactions on Medical Imaging (TMI)**, 2023. **(SCI Q1, IF: 10.6)**  
-[[Download paper here]](http://zhx-hebut.github.io/files/2023_TMI_camera-ready.pdf)   
+[[Download paper here]](http://zhx-hebut.github.io/files/2023_TMI_camera-ready.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/Multi-ConDoS_code.zip)    
 
 [3] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. **Medical Image Analysis**, 2023, 83: 102656. **(SCI Q1, IF: 10.9)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/semi-CML-public_v2.zip) 
