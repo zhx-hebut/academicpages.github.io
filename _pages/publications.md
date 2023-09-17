@@ -44,11 +44,16 @@ author_profile: true
 
 [11] Hexiang Zhang, **Zhenghua Xu*\#**, Dan Yao, Shuo Zhang, Junyang Chen, Thomas Lukasiewicz. Multi-Head Feature Pyramid Networks for Breast Mass Detection. In Proceedings of the 48th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Rhodes Island, Greece, June 4-10, 2023. (CCF Rank B)  
 
+[13] Junyang Chen\#, Ziyi Chen, Mengzhu Wang, Ge Fan, Guo Zhong, Ou Liu, Wenfeng Du\#, **Zhenghua Xu\#**, Zhiguo Gong. A Neural Inference of User Social Interest for Item Recommendation. Data Science and Engineering, 2023. (CCF Rank C Journal, IF: 4.2)   
+[[Download paper here]](https://link.springer.com/article/10.1007/s41019-023-00225-8)
+
 [12] **Zhenghua Xu\***, Tianrun Li, Yunxin Liu, Yuefu Zhan\*, Junyang Chen, Thomas Lukasiewicz. PAC-Net: Multi-Pathway FPN with Position Attention Guided Connections and Vertex Distance IoU for 3D Medical Image Detection. Frontiers in Bioengineering and Biotechnology, 2023, 11: 1049555. (SCI Q1, IF: 5.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_FBioE_Tianrun.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/PAC-Net.zip)   
 
-[13] Dan Yao, **Zhenghua Xu*\#**, **Yi Lin\***, **Yuefu Zhan\***. Accurate and Intelligent Diagnosis of Pediatric Pneumonia Using X-Ray images and Blood Testing Data. Frontiers in Bioengineering and Biotechnology, 2023, 11: 1058888. (SCI Q1, IF: 5.7)  
+[13] Dan Yao, **Zhenghua Xu*\#**, Yi Lin\*, Yuefu Zhan\*. Accurate and Intelligent Diagnosis of Pediatric Pneumonia Using X-Ray images and Blood Testing Data. Frontiers in Bioengineering and Biotechnology, 2023, 11: 1058888. (SCI Q1, IF: 5.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_FBioE_Yaodan.pdf)
+
+
 
 
 **In 2022**
