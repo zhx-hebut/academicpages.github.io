@@ -141,7 +141,7 @@ author_profile: true
 
 >**Other papers**  
 
-[37] Shuo Zhang*, Xinmei Su*, Quanlong Feng, Zifeng Wu\#, **Zhenghua Xu**. A Robust Agatston Score for Coronary Artery Calcium Scoring from Non-ECG-Gated CT with Different Reconstruction Kernels.  In Proceedings of the IEEE 20th International Symposium on Biomedical Imaging, 2023.  
+[37] Shuo Zhang\*, Xinmei Su\*, Quanlong Feng, Zifeng Wu\#, **Zhenghua Xu**. A Robust Agatston Score for Coronary Artery Calcium Scoring from Non-ECG-Gated CT with Different Reconstruction Kernels.  In Proceedings of the IEEE 20th International Symposium on Biomedical Imaging, 2023.  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_ISBI.pdf)
 
 [38] Mingfei Zhang, Zhoutao Yu, **Zhenghua Xu***. Short-Term Load Forecasting Using Recurrent Neural Networks With Input Attention Mechanism and Hidden Connection Mechanism. IEEE Access, 2020, 8: 186514-186529. (SCI Q1, IF: 3.476)    
