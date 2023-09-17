@@ -103,6 +103,7 @@ author_profile: true
 [26] **Zhenghua Xu*\#**, Di Yuan\#, Thomas Lukasiewicz, Cheng Chen, Yishu Miao and Guizhi Xu\*. Hybrid Deep-Semantic Matrix Factorization for Tag-Aware Personalized Recommendation. In Proceedings of the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Virtual (Online), May 4-8, 2020, pages 3442-3446. (CCF Rank B)  
 [[Details]](https://zhx-hebut.github.io/publication/ICASSP2020) [[Download paper here]](http://zhx-hebut.github.io/files/2020_ICASSP'20.pdf)
 
+
 **In 2019**
 
 [27] Yuhang Song\#, Jianyi Wang\#, Thomas Lukasiewicz, **Zhenghua Xu*** and Mai Xu. Diversity-Driven Extensible Hierarchical Reinforcement Learning. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence **(AAAI)**, Honolulu, USA, January 27 - February 1, 2019, pages 4992-4999. **(CCF Rank A, Acceptance rate: 16.2%)**  
