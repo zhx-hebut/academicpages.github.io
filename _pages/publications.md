@@ -43,7 +43,7 @@ author_profile: true
 [9] Gang Xu, Shengxin Wang, **Zhenghua Xu***, Thomas Lukasiewicz. Adaptive-Masking Policy with Deep Reinforcement Learning for Self-Supervised Medical Image Segmentation. In Proceedings of the IEEE International Conference on Multimedia & Expo (ICME), Brisbane, Australia, July 10-14, 2023, pages 2285-2290. (CCF Rank B)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_ICME.pdf)
 
-[10] Ruizhi Wang, Xiangtao Wang, **Zhenghua Xu***, Wenting Xu, Junyang Chen, Thomas Lukasiewicz. MvCo-DoT: Multi-View Contrastive Domain Transfer Network for Medical Report Generation. In Proceedings of the 48th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Rhodes Island, Greece, June 4-10, 2023. (CCF Rank B)
+[10] Ruizhi Wang, Xiangtao Wang, **Zhenghua Xu***, Wenting Xu, Junyang Chen, Thomas Lukasiewicz. MvCo-DoT: Multi-View Contrastive Domain Transfer Network for Medical Report Generation. In Proceedings of the 48th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Rhodes Island, Greece, June 4-10, 2023. (CCF Rank B)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_ICASSP_MVCO-DOT.pdf)  
 
 [11] Xiangtao Wang, Ruizhi Wang, Biao Tian, Jiaojiao Zhang, Shuo Zhang, Junyang Chen, Thomas Lukasiewicz, **Zhenghua Xu***. MPS-AMS: Masked Patches Selection and Adaptive Masking Strategy Based Self-Supervised Medical Image Segmentation. In Proceedings of the 48th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Rhodes Island, Greece, June 4-10, 2023. (CCF Rank B)  
