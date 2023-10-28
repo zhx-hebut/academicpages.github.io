@@ -40,7 +40,7 @@ author_profile: true
 [8] Di Yuan, Yunxin Liu\*, **Zhenghua Xu\***, Yuefu Zhan, Junyang Chen, Thomas Lukasiewicz. Painless and Accurate Medical Image Analysis Using Deep Reinforcement Learning with Task-Oriented Homogenized Automatic Pre-Processing. Computers in Biology and Medicine (CBM), 2023, 153：106487. (SCI Q1, IF: 7.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_Yuan.pdf)
 
-[9] Gang Xu, Shengxin Wang, **Zhenghua Xu***, Thomas Lukasiewicz. Adaptive-Masking Policy with Deep Reinforcement Learning for Self-Supervised Medical Image Segmentation. In Proceedings of the IEEE International Conference on Multimedia & Expo (ICME), Brisbane, Australia, July 10-14, 2023. (CCF Rank B)  
+[9] Gang Xu, Shengxin Wang, **Zhenghua Xu***, Thomas Lukasiewicz. Adaptive-Masking Policy with Deep Reinforcement Learning for Self-Supervised Medical Image Segmentation. In Proceedings of the IEEE International Conference on Multimedia & Expo (ICME), Brisbane, Australia, July 10-14, 2023, pages 2285-2290. (CCF Rank B)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_ICME.pdf)
 
 [10] Ruizhi Wang, Xiangtao Wang, **Zhenghua Xu***, Wenting Xu, Junyang Chen, Thomas Lukasiewicz. MvCo-DoT: Multi-View Contrastive Domain Transfer Network for Medical Report Generation. In Proceedings of the 48th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Rhodes Island, Greece, June 4-10, 2023. (CCF Rank B)
@@ -52,7 +52,7 @@ author_profile: true
 [12] Hexiang Zhang, **Zhenghua Xu*\#**, Dan Yao, Shuo Zhang, Junyang Chen, Thomas Lukasiewicz. Multi-Head Feature Pyramid Networks for Breast Mass Detection. In Proceedings of the 48th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Rhodes Island, Greece, June 4-10, 2023. (CCF Rank B)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_ICASSP_MPS-AMS.pdf)  
 
-[13] Junyang Chen\#, Ziyi Chen, Mengzhu Wang, Ge Fan, Guo Zhong, Ou Liu, Wenfeng Du\#, **Zhenghua Xu\#**, Zhiguo Gong. A Neural Inference of User Social Interest for Item Recommendation. Data Science and Engineering, 2023. (CCF Rank C Journal, IF: 4.2)   
+[13] Junyang Chen\#, Ziyi Chen, Mengzhu Wang, Ge Fan, Guo Zhong, Ou Liu, Wenfeng Du\#, **Zhenghua Xu\#**, Zhiguo Gong. A Neural Inference of User Social Interest for Item Recommendation. Data Science and Engineering, 2023, 8: 223–233. (CCF Rank C Journal, IF: 4.2)   
 [[Download paper here]](https://link.springer.com/article/10.1007/s41019-023-00225-8)
 
 [14] **Zhenghua Xu\***, Tianrun Li, Yunxin Liu, Yuefu Zhan\*, Junyang Chen, Thomas Lukasiewicz. PAC-Net: Multi-Pathway FPN with Position Attention Guided Connections and Vertex Distance IoU for 3D Medical Image Detection. Frontiers in Bioengineering and Biotechnology, 2023, 11: 1049555. (SCI Q1, IF: 5.7)  
