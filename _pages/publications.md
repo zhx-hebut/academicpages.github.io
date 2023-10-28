@@ -29,7 +29,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TNSE_PhaCIA-TCNs.pdf)   
 
 [5] Miao Yu, Miaomiao Guo, Shuai Zhang, Yuefu Zhan, Mingkang Zhao, Thomas Lukasiewicz, **Zhenghua Xu\***. RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising. Computers in Biology and Medicine (CBM), 2023. (SCI Q1, IF: 7.7)  
-[[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_RIRGAN.pdf)  
+[[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_RIRGAN.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/rirgan.zip)    
 
 [6] **Zhenghua Xu\***, Xudong Zhang, Hexiang Zhang\*, Yunxin Liu, Yuefu Zhan\*, Thomas Lukasiewicz. EFPN: Effective Medical Image Detection Using Feature Pyramid Fusion Enhancement. Computers in Biology and Medicine (CBM), 2023, 163: 107149. (SCI Q1, IF: 7.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_EFPN.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/EFPN.zip)  
