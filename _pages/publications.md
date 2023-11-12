@@ -19,7 +19,7 @@ author_profile: true
 
 [1] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation. Accepted to publish in **Nature Neuroscience**, 2023. **(SCI Q1, IF: 25.0)**
 
-[2] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. Accepted to publish in **IEEE Transactions on Medical Imaging (TMI)**, 2023. **(SCI Q1, IF: 10.6)**  
+[2] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. **IEEE Transactions on Medical Imaging (TMI)**, 2023, Online Early Access. **(SCI Q1, IF: 10.6)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TMI_camera-ready.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/Multi-ConDoS_code.zip)    
 
 [3] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. **Medical Image Analysis**, 2023, 83: 102656. **(SCI Q1, IF: 10.9)**  
@@ -27,7 +27,7 @@ author_profile: true
 
 [4] **Zhenghua Xu**, Biao Tian, Shijie Liu\*, Xiangtao Wang, Di Yuan, Junhua Gu\*, Junyang Chen\*, Thomas Lukasiewicz, Victor C. M. Leung. Collaborative Attention Guided Multi-Scale Feature Fusion Network for Medical Image Segmentation. IEEE Transactions on Network Science and Engineering (TNSE), 2023. (SCI Q1, IF: 6.6)
 
-[5] **Zhenghua Xu\***, Zhoutao Yu, Hexiang Zhang\*, Junyang Chen, Junhua Gu\*, Thomas Lukasiewicz, Victor C. M. Leung. PhaCIA-TCNs: Short-Term Load Forecasting Using Temporal Convolutional Networks With Parallel Hybrid Activated Convolution and Input Attention. IEEE Transactions on Network Science and Engineering (TNSE), 2023. (SCI Q1, IF: 6.6)
+[5] **Zhenghua Xu\***, Zhoutao Yu, Hexiang Zhang\*, Junyang Chen, Junhua Gu\*, Thomas Lukasiewicz, Victor C. M. Leung. PhaCIA-TCNs: Short-Term Load Forecasting Using Temporal Convolutional Networks With Parallel Hybrid Activated Convolution and Input Attention. IEEE Transactions on Network Science and Engineering (TNSE), 2023, Online Early Access. (SCI Q1, IF: 6.6)
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TNSE_PhaCIA-TCNs.pdf)   
 
 [6] Miao Yu, Miaomiao Guo, Shuai Zhang, Yuefu Zhan, Mingkang Zhao, Thomas Lukasiewicz, **Zhenghua Xu\***. RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising. Computers in Biology and Medicine (CBM), 2023. (SCI Q1, IF: 7.7)  
