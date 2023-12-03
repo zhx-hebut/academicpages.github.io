@@ -32,6 +32,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TNSE_PhaCIA-TCNs.pdf)   
 
 [6] **Zhenghua Xu**, Jiaqi Tang, Chang Qi, Dan Yao, Caihua Liu, Yuefu Zhan, Thomas Lukasiewicz. Cross-Domain Attention-Guided Generative Data Augmentation for Medical Image Analysis with Limited Data. Computers in Biology and Medicine (CBM), 2023. (SCI Q1, IF: 7.7)  
+[[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_CDA-GAN.pdf)   
 
 [7] Miao Yu, Miaomiao Guo, Shuai Zhang, Yuefu Zhan, Mingkang Zhao, Thomas Lukasiewicz, **Zhenghua Xu\***. RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising. Computers in Biology and Medicine (CBM), 2023, 167: 107632. (SCI Q1, IF: 7.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_RIRGAN.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/rirgan.zip)    
