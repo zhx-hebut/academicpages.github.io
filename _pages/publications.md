@@ -25,7 +25,7 @@ author_profile: true
 [3] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. **Medical Image Analysis**, 2023, 83: 102656. **(SCI Q1, IF: 10.9)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/semi-CML-public_v2.zip) 
 
-[4] **Zhenghua Xu\***, Wenting Xu, Ruizhi Wang\*, Junyang Chen, Chang Qi, Thomas Lukasiewicz. Hybrid Reinforced Medical Report Generation wit M-Linear Attention and Repetition Penalty. Accepted by **IEEE Transactions on Neural Networks and Learning Systems**, 2023. **(SCI Q1, IF: 10.4)**  
+[4] **Zhenghua Xu\***, Wenting Xu, Ruizhi Wang\*, Junyang Chen, Chang Qi, Thomas Lukasiewicz. Hybrid Reinforced Medical Report Generation wit M-Linear Attention and Repetition Penalty. Accepted to publish in **IEEE Transactions on Neural Networks and Learning Systems**, 2023. **(SCI Q1, IF: 10.4)**  
 
 [5] **Zhenghua Xu**, Biao Tian, Shijie Liu\*, Xiangtao Wang, Di Yuan, Junhua Gu\*, Junyang Chen\*, Thomas Lukasiewicz, Victor C. M. Leung. Collaborative Attention Guided Multi-Scale Feature Fusion Network for Medical Image Segmentation. IEEE Transactions on Network Science and Engineering (TNSE), 2023. (SCI Q1, IF: 6.6)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TNSE_CoA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/CoAG-MuSFu-public.zip)    
