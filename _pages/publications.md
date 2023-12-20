@@ -33,7 +33,9 @@ author_profile: true
 [6] **Zhenghua Xu\***, Zhoutao Yu, Hexiang Zhang\*, Junyang Chen, Junhua Gu\*, Thomas Lukasiewicz, Victor C. M. Leung. PhaCIA-TCNs: Short-Term Load Forecasting Using Temporal Convolutional Networks With Parallel Hybrid Activated Convolution and Input Attention. IEEE Transactions on Network Science and Engineering (TNSE), 2023, Online Early Access. (SCI Q1, IF: 6.6)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TNSE_PhaCIA-TCNs.pdf)   
 
-[7] **Zhenghua Xu**, Jiaqi Tang, Chang Qi, Dan Yao, Caihua Liu, Yuefu Zhan, Thomas Lukasiewicz. Cross-Domain Attention-Guided Generative Data Augmentation for Medical Image Analysis with Limited Data. Computers in Biology and Medicine (CBM), 2023. (SCI Q1, IF: 7.7)  
+[7]  **Zhenghua Xu**, Shengxin Wang, Gang Xu, Yunxin Liu, Miao Yu\*, Hongwei Zhang, Thomas Lukasiewicz, Junhua Gu. Automatic Data Augmentation for Medical Image Segmentation Using Adaptive Sequence-Length Based Deep Reinforcement Learning. Computers in Biology and Medicine (CBM), 2023. (SCI Q1, IF: 7.7)  
+
+[7] **Zhenghua Xu**, Jiaqi Tang, Chang Qi\*, Dan Yao, Caihua Liu, Yuefu Zhan, Thomas Lukasiewicz. Cross-Domain Attention-Guided Generative Data Augmentation for Medical Image Analysis with Limited Data. Computers in Biology and Medicine (CBM), 2023. (SCI Q1, IF: 7.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_CDA-GAN.pdf)   
 
 [8] Miao Yu, Miaomiao Guo, Shuai Zhang, Yuefu Zhan, Mingkang Zhao, Thomas Lukasiewicz, **Zhenghua Xu\***. RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising. Computers in Biology and Medicine (CBM), 2023, 167: 107632. (SCI Q1, IF: 7.7)  
