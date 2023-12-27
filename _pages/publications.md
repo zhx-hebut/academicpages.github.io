@@ -28,21 +28,21 @@ author_profile: true
 [4] **Zhenghua Xu\***, Wenting Xu, Ruizhi Wang\*, Junyang Chen, Chang Qi, Thomas Lukasiewicz. Hybrid Reinforced Medical Report Generation wit M-Linear Attention and Repetition Penalty. Accepted to publish in **IEEE Transactions on Neural Networks and Learning Systems**, 2023. **(SCI Q1, IF: 10.4)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TNNLS)   
 
-[5]  **Zhenghua Xu**, Shengxin Wang, Gang Xu, Yunxin Liu, Miao Yu\*, Hongwei Zhang, Thomas Lukasiewicz, Junhua Gu. Automatic Data Augmentation for Medical Image Segmentation Using Adaptive Sequence-Length Based Deep Reinforcement Learning. Computers in Biology and Medicine (CBM), 2023. (SCI Q1, IF: 7.7)  
+[5]  **Zhenghua Xu**, Shengxin Wang, Gang Xu, Yunxin Liu, Miao Yu\*, Hongwei Zhang, Thomas Lukasiewicz, Junhua Gu. Automatic Data Augmentation for Medical Image Segmentation Using Adaptive Sequence-Length Based Deep Reinforcement Learning. Computers in Biology and Medicine (CIBM), 2023. (SCI Q1, IF: 7.7)  
 
-[6] **Zhenghua Xu**, Jiaqi Tang, Chang Qi\*, Dan Yao, Caihua Liu, Yuefu Zhan, Thomas Lukasiewicz. Cross-Domain Attention-Guided Generative Data Augmentation for Medical Image Analysis with Limited Data. Computers in Biology and Medicine (CBM), 2023. (SCI Q1, IF: 7.7)  
+[6] **Zhenghua Xu**, Jiaqi Tang, Chang Qi\*, Dan Yao, Caihua Liu, Yuefu Zhan, Thomas Lukasiewicz. Cross-Domain Attention-Guided Generative Data Augmentation for Medical Image Analysis with Limited Data. Computers in Biology and Medicine (CIBM), 2023. (SCI Q1, IF: 7.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_CDA-GAN.pdf)   
 
-[7] Miao Yu, Miaomiao Guo, Shuai Zhang, Yuefu Zhan, Mingkang Zhao, Thomas Lukasiewicz, **Zhenghua Xu\***. RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising. Computers in Biology and Medicine (CBM), 2023, 167: 107632. (SCI Q1, IF: 7.7)  
+[7] Miao Yu, Miaomiao Guo, Shuai Zhang, Yuefu Zhan, Mingkang Zhao, Thomas Lukasiewicz, **Zhenghua Xu\***. RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising. Computers in Biology and Medicine (CIBM), 2023, 167: 107632. (SCI Q1, IF: 7.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_RIRGAN.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/rirgan.zip)    
 
-[8] **Zhenghua Xu\***, Xudong Zhang, Hexiang Zhang\*, Yunxin Liu, Yuefu Zhan\*, Thomas Lukasiewicz. EFPN: Effective Medical Image Detection Using Feature Pyramid Fusion Enhancement. Computers in Biology and Medicine (CBM), 2023, 163: 107149. (SCI Q1, IF: 7.7)  
+[8] **Zhenghua Xu\***, Xudong Zhang, Hexiang Zhang\*, Yunxin Liu, Yuefu Zhan\*, Thomas Lukasiewicz. EFPN: Effective Medical Image Detection Using Feature Pyramid Fusion Enhancement. Computers in Biology and Medicine (CIBM), 2023, 163: 107149. (SCI Q1, IF: 7.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_EFPN.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/EFPN.zip)  
 
-[9] Di Yuan, **Zhenghua Xu\***, Biao Tian, Hening Wang, Yuefu Zhan, Thomas Lukasiewicz. μ-Net: Medical Image Segmentation Using Efficient and Effective Deep Supervision. Computers in Biology and Medicine (CBM), 2023, 160: 106963. (SCI Q1, IF: 7.7)  
+[9] Di Yuan, **Zhenghua Xu\***, Biao Tian, Hening Wang, Yuefu Zhan, Thomas Lukasiewicz. μ-Net: Medical Image Segmentation Using Efficient and Effective Deep Supervision. Computers in Biology and Medicine (CIBM), 2023, 160: 106963. (SCI Q1, IF: 7.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_Yuan_2.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/mu-net-public.zip)  
 
-[10] Di Yuan, Yunxin Liu\*, **Zhenghua Xu\***, Yuefu Zhan, Junyang Chen, Thomas Lukasiewicz. Painless and Accurate Medical Image Analysis Using Deep Reinforcement Learning with Task-Oriented Homogenized Automatic Pre-Processing. Computers in Biology and Medicine (CBM), 2023, 153：106487. (SCI Q1, IF: 7.7)  
+[10] Di Yuan, Yunxin Liu\*, **Zhenghua Xu\***, Yuefu Zhan, Junyang Chen, Thomas Lukasiewicz. Painless and Accurate Medical Image Analysis Using Deep Reinforcement Learning with Task-Oriented Homogenized Automatic Pre-Processing. Computers in Biology and Medicine (CIBM), 2023, 153：106487. (SCI Q1, IF: 7.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_Yuan.pdf)
 
 [11] **Zhenghua Xu**, Biao Tian, Shijie Liu\*, Xiangtao Wang, Di Yuan, Junhua Gu\*, Junyang Chen\*, Thomas Lukasiewicz, Victor C. M. Leung. Collaborative Attention Guided Multi-Scale Feature Fusion Network for Medical Image Segmentation. IEEE Transactions on Network Science and Engineering (TNSE), 2023. (SCI Q1, IF: 6.6)  
