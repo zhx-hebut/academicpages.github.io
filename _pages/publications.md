@@ -24,6 +24,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TMI_camera-ready.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/Multi-ConDoS_code.zip)    
 
 [3]  **Zhenghua Xu**, Shengxin Wang, Gang Xu, Yunxin Liu, Miao Yu\*, Hongwei Zhang, Thomas Lukasiewicz, Junhua Gu. Automatic Data Augmentation for Medical Image Segmentation Using Adaptive Sequence-Length Based Deep Reinforcement Learning. Computers in Biology and Medicine (CIBM), 2024, 169: 107877. (SCI Q1, IF: 7.7)  
+[[Download paper here]](http://zhx-hebut.github.io/files/2024_CIBM_DRL-DA.pdf)   [[Code Release]](https://github.com/zhx-hebut/ASDRL-AutoAug)    
 
 [4] **Zhenghua Xu**, Jiaqi Tang, Chang Qi\*, Dan Yao, Caihua Liu, Yuefu Zhan, Thomas Lukasiewicz. Cross-Domain Attention-Guided Generative Data Augmentation for Medical Image Analysis with Limited Data. Computers in Biology and Medicine (CIBM), 2024, 168: 107744. (SCI Q1, IF: 7.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_CDA-GAN.pdf)   
