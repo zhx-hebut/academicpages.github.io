@@ -18,7 +18,8 @@ author_profile: true
 
 **In 2024**
 
-[1] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation. Accepted to publish in **Nature Neuroscience**, 2024, 27: 348-358. **(SCI Q1, IF: 25.0)**
+[1] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation. **Nature Neuroscience**, 2024, 27: 348-358. **(SCI Q1, IF: 25.0)**  
+[[Download paper here]](http://zhx-hebut.github.io/files/2024_Nature Neuroscience.pdf)   [[Code Release]](https://github.com/YuhangSong/Prospective-Configuration)    
 
 [2] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. **IEEE Transactions on Medical Imaging (TMI)**, 2024, 43(1): 76-95. **(SCI Q1, IF: 10.6)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TMI_camera-ready.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/Multi-ConDoS_code.zip)    
@@ -42,7 +43,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/semi-CML-public_v2.zip) 
 
 [8] **Zhenghua Xu\***, Wenting Xu, Ruizhi Wang\*, Junyang Chen, Chang Qi, Thomas Lukasiewicz. Hybrid Reinforced Medical Report Generation wit M-Linear Attention and Repetition Penalty. Accepted to publish in **IEEE Transactions on Neural Networks and Learning Systems**, 2023, Early Access, DOI: 10.1109/TNNLS.2023.3343391. **(SCI Q1, IF: 10.4)**  
-[[Download paper here]](http://zhx-hebut.github.io/files/2023_TNNLS)   
+[[Download paper here]](http://zhx-hebut.github.io/files/2023_TNNLS)   [[Code Release]](https://github.com/zhx-hebut/HReMRG-MR)    
 
 [9] Miao Yu, Miaomiao Guo, Shuai Zhang, Yuefu Zhan, Mingkang Zhao, Thomas Lukasiewicz, **Zhenghua Xu\***. RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising. Computers in Biology and Medicine (CIBM), 2023, 167: 107632. (SCI Q1, IF: 7.7)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_RIRGAN.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/rirgan.zip)    
