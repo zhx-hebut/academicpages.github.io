@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Professor of Computer Science and Technology 
-Awardee of Oversea Returning High-Level talents of Ministry of Human Resources and Social Security
+Awardee of Oversea Returning High-Level Talents of Ministry of Human Resources and Social Security
 (人社部高层次留学人才回国资助项目入选者)
 Awardee of "100 Talents Plan" of Hebei Province (河北省“百人计划”入选者)  
 PI of Excellent Young Scientist Fund of Hebei Province  (河北省“优秀青年科学基金”获得者)  
