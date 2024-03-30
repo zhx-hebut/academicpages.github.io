@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Professor of Computer Science and Technology  
+Professor of Computer Science and Technology 
+Awardee of Oversea Returning High-Level talents of Ministry of Human Resources and Social Security
+(人社部高层次留学人才回国资助项目入选者)
 Awardee of "100 Talents Plan" of Hebei Province (河北省“百人计划”入选者)  
 PI of Excellent Young Scientist Fund of Hebei Province  (河北省“优秀青年科学基金”获得者)  
-State Key Laboratory of Reliability and Intelligence of Electrical Equipment   
-School of Health Sciences and Biomedical Engineering   
+Vice Dean, School of Health Sciences and Biomedical Engineering   
 [Hebei University of Technology](http://www.hebut.edu.cn/)  
 Address: No. 8 Guangrongdao, Hongqiao, Tianjin, 300130, China  
 E-mail: firstname.lastname@hebut.edu.cn
@@ -53,7 +54,7 @@ Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) f
 
 [1] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation. Accepted to publish in **Nature Neuroscience**, 2023. **(SCI Q1, IF: 25.0)**
 
-[2] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. Accepted to publish in IEEE Transactions on Medical Imaging (TMI), 2023. **(SCI Q1, IF: 10.6)**  
+[2] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. IEEE Transactions on Medical Imaging (TMI), 2023. **(SCI Q1, IF: 10.6)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TMI_camera-ready.pdf)   
 
 [3] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. Medical Image Analysis, 2023. **(SCI Q1, IF: 10.9)**  
