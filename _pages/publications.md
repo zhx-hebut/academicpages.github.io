@@ -89,7 +89,7 @@ author_profile: true
 [22] **Zhenghua Xu\***, Shijie Liu, Di Yuan\*, Lei Wang, Junyang Chen, Thomas Lukasiewicz, Zhigang Fu, Rui Zhang. ω-Net: Dual Supervised Medical Image Segmentation with Multi-Dimensional Self-Attention and Diversely-Connected Multi-Scale Convolution. Neurocomputing, 2022, 500：177-190. (SCI Q1, IF: 6.0)  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_Neurocomputing.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/w_net_code.zip)
 
-[23] Haozhe Lin, Yushun Fan, Jia Zhang, Bing Bai, **Zhenghua Xu**, Thomas Lukasiewicz. Toward Knowledge as a Service (KaaS): Predicting Popularity of Knowledge Services Leveraging Graph Neural Networks. IEEE Transactions on Service Computing (TSC), 2022, 16(1): 642-655. (SCI Q1, IF: 8.1)  
+[23] Haozhe Lin, Yushun Fan, Jia Zhang, Bing Bai, **Zhenghua Xu**, Thomas Lukasiewicz. Toward Knowledge as a Service (KaaS): Predicting Popularity of Knowledge Services Leveraging Graph Neural Networks. **IEEE Transactions on Service Computing (TSC)**, 2022, 16(1): 642-655. **(SCI Q1, IF: 8.1)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2022_IEEE_TSC.pdf)
 
 
