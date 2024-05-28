@@ -43,7 +43,7 @@ author_profile: true
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/semi-CML-public_v2.zip) 
 
 [8] **Zhenghua Xu\***, Wenting Xu, Ruizhi Wang\*, Junyang Chen, Chang Qi, Thomas Lukasiewicz. Hybrid Reinforced Medical Report Generation wit M-Linear Attention and Repetition Penalty. **IEEE Transactions on Neural Networks and Learning Systems**, 2023, Early Access, DOI: 10.1109/TNNLS.2023.3343391. **(SCI Q1, IF: 10.4)**  
-[[Download paper here]](http://zhx-hebut.github.io/files/2023_TNNLS)   [[Code Release]](https://github.com/zhx-hebut/HReMRG-MR)    
+[[Download paper here]](http://zhx-hebut.github.io/files/2023_TNNLS.pdf)   [[Code Release]](https://github.com/zhx-hebut/HReMRG-MR)    
 
 [9] Miao Yu, Miaomiao Guo, Shuai Zhang, Yuefu Zhan, Mingkang Zhao, Thomas Lukasiewicz, **Zhenghua Xu\***. RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising. **Computers in Biology and Medicine (CIBM)**, 2023, 167: 107632. **(SCI Q1, IF: 7.7)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_RIRGAN.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/rirgan.zip)    
