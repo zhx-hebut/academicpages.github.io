@@ -12,6 +12,7 @@ Professor of Computer Science and Technology
 Awardee of Oversea Returning High-Level Talents of Ministry of Human Resources and Social Security
 (人社部高层次留学人才回国资助项目入选者)  
 Awardee of "100 Talents Plan" of Hebei Province (河北省“百人计划”入选者)  
+PI of Distinguished Young Scientist Fund of Hebei Province  (河北省“杰出青年科学基金”获得者)  
 PI of Excellent Young Scientist Fund of Hebei Province  (河北省“优秀青年科学基金”获得者)  
 Vice Dean, School of Health Sciences and Biomedical Engineering   
 [Hebei University of Technology](http://www.hebut.edu.cn/)  
