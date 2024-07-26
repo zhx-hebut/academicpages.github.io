@@ -58,7 +58,7 @@ Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) f
 
 [2] **Zhenghua Xu*\#**, Yunxin Liu\#, Gang Xu, Thomas Lukasiewicz. Self-Supervised Medical Image Segmentation Using Deep Reinforced Adaptive Masking. IEEE Transactions on Medical Imaging (TMI), 2024. **(SCI Q1, IF: 10.6)**  
 
-[3] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. IEEE Transactions on Medical Imaging (TMI), 2023. **(SCI Q1, IF: 10.6)**  
+[3] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. IEEE Transactions on Medical Imaging (TMI), 2023. **(SCI Q1, IF: 10.6, ESI Highly Cited Paper)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TMI_camera-ready.pdf)   
 
 [4] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. Medical Image Analysis, 2023. **(SCI Q1, IF: 10.9)**  
