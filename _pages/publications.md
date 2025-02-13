@@ -17,45 +17,53 @@ author_profile: true
 
 **In 2025**
 
-[9] **Zhenghua Xu\***, Wenting Xu, Ruizhi Wang\*, Junyang Chen, Chang Qi, Thomas Lukasiewicz. Hybrid Reinforced Medical Report Generation wit M-Linear Attention and Repetition Penalty. **IEEE Transactions on Neural Networks and Learning Systems**, 2025, 36(2): 2206-2220, DOI: 10.1109/TNNLS.2023.3343391. **(SCI Q1, IF: 10.4)**  
+[1] **Zhenghua Xu\***, Wenting Xu, Ruizhi Wang\*, Junyang Chen, Chang Qi, Thomas Lukasiewicz. Hybrid Reinforced Medical Report Generation wit M-Linear Attention and Repetition Penalty. **IEEE Transactions on Neural Networks and Learning Systems**, 2025, 36(2): 2206-2220, DOI: 10.1109/TNNLS.2023.3343391. **(SCI Q1, IF: 10.4)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TNNLS.pdf)   [[Code Release]](https://github.com/zhx-hebut/HReMRG-MR)    
 
 [2] **Zhenghua Xu*\#**, Yunxin Liu\#, Gang Xu, Thomas Lukasiewicz. Self-Supervised Medical Image Segmentation Using Deep Reinforced Adaptive Masking. IEEE Transactions on Medical Imaging (TMI), 2025, 44(1): 180-193. **(SCI Q1, IF: 10.6)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2025_TMI_AHM.pdf)   
 
+[3] **Zhenghua Xu**, Hening Wang, Runhe Yang, Yuchen Yang, Weipeng Liu\*, Thomas Lukasiewicz. Aggregated Mutual Learning between CNN and Transformer for semi-supervised medical image segmentation. Knowledge-Based Systems, 2025, 311: 113005.  **(SCI Q1, IF: 7.2)**  
+[[Download paper here]](http://zhx-hebut.github.io/files/2025_KBS_Hening.pdf)   
+
 **In 2024**
 
-[1] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation. **Nature Neuroscience**, 2024, 27: 348-358. **(SCI Q1, IF: 25.0)**  
+[4] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation. **Nature Neuroscience**, 2024, 27: 348-358. **(SCI Q1, IF: 25.0)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2024_Nature Neuroscience.pdf)   [[Code Release]](https://github.com/YuhangSong/Prospective-Configuration)    
 
-[3] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. **IEEE Transactions on Medical Imaging (TMI)**, 2024, 43(1): 76-95. **(SCI Q1, IF: 10.6, ESI Highly Cited Paper)**  
+[5] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. **IEEE Transactions on Medical Imaging (TMI)**, 2024, 43(1): 76-95. **(SCI Q1, IF: 10.6, ESI Highly Cited Paper)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TMI_camera-ready.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/Multi-ConDoS_code.zip)    
 
-[4]  **Zhenghua Xu**, Shengxin Wang, Gang Xu, Yunxin Liu, Miao Yu\*, Hongwei Zhang, Thomas Lukasiewicz, Junhua Gu. Automatic Data Augmentation for Medical Image Segmentation Using Adaptive Sequence-Length Based Deep Reinforcement Learning. **Computers in Biology and Medicine (CIBM)**, 2024, 169: 107877. **(SCI Q1, IF: 7.7)**  
+[6] Tommaso Salvatori, Yuhang Song, Yordan Yordanov, Beren Millidge, Lei Sha, Cornelius Emde, **Zhenghua Xu**, Rafal Bogacz, Thomas Lukasiewicz. A Stable, Fast, and Fully Automatic Learning Algorithm for Predictive Coding Networks. In Proceedings of the International Conference on Learning Representations **(ICLR)**, Vienna, Austria, May 7-11, 2024.  
+[[Download paper here]](http://zhx-hebut.github.io/files/2024_ICLR_iPC.pdf)   
+
+[7]  **Zhenghua Xu**, Shengxin Wang, Gang Xu, Yunxin Liu, Miao Yu\*, Hongwei Zhang, Thomas Lukasiewicz, Junhua Gu. Automatic Data Augmentation for Medical Image Segmentation Using Adaptive Sequence-Length Based Deep Reinforcement Learning. **Computers in Biology and Medicine (CIBM)**, 2024, 169: 107877. **(SCI Q1, IF: 7.7)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2024_CIBM_DRL-DA.pdf)   [[Code Release]](https://github.com/zhx-hebut/ASDRL-AutoAug)    
 
-[5] **Zhenghua Xu**, Jiaqi Tang, Chang Qi\*, Dan Yao, Caihua Liu, Yuefu Zhan, Thomas Lukasiewicz. Cross-Domain Attention-Guided Generative Data Augmentation for Medical Image Analysis with Limited Data. **Computers in Biology and Medicine (CIBM)**, 2024, 168: 107744. **(SCI Q1, IF: 7.7)**  
+[8] **Zhenghua Xu**, Jiaqi Tang, Chang Qi\*, Dan Yao, Caihua Liu, Yuefu Zhan, Thomas Lukasiewicz. Cross-Domain Attention-Guided Generative Data Augmentation for Medical Image Analysis with Limited Data. **Computers in Biology and Medicine (CIBM)**, 2024, 168: 107744. **(SCI Q1, IF: 7.7)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_CDA-GAN.pdf)   
 
-[6] **Zhenghua Xu**, Biao Tian, Shijie Liu\*, Xiangtao Wang, Di Yuan, Junhua Gu\*, Junyang Chen\*, Thomas Lukasiewicz, Victor C. M. Leung. Collaborative Attention Guided Multi-Scale Feature Fusion Network for Medical Image Segmentation. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2024, 11(2): 1857-1871. **(SCI Q1, IF: 6.6)**  
+[9] **Zhenghua Xu**, Biao Tian, Shijie Liu\*, Xiangtao Wang, Di Yuan, Junhua Gu\*, Junyang Chen\*, Thomas Lukasiewicz, Victor C. M. Leung. Collaborative Attention Guided Multi-Scale Feature Fusion Network for Medical Image Segmentation. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2024, 11(2): 1857-1871. **(SCI Q1, IF: 6.6)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TNSE_CoA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/CoAG-MuSFu-public.zip)    
 
-[7] **Zhenghua Xu\***, Zhoutao Yu, Hexiang Zhang\*, Junyang Chen, Junhua Gu\*, Thomas Lukasiewicz, Victor C. M. Leung. PhaCIA-TCNs: Short-Term Load Forecasting Using Temporal Convolutional Networks With Parallel Hybrid Activated Convolution and Input Attention. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2024, 11(1): 427-438. **(SCI Q1, IF: 6.6)**  
+[10] **Zhenghua Xu\***, Zhoutao Yu, Hexiang Zhang\*, Junyang Chen, Junhua Gu\*, Thomas Lukasiewicz, Victor C. M. Leung. PhaCIA-TCNs: Short-Term Load Forecasting Using Temporal Convolutional Networks With Parallel Hybrid Activated Convolution and Input Attention. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2024, 11(1): 427-438. **(SCI Q1, IF: 6.6)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TNSE_PhaCIA-TCNs.pdf)   
 
+[11] Junyang Chen, Jingcai Guo\#, Xueliang Li, Huan Wang, **Zhenghua Xu**, Zhiguo Gong, Liangjie Zhang, Victor C. M. Leung. CGraphNet: Contrastive Graph Context Prediction for Sparse Unlabeled Short Text Representation Learning on Social Media. IEEE Transactions on Computational Social System, 2024, Early Access. (SCI Q1, IF: 4.2)  
+[[Download paper here]](http://zhx-hebut.github.io/files/2024_TCSS_Chenjunyang.pdf)   
 
 **In 2023**
 
-[8] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. **Medical Image Analysis**, 2023, 83: 102656. **(SCI Q1, IF: 10.9)**  
+[10] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. **Medical Image Analysis**, 2023, 83: 102656. **(SCI Q1, IF: 10.9)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_MedIA.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/semi-CML-public_v2.zip) 
 
-[10] Miao Yu, Miaomiao Guo, Shuai Zhang, Yuefu Zhan, Mingkang Zhao, Thomas Lukasiewicz, **Zhenghua Xu\***. RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising. **Computers in Biology and Medicine (CIBM)**, 2023, 167: 107632. **(SCI Q1, IF: 7.7)**  
+[11] Miao Yu, Miaomiao Guo, Shuai Zhang, Yuefu Zhan, Mingkang Zhao, Thomas Lukasiewicz, **Zhenghua Xu\***. RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising. **Computers in Biology and Medicine (CIBM)**, 2023, 167: 107632. **(SCI Q1, IF: 7.7)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_RIRGAN.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/rirgan.zip)    
 
-[11] **Zhenghua Xu\***, Xudong Zhang, Hexiang Zhang\*, Yunxin Liu, Yuefu Zhan\*, Thomas Lukasiewicz. EFPN: Effective Medical Image Detection Using Feature Pyramid Fusion Enhancement. **Computers in Biology and Medicine (CIBM)**, 2023, 163: 107149. **(SCI Q1, IF: 7.7)**  
+[12] **Zhenghua Xu\***, Xudong Zhang, Hexiang Zhang\*, Yunxin Liu, Yuefu Zhan\*, Thomas Lukasiewicz. EFPN: Effective Medical Image Detection Using Feature Pyramid Fusion Enhancement. **Computers in Biology and Medicine (CIBM)**, 2023, 163: 107149. **(SCI Q1, IF: 7.7)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_EFPN.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/EFPN.zip)  
 
-[12] Di Yuan, **Zhenghua Xu\***, Biao Tian, Hening Wang, Yuefu Zhan, Thomas Lukasiewicz. μ-Net: Medical Image Segmentation Using Efficient and Effective Deep Supervision. **Computers in Biology and Medicine (CIBM)**, 2023, 160: 106963. **(SCI Q1, IF: 7.7)**  
+[13] Di Yuan, **Zhenghua Xu\***, Biao Tian, Hening Wang, Yuefu Zhan, Thomas Lukasiewicz. μ-Net: Medical Image Segmentation Using Efficient and Effective Deep Supervision. **Computers in Biology and Medicine (CIBM)**, 2023, 160: 106963. **(SCI Q1, IF: 7.7)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_CIBM_Yuan_2.pdf)  [[Code Release]](http://zhx-hebut.github.io/files/code_release/mu-net-public.zip)  
 
 [13] Di Yuan, Yunxin Liu\*, **Zhenghua Xu\***, Yuefu Zhan, Junyang Chen, Thomas Lukasiewicz. Painless and Accurate Medical Image Analysis Using Deep Reinforcement Learning with Task-Oriented Homogenized Automatic Pre-Processing. **Computers in Biology and Medicine (CIBM)**, 2023, 153：106487. **(SCI Q1, IF: 7.7)**  
